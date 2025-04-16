@@ -1,0 +1,32 @@
+{
+  "enrollments": {
+    "enrollmentId1": {
+      "userId": "users/-ONlEUzsNjyLCaeClAan",
+      "courseId": "courses/Busniess/management.json#1",
+      "progress": 75,
+      "completed": false,
+      "enrolledAt": "2023-10-01T12:00:00Z"
+    },
+    "enrollmentId2": {
+      "userId": "users/-ONlEUzt0NFc7FsTYKeq",
+      "courseId": "courses/Busniess/communications.json#2",
+      "progress": 100,
+      "completed": true,
+      "enrolledAt": "2023-09-15T08:30:00Z"
+    },
+    "enrollmentId3": {
+      "userId": "users/-ONlEUzt0NFc7FsTYKer",
+      "courseId": "courses/Development/WebDevelopment.json#1",
+      "progress": 50,
+      "completed": false,
+      "enrolledAt": "2023-08-20T10:00:00Z"
+    },
+    "enrollmentId4": {
+      "userId": "users/-ONlEUzubFK7pII8CXfg",
+      "courseId": "courses/Development/WebDevelopment.json#2",
+      "progress": 30,
+      "completed": false,
+      "enrolledAt": "2023-07-10T14:00:00Z"
+    }
+  }
+}
