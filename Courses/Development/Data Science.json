@@ -58,7 +58,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4369088_cd1f.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4369088_cd1f.jpg",
+    "category": "Development"
   },
   {
     "title": "Mastering SVM: A Comprehensive Guide with Code in Python",
@@ -145,7 +146,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5153394_bded_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5153394_bded_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Data Science 400+ Scenario Questions for Job Success",
@@ -155,7 +157,8 @@
     "requirements": [],
     "whatYouWillLearn": [],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5541474_c3a3_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5541474_c3a3_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Performing Crossed ANOVA Gage R&R Using Excel 365",
@@ -195,7 +198,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5975054_4d1b.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5975054_4d1b.jpg",
+     "category": "Development"
   },
   {
     "title": "Data Analysis with SQL & RUST DataFusion",
@@ -253,7 +257,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6035678_e29e_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6035678_e29e_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Mastering GANs: Image Generation with Python and GauGAN",
@@ -325,7 +330,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6069127_1a0e.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6069127_1a0e.jpg",
+     "category": "Development"
   },
   {
     "title": "ChatGPT API & Postman For Developers: Step by Step API Guide",
@@ -419,7 +425,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5677772_1b5d.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5677772_1b5d.jpg",
+     "category": "Development"
   },
   {
     "title": "Associate Certified Analytics Professional (aCAP) Exams 2025",
@@ -429,7 +436,8 @@
     "requirements": [],
     "whatYouWillLearn": [],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6237481_cb9a.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6237481_cb9a.jpg",
+     "category": "Development"
   },
   {
     "title": "Introduction to Reinforcement Learning (RL)",
@@ -447,7 +455,8 @@
       "Mastering Exploration vs. Exploitation"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6275917_5a35_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6275917_5a35_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Streamlit Course - Create Python Web Apps Fast & Easy!",
@@ -505,7 +514,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6541309_4f48.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6541309_4f48.jpg",
+     "category": "Development"
   },
   {
     "title": "Foundations of A.I.: Actions Under Uncertainty",
@@ -581,7 +591,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5677062_2e98.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5677062_2e98.jpg",
+     "category": "Development"
   },
   {
     "title": "25 Key Machine Learning Algorithms - Math, Intuition, Python",
@@ -684,7 +695,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6441831_d5a4_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6441831_d5a4_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Shiny for Python Masterclass: Build Dashboards using Shiny",
@@ -809,7 +821,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6328699_f4aa_9.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6328699_f4aa_9.jpg",
+     "category": "Development"
   },
   {
     "title": "Optimization Principles (Pyomo, GAMS & Mosel)",
@@ -826,7 +839,8 @@
       "FAST HELP WITHIN HOURS: Have questions or need guidance? Send a message and get a response within hours!"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6350149_51ed_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6350149_51ed_4.jpg",
+     "category": "Development"
   },
   {
     "title": "From Recipe to Chef: Become an LLM Engineer 100+ Projects",
@@ -966,7 +980,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6561937_c4ca_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6561937_c4ca_3.jpg",
+    "category": "Development"
   },
   {
     "title": "Analysing Tweets using R",
@@ -1051,7 +1066,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/2922202_84ad_6.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/2922202_84ad_6.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Data Analyst Portfolio Creation to Build Practical Skills",
@@ -1114,7 +1131,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6524143_8fe3_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6524143_8fe3_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Visualization for Data Science using Python",
@@ -1239,7 +1258,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5127094_22eb.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5127094_22eb.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Advanced course- Data Science, Machine Learning, Java",
@@ -1256,7 +1277,9 @@
       "Learn Artificial Intelligence"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4547354_5dea_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4547354_5dea_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Python | Python Projects & Quizzes for Python Data Science",
@@ -1490,7 +1513,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5289386_0335.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5289386_0335.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Master Classification with Pandas and Python [2025]",
@@ -1622,7 +1647,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6049539_4ee8.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6049539_4ee8.jpg",
+    "category": "Development"
+
   },
   {
     "title": "PyTorch: Deep Learning Through Object Detection",
@@ -1691,7 +1718,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5142566_2da3_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5142566_2da3_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Quantizing LLMs with PyTorch and Hugging Face",
@@ -1747,7 +1776,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6287745_9734_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6287745_9734_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "No More Lucky Models: The Art & Science of Model Validation",
@@ -1909,7 +1940,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6504223_71d7.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6504223_71d7.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Data Wrangling with Python: Ultimate Practice/Learning Test",
@@ -1931,7 +1964,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6116639_8445_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6116639_8445_2.jpg",
+    "category": "Development"
   },
   {
     "title": "Machine Learning Masterclass",
@@ -2067,7 +2101,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6109791_d839.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6109791_d839.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Business Analytics with R: A Comprehensive Guide",
@@ -2240,7 +2276,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6333851_421a.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6333851_421a.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Salesforce Certified AI Specialist - Mock Exams",
@@ -2262,7 +2300,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6267199_edce_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6267199_edce_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "500+ NumPY Interview Questions Practice Test",
@@ -2284,7 +2324,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5995298_263c.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5995298_263c.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Learn Self Driving Car , ML , Python, CV ,DL, in 1 course",
@@ -2420,7 +2462,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4882000_89f5_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4882000_89f5_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Master Machine Learning with Practical Case Studies",
@@ -2445,7 +2489,9 @@
       "Build XGBRegressor Model"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6130505_439f_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6130505_439f_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Interactive Map Visualization with Kepler GL and Streamlit",
@@ -2511,7 +2557,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6226707_4678_12.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6226707_4678_12.jpg",
+    "category": "Development"
+
   },
   {
     "title": "The Complete OpenAI and GPT Course in Python w/ Q&A Chatbot",
@@ -2607,7 +2655,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5147194_6558_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5147194_6558_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Time Series Analysis:Hands-On Projects & Advanced Techniques",
@@ -2757,7 +2807,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4533422_7e00_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4533422_7e00_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "The Complete Quantum Computing Course with Python [2025]",
@@ -2917,7 +2969,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6483743_7417.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6483743_7417.jpg",
+    "category": "Development"
+
   },
   {
     "title": "ChatGPT Unveiling the Basics, Advancement, Inner Workings",
@@ -2972,7 +3026,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5420098_4ec2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5420098_4ec2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Fundamentals of image smoothing",
@@ -3034,7 +3090,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/2704756_9543_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/2704756_9543_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Data Manipulation in Python: A Pandas Crash Course 2025",
@@ -3127,7 +3185,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5615262_3a71_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5615262_3a71_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Mastering Classification Metrics: Beyond Accuracy",
@@ -3197,7 +3257,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5141392_8584_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5141392_8584_4.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Mastering Pandas: 300 Practice MCQs for Data Analysis",
@@ -3219,7 +3281,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5971304_306b_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5971304_306b_4.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Mastering Statistics: Fundamentals to Data Analysis",
@@ -3329,7 +3393,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5450206_c1a8_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5450206_c1a8_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Web scraping and data analysis with Python",
@@ -3395,7 +3461,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5683508_58f7.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5683508_58f7.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Build Powerful SAAS Business with OpenAI API and Formwise",
@@ -3448,7 +3516,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5784866_f76c_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5784866_f76c_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Data Analyst Portfolio Creation to Build Practical Skills",
@@ -3476,7 +3546,9 @@
       "Develop Confidence in Presenting Work – Learn techniques to effectively communicate portfolio projects in professional settings."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6524143_8fe3_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6524143_8fe3_2.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Applied Machine Learning With Python",
@@ -3493,7 +3565,9 @@
       "Deep Learning: Artificial Neural Networks, Convolutional Neural Networks"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4666234_f9cf_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4666234_f9cf_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Customer Analytics with R and Tableau",
@@ -3540,7 +3614,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6332583_f5e5.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6332583_f5e5.jpg",
+    "category": "Development"
+
   },
   {
     "title": "AI Made Simple: A Beginner’s Guide For Everyone",
@@ -3627,7 +3703,9 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6548533_cf07_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6548533_cf07_3.jpg",
+    "category": "Development"
+
   },
   {
     "title": "Advanced course- Data Science, Machine Learning, Java",
@@ -3664,6 +3742,7 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4547354_5dea_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4547354_5dea_3.jpg",
+    "category": "Development"
   }
 ]

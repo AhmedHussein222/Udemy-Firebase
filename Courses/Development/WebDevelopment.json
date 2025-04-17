@@ -60,7 +60,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4358768_b06c_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4358768_b06c_3.jpg",
+     "category": "Development"
   },
   {
     "title": "CodeIgniter 4 APIs Development Using JWT Authentication",
@@ -150,7 +151,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5390544_7ac1.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5390544_7ac1.jpg",
+     "category": "Development"
   },
   {
     "title": "2024 Beginner's Full Stack Microservices  [Spring Boot 3.x]",
@@ -310,7 +312,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5694906_2174_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5694906_2174_4.jpg",
+     "category": "Development"
   },
   {
     "title": "Mastering React.js: Crafting Production-Grade Applications",
@@ -471,7 +474,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5662265_dc86_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5662265_dc86_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Associate Traditional Web Developer (OutSystems 11) - NEW",
@@ -490,7 +494,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5666104_8352.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5666104_8352.jpg",
+     "category": "Development"
   },
   {
     "title": "Test Your NodeJS Skills",
@@ -500,7 +505,8 @@
     "requirements": [],
     "whatYouWillLearn": [],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4906466_c5ec.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4906466_c5ec.jpg",
+     "category": "Development"
   },
   {
     "title": "Next.js 15 Ultimate Build Advanced StackOverflow Application",
@@ -678,7 +684,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6105403_51e5_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6105403_51e5_3.jpg",
+     "category": "Development"
   },
   {
     "title": "The Web Forms Master Course",
@@ -696,7 +703,8 @@
       "Integrate forms into modern JavaScript frameworks such as React, VueJs, and AlpineJs"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6082569_2aef.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6082569_2aef.jpg",
+     "category": "Development"
   },
   {
     "title": "Wordpress Beginner to Advance (Practicle Guide with No Code)",
@@ -722,7 +730,8 @@
       "Start a freelancing career or increase your chances of getting a job."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5999074_8bb8_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5999074_8bb8_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Portfolio Project: Blogging App with Node",
@@ -746,7 +755,8 @@
       "Utilize a client application to test and see your backend in action, ensuring a comprehensive understanding of the entire application workflow."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6060117_fdcd.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6060117_fdcd.jpg",
+     "category": "Development"
   },
   {
     "title": "Next.js Work Management Tool - Mongo DB , Ant-D , Tailwind",
@@ -860,7 +870,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6295191_afd7_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6295191_afd7_4.jpg",
+     "category": "Development"
   },
   {
     "title": "Laravel for Beginner Guide: Mastering the Fundamentals",
@@ -883,7 +894,8 @@
       "Sending Emails"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5794314_f330_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5794314_f330_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Next.js 14 Crash Course: Build a React App in Under an Hour",
@@ -904,7 +916,8 @@
       "Managing state and data flow in a Next.js application"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6386181_d7e2_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6386181_d7e2_2.jpg",
+     "category": "Development"
   },
   {
     "title": "Next.js 15 & OpenAI - Build AI Powered Interview Prep App",
@@ -931,7 +944,8 @@
       "Learn how to deploy full stack app on Vercel"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6398811_4fb6_6.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6398811_4fb6_6.jpg",
+     "category": "Development"
   },
   {
     "title": "WordPress Essentials : Build a Professional Website in Hours",
@@ -1033,7 +1047,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6180889_80a9_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6180889_80a9_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Next.js 14 e-Learning and Online Courses Marketplace App",
@@ -1161,7 +1176,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6125315_c6cd.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6125315_c6cd.jpg",
+     "category": "Development"
   },
   {
     "title": "WordPress Web Development Course: Zero Coding 5 in 1 Bundle",
@@ -1188,7 +1204,8 @@
       "Manage website performance, notifications, and custom features"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6253115_5713.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6253115_5713.jpg",
+     "category": "Development"
   },
   {
     "title": "Frontend Developer Interview Pro: All Levels Covered",
@@ -1210,7 +1227,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5521390_497c.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5521390_497c.jpg",
+     "category": "Development"
   },
   {
     "title": "SEO: Affiliate Marketing, for Amazon by WordPress Website",
@@ -1290,7 +1308,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4470278_995c.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4470278_995c.jpg",
+     "category": "Development"
   },
   {
     "title": "Angular and NodeJS: A Rapid Guide - Advanced",
@@ -1310,7 +1329,8 @@
       "Angular Universal"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4424818_ee87.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4424818_ee87.jpg",
+     "category": "Development"
   },
   {
     "title": "Non Fungible Token Rust Smart Contract Development for NEAR",
@@ -1409,7 +1429,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4927500_f1f8.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4927500_f1f8.jpg",
+     "category": "Development"
   },
   {
     "title": "Become A Web Developer: HTML/CSS/JavaScript/Node/Git/GitHub",
@@ -1573,7 +1594,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4945840_1025.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4945840_1025.jpg",
+     "category": "Development"
   },
   {
     "title": "Build Job Search Portal WordPress Website Like Indeed",
@@ -1624,7 +1646,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5300570_eea8.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5300570_eea8.jpg",
+     "category": "Development"
   },
   {
     "title": "ChatGPT Complete Masterclass in 2 Hours",
@@ -1744,7 +1767,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5296938_5a8d.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5296938_5a8d.jpg",
+     "category": "Development"
   },
   {
     "title": "Website Design with Google Sites",
@@ -1780,7 +1804,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5584088_6d7c_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5584088_6d7c_4.jpg",
+     "category": "Development"
   },
   {
     "title": "HTML5, CSS3, JavaScript Interview Guide: 800+ Questions-2025",
@@ -1790,7 +1815,8 @@
     "requirements": [],
     "whatYouWillLearn": [],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5695758_c069_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5695758_c069_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Web Development Course - Frontend Basics #1",
@@ -1808,7 +1834,8 @@
       "Learn how to take a desktop design and convert it into a mobile responsive design."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5428838_db96_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5428838_db96_3.jpg",
+     "category": "Development"
   },
   {
     "title": "IA Générative & ChatGPT (Javascript & Python)",
@@ -1885,7 +1912,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5428642_24e3_5.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5428642_24e3_5.jpg",
+     "category": "Development"
   },
   {
     "title": "Learn Deployment of Django App on DigitalOcean App Platform",
@@ -1902,7 +1930,8 @@
       "Learners will be able to manage and scale their deployed Django app on DigitalOcean App Platform"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5418304_2d20.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5418304_2d20.jpg",
+     "category": "Development"
   },
   {
     "title": "Let's Build a Referral System with Laravel",
@@ -1923,7 +1952,8 @@
       "Display historical referral payments for users in an organized manner."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/5998798_e10d_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5998798_e10d_4.jpg",
+     "category": "Development"
   },
   {
     "title": "Download & Setup PHP Project Management Software Quickly",
@@ -1974,7 +2004,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5224888_0975_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5224888_0975_3.jpg",
+     "category": "Development"
   },
   {
     "title": "jQuery Course for Beginners",
@@ -2031,7 +2062,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5550332_794c_7.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5550332_794c_7.jpg",
+     "category": "Development"
   },
   {
     "title": "Portfolio Project: Blogging App with React",
@@ -2160,7 +2192,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6147383_d497.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6147383_d497.jpg",
+     "category": "Development"
   },
   {
     "title": "Vue.js 3 Essentials: Build Dynamic Web Apps with Confidence",
@@ -2259,7 +2292,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6228419_1f0e_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6228419_1f0e_4.jpg",
+     "category": "Development"
   },
   {
     "title": "Twilio Voice API | Make Calls | Twiml Bins | IVR",
@@ -2309,7 +2343,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6269613_7b78.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6269613_7b78.jpg",
+     "category": "Development"
   },
   {
     "title": "Build a Full-Stack Web App Form with Python Flask and SQLite",
@@ -2382,7 +2417,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6131115_84e4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6131115_84e4.jpg",
+     "category": "Development"
   },
   {
     "title": "MERN Full Stack Web Development with ChatGPT & AI Projects",
@@ -2461,7 +2497,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6442319_c4d4_5.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6442319_c4d4_5.jpg",
+     "category": "Development"
   },
   {
     "title": "Build Freelancing Like Website With WordPress Like Fiverr",
@@ -2550,7 +2587,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4801874_c66b.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4801874_c66b.jpg",
+     "category": "Development"
   },
   {
     "title": "Build Amazing Fashion Design Blog Website with WordPress",
@@ -2567,7 +2605,8 @@
       "Building Fashion Design Blogging with Elementor too"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4401613_c7a5.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4401613_c7a5.jpg",
+     "category": "Development"
   },
   {
     "title": "Let's Build 20 ReactJs Projects",
@@ -2606,7 +2645,8 @@
       "React Vite for the final project"
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/4328926_0bb4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4328926_0bb4.jpg",
+     "category": "Development"
   },
   {
     "title": "JS Bits Bug Bash",
@@ -2702,7 +2742,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4486328_0f38_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4486328_0f38_4.jpg",
+     "category": "Development"
   },
   {
     "title": "2022 Learn HTML Web Development in 1 Hour",
@@ -2748,7 +2789,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4506428_fb90_2.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4506428_fb90_2.jpg",
+     "category": "Development"
   },
   {
     "title": "The Complete JavaScript Course 2025",
@@ -2840,7 +2882,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6492839_fafa_4.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6492839_fafa_4.jpg",
+     "category": "Development"
   },
   {
     "title": "React - Tailwind CSS Job Consultancy Website",
@@ -2936,7 +2979,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/4806254_d292_3.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/4806254_d292_3.jpg",
+     "category": "Development"
   },
   {
     "title": "Mastering WebRTC: Build a Simple SFU from Scratch",
@@ -3016,7 +3060,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/6355057_438a.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6355057_438a.jpg",
+     "category": "Development"
   },
   {
     "title": "Employee Management System with Jenkins",
@@ -3034,7 +3079,8 @@
       "Ensuring robust application performance through testing and debugging."
     ],
     "content": [],
-    "image": "https://img-c.udemycdn.com/course/240x135/6330353_f13d.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/6330353_f13d.jpg",
+     "category": "Development"
   },
   {
     "title": "Quick Jump Into Lightning Web Components!",
@@ -3146,7 +3192,8 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5965116_7ba7.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/5965116_7ba7.jpg",
+     "category": "Development"
   },
   {
     "title": "How to Create a Website with WordPress and Elementor in 2022",
@@ -3235,6 +3282,7 @@
         ]
       }
     ],
-    "image": "https://img-c.udemycdn.com/course/240x135/3479472_0e3e.jpg"
+    "image": "https://img-c.udemycdn.com/course/240x135/3479472_0e3e.jpg",
+     "category": "Development"
   }
 ]
