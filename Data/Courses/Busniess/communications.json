@@ -631,7 +631,7 @@
   {
     "title": "Developing Assertive Personality",
     "price": "Price not found",
-    "description": "Being assertive is key in life journey, assertiveness is a personality traits that is located in the middle of the personality scale or continuum, where you have passiveness on one end and aggressiveness on the other. When a person is label as assertive, it means they embody certain traits, characteristics, and behaviors that are not passive or aggressive and they can stand effectively for their own rights. Let look at this example, a person with assertive personality has the confidence to effectively, calmly, directly, and confidently communicate what they need, desire, and want while, at the same time, being respectful of others, they minimize conflict and maintaining their own boundaries.   Developing assertively is very important and it goes through a process, being assertive is a healthy social and interpersonal skill you can learn and work at, nobody is born of being assertive. It is very important to express ourselves assertively in all spheres of life, from family and friends to school and work.  Assertive individuals confront life challenges with determination and they develop the best strategies to overcome them, they do not give up in life easily. Assertiveness is a valuable traits because it helps you to reduce stress, regulate our feeling and emotions, and also aid in improving our coping skills.",
+    "description": "Being assertive is key in life journey, assertiveness is a personality traits that is located in the middle of the personality scale or continuum, where you have passiveness on one end and aggressiveness on the other. When a person is label as assertive, it means they embody certain traits, characteristics, and behaviors that are not passive or aggressive and they can stand effectively for their own rights. Let look at this example, a person with assertive personality has the confidence to effectively, calmly, directly, and confidently communicate what they need, desire, and want while, at the same time, being respectful of others, they minimize conflict and maintaining their own boundaries.   Developing assertively is very important and it goes through a process, being assertive is a healthy social and interpersonal skill you can learn and work at, nobody is born of being assertive. It is very important to express ourselves assertively in all spheres of life, from family and friends to school and work.  Assertive individuals confront life challenges with determination and they develop the best strategies to overcome them, they do not give up in life easily. Assertiveness is a valuable traits because it helps you to reduce stress, regulate our feeling and emotions, and also aid in improving our coping skills.",
     "instructor": "Eric Yeboah",
     "requirements": [
       "No special requirement",
@@ -644,13 +644,54 @@
       "Assertiveness and the four styles of communication",
       "Strategies to stand up for yourself",
       "Ways to use personality styles in your organization",
-      "How to respond to passive- aggressive comments",
+      "How to respond to passive-aggressive comments",
       "How to use the \"I\" language",
       "Working with assertive personality",
       "Assertiveness is key in risk management",
       "The limitations of niceness"
     ],
-    "content": [],
+    "content": [
+      {
+        "title": "Introduction to Assertiveness",
+        "subsections": [
+          "What is Assertiveness?Preview03:15",
+          "The Importance of Assertiveness in Daily LifePreview02:45",
+          "Understanding the Assertiveness Continuum04:10"
+        ]
+      },
+      {
+        "title": "Core Assertive Traits",
+        "subsections": [
+          "Identifying Assertive Behaviors05:20",
+          "Balancing Confidence and Respect03:50",
+          "Overcoming Barriers to Assertiveness04:30"
+        ]
+      },
+      {
+        "title": "Assertiveness in Communication",
+        "subsections": [
+          "The Four Styles of Communication06:00",
+          "Using the \"I\" Language Effectively04:15",
+          "Responding to Passive-Aggressive Comments05:10"
+        ]
+      },
+      {
+        "title": "Practical Strategies for Assertiveness",
+        "subsections": [
+          "Standing Up for Yourself with Confidence05:45",
+          "Assertiveness in Organizational Settings04:50",
+          "Managing Conflict with Assertive Techniques06:20"
+        ]
+      },
+      {
+        "title": "Conclusion and Next Steps",
+        "subsections": [
+          "Building Long-Term Assertive Habits03:30",
+          "Summary of Key Takeaways02:50",
+          "Final Thoughts and Encouragement02:40"
+        ]
+      }
+    ],
     "image": "https://img-c.udemycdn.com/course/240x135/5454126_a9b4.jpg"
   },
   {
@@ -1070,7 +1111,7 @@
         "subsections": [
           "3.1 Intro01:14",
           "3.2 Culture & Biz Tip01:49",
-          "3.3 Verb Formula review & Bank conversation03:46",
+          "3.3 Verb formula review & Bank conversation03:46",
           "3.4 Irregular Verbs02:16",
           "3.5 \"Aru\" & \"Iru\" verbs - to exist03:01",
           "3.6 \"Have you ever done\" & \"Currently doing\" Verb formulas03:36",
