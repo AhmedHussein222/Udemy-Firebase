@@ -45,12 +45,9 @@
     - order: number
 
 - enrollments (مجموعة)
-  - {enrollmentId
-} (مستند)
-    - userId: string (مرجع إلى users/{userId
-})
-    - courseId: string (مرجع إلى courses/{courseId
-})
+  - {enrollmentId} (مستند)
+    - userId: string (مرجع إلى users/{userId})
+    - courseId: string (مرجع إلى courses/{courseId })
     - progress: number (النسبة المئوية للإكمال)
     - completed: boolean
     - enrolledAt: timestamp
