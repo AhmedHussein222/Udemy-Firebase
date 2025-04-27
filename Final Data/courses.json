@@ -1,0 +1,84 @@
+{
+  "cat":[
+    {
+      "id":"75",
+      "title": "Public Speaking: Speak to Inspire, Lead, and Influence",
+      "price": "599.99",
+      "description": "Do you struggle with stage fright or lose focus during high-stakes meetings? This course is your ultimate guide to mastering public speaking and confident communication in every professional scenario.Whether addressing a large audience on stage, leading a work meeting, negotiating a deal, hosting a webinar, or presenting to a board of directors, this course provides the tools and techniques you need to succeed.What You'll Learn:The fundamentals of impactful public speaking and how to tailor your message to different audiences.Strategies to overcome fear and anxiety, transforming nerves into confidence.Practical tips to hold attention during your speech, work meetings, negotiations, etc.Solutions to handle unexpected challenges or difficult questions with composure.By the end of this course, you’ll:Be able to prepare and deliver compelling speeches for any occasion.Gain confidence in overcoming fear and connecting with your audience.Avoid common mistakes and bad habits that can weaken your presentation.Handle unexpected challenges with poise and professionalism.Public speaking isn't just about being on stage—it's about communicating persuasively and confidently in all aspects of professional life. By the end of this course, you'll have the confidence, skills, and strategies to deliver your message effectively, no matter the audience or setting.",
+      "instructor": "Banza Academy",
+      "requirements": [
+        "This course is designed for learners of all levels, with no specific prerequisites."
+      ],
+      "whatYouWillLearn": [
+        "Identify key components of effective communication",
+        "Explore proven techniques and strategies to deliver impactful speeches",
+        "Utilize practical tools and methods for thorough preparation",
+        "Learn practical steps to improve the quality of preparation and delivery",
+        "Apply techniques to manage and reduce fear effectively",
+        "Recognize and avoid common public speaking mistakes",
+        "Develop strategies to stay composed and adapt in high-pressure moments"
+      ],
+      "contentId": "75",
+      "image": "https://img-c.udemycdn.com/course/240x135/6238781_ace5.jpg",
+      "subcategory_id": 6,
+      "isFree": false
+
+
+    },
+    {
+      "id":"76",
+      "title": "Communicating change with impact",
+      "price": "599.99",
+      "description": "Communicating Change with Impact is a practical, engaging course designed to help change practitioners craft messages that truly land.Whether you’re leading Change efforts on a major transformation or supporting a small process shift, communication plays a central role in whether change succeeds — or falls flat. Yet too often, change comms are seen as an afterthought. They’re top-down, too technical, or just plain ignored.This course flips that on its head.You’ll learn how to create clear, human-centred communication that doesn’t just inform people — it moves them. That means messages that cut through the noise, resonate emotionally, build understanding, and drive real behaviour change.Grounded in a five-phase model — Hear it, Feel it, Understand it, Do it, Live it — the course walks you through the full communication journey. You’ll explore how to build awareness, create emotional connection, support action, and sustain momentum, long after go-live.Along the way, you’ll get practical tools you can use right away: comms plans, audience maps, message layering templates, and more. You’ll also see real-world examples of what works (and what doesn’t), and hear tips on how to keep your comms clear, focused, and human — even in complex environments.This course is built for real life. No jargon. No fluff. Just smart, flexible approaches you can tailor to your context, no matter the size or scope of your change.",
+      "instructor": "Toby Wragg",
+      "requirements": [
+        "There are no formal prerequisites for this course.  It’s designed to support a wide range of learners — whether you’re a full-time change practitioner or someone who finds themselves communicating change as part of your day job."
+      ],
+      "whatYouWillLearn": [
+        "Explain the strategic importance of communication in change and why it’s a core change deliverable, not just a support function.",
+        "Adopt a human-centred mindset for change comms by shifting from broadcasting to meaning-making, logic to emotion, and telling to co-creating.",
+        "Identify and segment change audiences based on roles, needs, and impact level to ensure communication is relevant and resonant.",
+        "Address both functional and emotional needs in your messaging to build trust and reduce resistance.",
+        "Develop a clear, phased communication plan that aligns messages with audience, timing, channels, and senders for maximum impact.",
+        "Craft communication that cuts through noise by using hooks, human tone, and scannable design that earns attention.",
+        "Create emotionally engaging messages that connect with what people value, using empathy, tone, and storytelling.",
+        "Structure communication using layered messaging to ensure clarity without overload, tailoring detail to different audience needs.",
+        "Use visual tools and metaphors to simplify complex ideas and help people understand the change journey.",
+        "Measure communication effectiveness using practical signals of visibility, understanding, and behaviour change — and adapt based on what you learn."
+      ],
+      "contentId": "76",
+      "image": "https://img-c.udemycdn.com/course/240x135/6538415_9441.jpg",
+      "category":"communications",
+      "subcategory_id": 6,
+      "isFree": false
+
+
+    },
+
+    {
+      "id":"77",
+      "title": "Zoom Mastery: The Ultimate Platform for Professional Meeting",
+      "price": "599.99",
+      "description": "Master Zoom Like a Pro: Elevate Your Online Meetings and WebinarsAre you ready to maximize your efficiency with Zoom and host professional, engaging meetings and webinars? Whether you're an entrepreneur, educator, business professional, or content creator, this course will teach you how to unlock the full potential of Zoom and use its advanced features to streamline your workflow.In this comprehensive Zoom Mastery course, you'll learn:1. How to navigate the Zoom platform and set up your account for success2. Step-by-step tutorials on scheduling meetings, managing participants, and optimizing settings3. How to use Zoom’s webinar tools for hosting large-scale online events4. Exploring Zoom’s AI-powered features for enhanced meeting automation and efficiency5. Managing recordings, polls, quizzes, and live streaming to increase audience engagement6. Using Zoom Whiteboards, Clips, and Surveys to boost collaboration and productivity7. Setting up Zoom Mail and business communication tools for seamless interactionBy the end of this course, you’ll have the skills to run professional Zoom meetings and webinars with confidence, automate repetitive tasks, and create a seamless virtual communication experience.Whether you're working remotely, hosting virtual events, or teaching online, this Zoom training will help you stand out, increase engagement, and make your online sessions more impactful.Enroll now and take your Zoom skills to the next level!",
+      "instructor": "Milan Milosevic #1 Public Speaking Coach in South Africa, Best-Selling Author",
+      "requirements": [
+        "Basic Computer Skills – Ability to navigate the internet, download software, and manage files.",
+        "A Zoom Account – A free or paid Zoom account to follow along with the tutorials.",
+        "A Computer or Mobile Device – A laptop, desktop, or smartphone with a stable internet connection.",
+        "A Webcam and Microphone (Optional) – Recommended for hands-on practice with meetings and webinars.",
+        "Basic Understanding of Online Meetings – No advanced experience required, but familiarity with virtual communication is helpful."
+      ],
+      "whatYouWillLearn": [
+        "How to fully optimize Zoom for online business activities",
+        "Best practices for hosting meetings and webinars with Zoom’s advanced features",
+        "Using AI tools to improve engagement and automate tasks in meetings and webinars",
+        "How to manage Zoom recordings, quizzes, and polls for better interaction",
+        "Tips for going live with Zoom and integrating it into business workflows"
+      ],
+      "contentId": "77",
+      "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
+      "subcategory_id": 6,
+      "isFree": false
+    }
+  ]
+}
