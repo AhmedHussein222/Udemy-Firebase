@@ -1,5 +1,5 @@
 {
-  "cat":[
+  "courses":[
     {
       "id":"75",
       "title": "Public Speaking: Speak to Inspire, Lead, and Influence",
@@ -25,6 +25,7 @@
 
 
     },
+
     {
       "id":"76",
       "title": "Communicating change with impact",
@@ -79,6 +80,29 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
       "subcategory_id": 6,
       "isFree": false
+    },
+    
+    {
+      "id":"78",
+      "title": "Learn Persuasion & Influence Psychology for Personal Success",
+      "price": "0",
+      "description": "Want to be more persuasive in your personal and professional life? Whether you’re negotiating a deal, leading a team, or improving relationships, mastering persuasion psychology is a game-changer.Course Title: Learn Persuasion & Influence Psychology for Personal SuccessSection 1 Introduction to Persuasion PsychologyLecture 1 Understanding the Power of PersuasionLecture 2 The Science Behind InfluenceLecture 3 Key Principles of Persuasion PsychologySection 2 Core Techniques of InfluenceLecture 4 Building Trust and CredibilityLecture 5 Emotional Appeal in PersuasionLecture 6 Using Reciprocity to Build ConnectionsSection 3 Persuasive Communication SkillsLecture 7 The Art of Active ListeningLecture 8 Crafting Persuasive MessagesLecture 9 Storytelling for Maximum InfluenceSection 4 Applying Persuasion for Personal SuccessLecture 10 Influencing Decisions in Personal RelationshipsLecture 11 Persuasion in Professional SettingsLecture 12 Creating Lasting Impact and ConfidenceThis course dives deep into scientifically proven techniques of persuasion and influence, giving you practical strategies that work in real-life situations. You'll discover how trust, emotional appeal, storytelling, and reciprocity can transform the way you communicate and connect with others.By the end of this course, you'll not only understand the principles of persuasion but also know how to apply them effectively to achieve success in various aspects of life.",
+      "instructor": "Fahad Virk",
+      "requirements": [
+        "No prior knowledge of psychology or persuasion is needed – just a willingness to learn and apply new techniques."
+      ],
+      "whatYouWillLearn": [
+        "Master persuasion psychology to influence decisions, build trust, and enhance communication in personal and professional settings.",
+        "Learn proven persuasion techniques like reciprocity, emotional appeal, and storytelling to captivate and inspire others.",
+        "Develop strong communication skills with active listening and persuasive messaging to improve relationships and leadership influence.",
+        "Apply persuasion strategies in real-life scenarios to boost confidence, negotiate effectively, and create lasting impact."
+      ],
+      "contentId": "78",
+      "image": "https://img-c.udemycdn.com/course/240x135/6514629_7f49.jpg",
+      "category":"communications",
+      "isFree": true
     }
+    
+
   ]
 }

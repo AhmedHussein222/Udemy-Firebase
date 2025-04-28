@@ -215,80 +215,7 @@
     "image": "https://img-c.udemycdn.com/course/240x135/6538415_9441.jpg",
     "category":"communications"
   },
-  {
 
-    "title": "Professional Diploma in Corporate Meetings Management",
-    "price": "Price not found",
-    "description": "The Course Getting maximum out of meetings is a one of its kind, which provides you with wide knowledge, techniques and tricks for creating success in every meetings to archive your goals in your organization, personal life and professional life.This course covers the following topicsWhat is a meeting?Communication ProcessDirections and Movements of CommunicationBarriers to CommunicationBarrier Rousers and Barrier ReducersTechniques for Improving CommunicationSome Basic Rules of CommunicationRules for Good ListeningWho is a Facilitator?Why a Facilitator is required?Roles and Competencies of Facilitator.Few Additional Points for better Understanding Start by defining clear objectives for each meeting. What do you want to accomplish? Having a specific goal in mind will help keep the meeting focused and productive. Develop a detailed agenda that outlines the topics to be discussed, the time allocated for each, and who will lead each discussion. Share the agenda with participants in advance so they can come prepared. Ensure that the right people are invited to the meeting. Only invite individuals whose presence and input are essential to achieving the meeting's objectives. Stick to the schedule. Begin and end the meeting on time. Use time management techniques to allocate appropriate time to each agenda item. Encourage participants to come prepared. This includes doing any necessary research, reviewing materials in advance, and having talking points ready. If you're the meeting facilitator, keep the discussion on track, manage time, and ensure everyone has an opportunity to speak. Encourage participation and maintain a respectful atmosphere. Encourage active listening among participants. This means truly paying attention to what others are saying and asking clarifying questions when needed. Create an environment where everyone feels comfortable contributing their ideas and opinions. Avoid dominating the discussion if you're the meeting leader.  Visual aids like slides or charts can help clarify complex information and keep the meeting engaging. Just be mindful not to overuse them. Assign someone to take meeting minutes or notes. These notes should include action items, decisions made, and any follow-up tasks. Share these notes with participants after the meeting.",
-    "instructor": "Meganathan Pandian",
-    "requirements": [
-      "No Prerequisites"
-    ],
-    "whatYouWillLearn": [
-      "What is a Meeting?",
-      "Communications Process",
-      "Roles of Facilitator",
-      "Basic Rules of Communication in a Meetings to get the Best output"
-    ],
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-
-          {
-            "title": "Introduction",
-            "time":"02:25",
-            "url":"https://www.youtube.com/shorts/S0Z0D3bMxuU"
-          }
-        ]
-      },
-      {
-        "title": "10 Best Practices for Email Deliverability",
-        "subsections": [
-
-            {
-              "title":"SPAM Trigger Words",
-              "time":"02:06",
-              "url":"https://www.youtube.com/watch?v=wvAWyeqiql4&pp=ygUnU1BBTSBUcmlnZ2VyIFdvcmRzIGNvbW11bmljYXRpb24gY291cnNl"
-            }
-        ]
-      },
-      {
-        "title": "13 Ways to Minimize SPAM Complaints",
-        "subsections": [
-
-          {
-            "title":"Protecting Your IP Address",
-            "time":"05:44",
-            "url":"https://www.youtube.com/watch?v=--onbg-jHqQ&pp=ygUvUHJvdGVjdGluZyBZb3VyIElQIEFkZHJlc3MgY29tbXVuaWNhdGlvbiBjb3Vyc2U%3D"
-          }
-        ]
-      },
-      {
-        "title": "Gowing Email Marketing",
-        "subsections": [
-          {
-            "title":"Email Marketing",
-            "time":"01:05",
-            "url":"https://www.youtube.com/shorts/ReOyGeTHwfE"
-          }
-        ]
-      },
-      {
-        "title": "Summary and Thank You!",
-        "subsections": [
-
-        {
-          "title":"Summary and Thank you!",
-          "time":"01:43",
-          "url":"https://www.youtube.com/watch?v=--onbg-jHqQ&pp=ygUvUHJvdGVjdGluZyBZb3VyIElQIEFkZHJlc3MgY29tbXVuaWNhdGlvbiBjb3Vyc2U%3D"
-        }
-        ]
-      }
-    ],
-    "image": "https://img-c.udemycdn.com/course/240x135/5571378_2fb6.jpg",
-    "category":"communications"
-  },
   {
     "id":"77",
     "title": "Zoom Mastery: The Ultimate Platform for Professional Meeting",
@@ -376,6 +303,7 @@
     "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
     "category":"communications"
   },
+  
   {
     "id":"78",
     "title": "Learn Persuasion & Influence Psychology for Personal Success",

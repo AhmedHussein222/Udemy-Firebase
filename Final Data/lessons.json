@@ -260,6 +260,67 @@
         ]
       }
     ]
+  },
+  {
+    "contentId":"78",
+    "content":[
+      {
+        "title": "Introduction",
+        "subsections": [
+  
+          {
+            "title": "Introduction",
+            "time":"02:25",
+            "url":"https://www.youtube.com/shorts/S0Z0D3bMxuU"
+          }
+        ],
+        "isFree": true
+        
+      },
+      {
+        "title": "10 Best Practices for Email Deliverability",
+        "subsections": [
+  
+            {
+              "title":"SPAM Trigger Words",
+              "time":"02:06",
+              "url":"https://www.youtube.com/watch?v=wvAWyeqiql4&pp=ygUnU1BBTSBUcmlnZ2VyIFdvcmRzIGNvbW11bmljYXRpb24gY291cnNl"
+            }
+        ]
+      },
+      {
+        "title": "13 Ways to Minimize SPAM Complaints",
+        "subsections": [
+  
+          {
+            "title":"Protecting Your IP Address",
+            "time":"05:44",
+            "url":"https://www.youtube.com/watch?v=--onbg-jHqQ&pp=ygUvUHJvdGVjdGluZyBZb3VyIElQIEFkZHJlc3MgY29tbXVuaWNhdGlvbiBjb3Vyc2U%3D"
+          }
+        ]
+      },
+      {
+        "title": "Gowing Email Marketing",
+        "subsections": [
+          {
+            "title":"Email Marketing",
+            "time":"01:05",
+            "url":"https://www.youtube.com/shorts/ReOyGeTHwfE"
+          }
+        ]
+      },
+      {
+        "title": "Summary and Thank You!",
+        "subsections": [
+  
+        {
+          "title":"Summary and Thank you!",
+          "time":"01:43",
+          "url":"https://www.youtube.com/watch?v=--onbg-jHqQ&pp=ygUvUHJvdGVjdGluZyBZb3VyIElQIEFkZHJlc3MgY29tbXVuaWNhdGlvbiBjb3Vyc2U%3D"
+        }
+        ]
+      }
+    ]
   }
 
 
