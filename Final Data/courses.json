@@ -1,5 +1,5 @@
 {
-  "cat":[
+  "courses":[
     {
       "id":"75",
       "title": "Public Speaking: Speak to Inspire, Lead, and Influence",
@@ -20,11 +20,12 @@
       ],
       "contentId": "75",
       "image": "https://img-c.udemycdn.com/course/240x135/6238781_ace5.jpg",
-      "subcategory_id": 6,
+      "subcategory_id": "6",
       "isFree": false
 
 
     },
+
     {
       "id":"76",
       "title": "Communicating change with impact",
@@ -49,12 +50,11 @@
       "contentId": "76",
       "image": "https://img-c.udemycdn.com/course/240x135/6538415_9441.jpg",
       "category":"communications",
-      "subcategory_id": 6,
+      "subcategory_id": "6",
       "isFree": false
 
 
     },
-
     {
       "id":"77",
       "title": "Zoom Mastery: The Ultimate Platform for Professional Meeting",
@@ -77,8 +77,109 @@
       ],
       "contentId": "77",
       "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
-      "subcategory_id": 6,
+      "subcategory_id": "6",
       "isFree": false
+    },
+
+
+    {
+      "id":"29",
+      "title": "Importation Made Easy Using Aliexpress As A Tool",
+      "price": "599.99",
+      "description": "Do You Want to start a profitable importation business but don’t know where to begin?Whether you're looking to import for personal use or build a successful e-commerce business, this course will take you from beginner to pro, unlocking the secrets of sourcing, importing, and selling products profitably from AliExpress.AliExpress has made global importation easier than ever—but knowing what to buy, how to buy, and how to sell is the difference between success and failure. This course will remove all guesswork and provide you with a step-by-step system to import high-demand products at low costs and resell them for maximum profit! No More Middle Man.No prior experience needed – We start from scratch and guide you every step of the way, Real-life demonstrations – Watch step-by-step how to place orders, track shipments & resolve issues, Insider secrets & expert tips – Learn hidden strategies for getting discounts, avoiding scams & selling fast, Turn your importation into profit – Master the skills to turn small investments into consistent earnings.This course is designed to give you everything you need to succeed in the AliExpress importation business! Whether you want to import for personal use or start a profitable business, this course is your shortcut to success.Enroll now and start your journey to becoming a successful importer today!",
+      "instructor": "James Ejoha",
+      "requirements": [
+        "A Laptop or A Smart phone",
+        "Internet Connection",
+        "An Email Account",
+        "A Payment Method – Such as a credit/debit card, PayPal, or other AliExpress-supported payment options for making purchases"
+      ],
+      "whatYouWillLearn": [
+        "Mastering The Importation Process",
+        "Understanding Shipping Customs And Taxes",
+        "Building A Profitable Importation Business",
+        "Handle Orders Refunds And Customer Services"
+      ],
+      "contentId": "29",
+      "image": "https://img-c.udemycdn.com/course/240x135/6469791_b1bc.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+    },
+    {
+      "id":"28",
+      "title": "Business Fundamentals",
+      "price": "99.99",
+      "description": "First of All, Thank You for Your Interest in This Course!In this course, we’ll discuss how to create a business plan using a very simple methodology.If you’re reading these lines, it’s likely because you have a business idea that you’d like to validate before launching it to the market. Perhaps you’re an experienced entrepreneur creating a business plan to secure investment and scale your existing business. Or maybe you’re a student preparing a final project and need a practical guide for reference.Whatever your motivation may be, my goal with this course is to help you:Better understand the importance of creating a business plan before taking the leap.Structure a business plan and understand the steps involved.Learn through practical examples.Create your own business plan.Entrepreneurship is challenging but incredibly rewarding for everything you can learn and achieve along the way.Creating a business plan is extremely valuable—not just because it gives you a document to present to others, but because the process itself equips you with exceptional preparation for meetings with investors, clients, or even hiring employees for your project.This course is designed to help you create a business plan using a straightforward methodology.By the end of the course, you’ll have a clearer understanding of the key concepts involved in creating a business plan, explored practical examples, and applied your new knowledge.Shall we begin?",
+      "instructor": "J. Xie",
+      "requirements": [
+        "No prior experience needed: This course is designed for beginners and anyone looking to create a business plan, whether you’re a first-time entrepreneur, a seasoned business owner, or a student.",
+        "Basic computer skills: Familiarity with tools like Microsoft Word, Google Docs, or similar platforms to draft your business plan.",
+        "Motivation and an idea (optional): While having a business idea is helpful, it’s not required—you can use the course to develop one along the way.",
+        "A willingness to learn: An open mind and enthusiasm for gaining practical insights and skills to create a professional business plan."
+      ],
+      "whatYouWillLearn": [
+        "The Importance of a Business Plan: Understand why creating a business plan is critical for the success of your idea",
+        "Step-by-Step Business Plan Creation: Learn how to structure and write a comprehensive business plan, covering all the key sections with ease.",
+        "Practical Examples and Case Studies: Gain insights from real-world examples to better understand concepts and apply them effectively.",
+        "Market Research and Analysis: Master the techniques to identify your target market, analyze competitors, and position your business for success.",
+        "Financial Planning: Learn how to create financial projections, estimate costs, and determine your break-even point to convince investors"
+      ],
+      "contentId": "28",
+      "image": "https://img-c.udemycdn.com/course/240x135/6361993_57dd.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+
+    },
+    {
+      "id":"30",
+      "title": "Fiverr 2023: Learn The Basics And Start Selling!",
+      "price": "399.99",
+      "description": "Hi Future Fiverr Sellers, my name is Muhammad Hashir, and I have years of Fiverr experience. I am well-versed in Fiverr SEO and Graphic Design. I also run the largest Fiverr community on Discord, with over 3900 members. My sales strategies have been updated to work with the Fiverr 2023 algorithms. You will be given lifetime access to a private Discord server after purchasing this course, where you can ask me questions about the course and talk to your fellow sellers.Do you need help getting started on Fiverr or perhaps you can't get any sales?  Then this is the course for you. In this course, you will learn how to finish your profile, create professional gigs, and Fiverr Search Engine Optimization (SEO) within the site. Below are some of the essential things you will learn:- How to write a clear, professional, and word-rich description- How to get the top 10% in Fiverr Tests by providing answer keys through Discord.- How to find buyers with eye-catching photos- How to write a clear title- How to use Fiverr gig analytics your advantage- Certificate of Completion- Access to a private Discord Server- Lifetime Seller SupportI look forward to helping you get started with your Fiverr career and hope I can get your gigs kick-started.",
+      "instructor": "Muhammad Hashir",
+      "requirements": [
+        "There are no requirements for experience, Just have a Fiverr account. This course is for newbies just starting out with Fiverr."
+      ],
+      "whatYouWillLearn": [
+        "By the end of this course, you will have learned how to:  Finish your profile, create your first gig, and begin selling!",
+        "During this course, you will be learning advanced selling strategies such as Fiverr SEO, clear and word-rich descriptions, and clear titles.",
+        "This course will also teach you how to get in the top 10% of Fiverr Test Takers.",
+        "Certificate of Completion: Finishing 100% of this course will reward you with a certificate to show your dedication to the course.",
+        "You will learn how to use Fiverr gig analytics to your own advantage"
+      ],
+      "contentId": "30",
+      "image": "https://img-c.udemycdn.com/course/240x135/5429020_2394_3.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+
+    },
+
+
+  
+
+    {
+      "id":"3",
+      "title": "Digital Leadership and Management in 2025",
+      "price": "399.99",
+      "description": "Course Description: Digital Leadership and Management in 2023The Digital Leadership and Management course in 2023 is designed to equip aspiring leaders with the essential skills and knowledge to navigate the complexities of the digital age. Traditional leadership qualities alone are insufficient in today's rapidly evolving business landscape. Leaders must possess unique traditional and digital skills to lead their organizations and teams toward success effectively.This course will delve into the core competencies required for successful leadership in the digital era. Participants will learn to adapt to ever-changing business environments, harness emerging technologies, and leverage data-driven insights to make informed decisions. They will also develop a deep understanding of the importance of emotional intelligence in building strong relationships and fostering a positive work culture.The course will explore various aspects of digital leadership, including effectively communicating and collaborating in virtual teams, managing remote employees, and leveraging digital platforms for strategic planning and execution. Participants will also gain insights into digital leadership's ethical implications and challenges, such as cybersecurity and privacy concerns.By the end of the course, participants will have acquired the knowledge and skills necessary to lead in a rapidly changing digital world. They will be equipped to build high-performing teams, drive innovation, and achieve organizational objectives in 2023 and beyond.",
+      "instructor": "Michael Goedeker",
+      "requirements": [
+        "Be interested in Management and Leadership",
+        "Want to understand Leadership and Management"
+      ],
+      "whatYouWillLearn": [
+        "Understanding the definitions of Management and Leadership",
+        "Understanding what is Effective Leadership and Management",
+        "Understand different Styles of Leadership",
+        "Key Management and Leadership Principles and Practices"
+      ],
+      "contentId": "3",
+      "image": "https://img-c.udemycdn.com/course/240x135/5583024_a783.jpg",
+      "subcategory_id": "7",
+      "isFree": false
+
     }
   ]
 }
