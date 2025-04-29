@@ -1,0 +1,42 @@
+ [
+  {
+    "category_id": 1,
+    "name": "Development",
+    "slug": "development"
+  },
+  {
+    "category_id": 2,
+    "name": "Business",
+    "slug": "business"
+  },
+  {
+    "category_id": 3,
+    "name": "Finance & Accounting",
+    "slug": "finance-accounting"
+  },
+  {
+    "category_id": 4,
+    "name": "IT & Software",
+    "slug": "it-software"
+  },
+  {
+    "category_id": 5,
+    "name": "Office Productivity",
+    "slug": "office-productivity"
+  },
+  {
+    "category_id": 6,
+    "name": "Personal Development",
+    "slug": "personal-development"
+  },
+  {
+    "category_id": 7,
+    "name": "Design",
+    "slug": "design"
+  },
+  {
+    "category_id": 8,
+    "name": "Teaching & Academics",
+    "slug": "teaching-academics"
+  }
+]

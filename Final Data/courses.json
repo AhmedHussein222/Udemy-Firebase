@@ -1,0 +1,185 @@
+{
+  "courses":[
+    {
+      "id":"75",
+      "title": "Public Speaking: Speak to Inspire, Lead, and Influence",
+      "price": "599.99",
+      "description": "Do you struggle with stage fright or lose focus during high-stakes meetings? This course is your ultimate guide to mastering public speaking and confident communication in every professional scenario.Whether addressing a large audience on stage, leading a work meeting, negotiating a deal, hosting a webinar, or presenting to a board of directors, this course provides the tools and techniques you need to succeed.What You'll Learn:The fundamentals of impactful public speaking and how to tailor your message to different audiences.Strategies to overcome fear and anxiety, transforming nerves into confidence.Practical tips to hold attention during your speech, work meetings, negotiations, etc.Solutions to handle unexpected challenges or difficult questions with composure.By the end of this course, you’ll:Be able to prepare and deliver compelling speeches for any occasion.Gain confidence in overcoming fear and connecting with your audience.Avoid common mistakes and bad habits that can weaken your presentation.Handle unexpected challenges with poise and professionalism.Public speaking isn't just about being on stage—it's about communicating persuasively and confidently in all aspects of professional life. By the end of this course, you'll have the confidence, skills, and strategies to deliver your message effectively, no matter the audience or setting.",
+      "instructor": "Banza Academy",
+      "requirements": [
+        "This course is designed for learners of all levels, with no specific prerequisites."
+      ],
+      "whatYouWillLearn": [
+        "Identify key components of effective communication",
+        "Explore proven techniques and strategies to deliver impactful speeches",
+        "Utilize practical tools and methods for thorough preparation",
+        "Learn practical steps to improve the quality of preparation and delivery",
+        "Apply techniques to manage and reduce fear effectively",
+        "Recognize and avoid common public speaking mistakes",
+        "Develop strategies to stay composed and adapt in high-pressure moments"
+      ],
+      "contentId": "75",
+      "image": "https://img-c.udemycdn.com/course/240x135/6238781_ace5.jpg",
+      "subcategory_id": "6",
+      "isFree": false
+
+
+    },
+
+    {
+      "id":"76",
+      "title": "Communicating change with impact",
+      "price": "599.99",
+      "description": "Communicating Change with Impact is a practical, engaging course designed to help change practitioners craft messages that truly land.Whether you’re leading Change efforts on a major transformation or supporting a small process shift, communication plays a central role in whether change succeeds — or falls flat. Yet too often, change comms are seen as an afterthought. They’re top-down, too technical, or just plain ignored.This course flips that on its head.You’ll learn how to create clear, human-centred communication that doesn’t just inform people — it moves them. That means messages that cut through the noise, resonate emotionally, build understanding, and drive real behaviour change.Grounded in a five-phase model — Hear it, Feel it, Understand it, Do it, Live it — the course walks you through the full communication journey. You’ll explore how to build awareness, create emotional connection, support action, and sustain momentum, long after go-live.Along the way, you’ll get practical tools you can use right away: comms plans, audience maps, message layering templates, and more. You’ll also see real-world examples of what works (and what doesn’t), and hear tips on how to keep your comms clear, focused, and human — even in complex environments.This course is built for real life. No jargon. No fluff. Just smart, flexible approaches you can tailor to your context, no matter the size or scope of your change.",
+      "instructor": "Toby Wragg",
+      "requirements": [
+        "There are no formal prerequisites for this course.  It’s designed to support a wide range of learners — whether you’re a full-time change practitioner or someone who finds themselves communicating change as part of your day job."
+      ],
+      "whatYouWillLearn": [
+        "Explain the strategic importance of communication in change and why it’s a core change deliverable, not just a support function.",
+        "Adopt a human-centred mindset for change comms by shifting from broadcasting to meaning-making, logic to emotion, and telling to co-creating.",
+        "Identify and segment change audiences based on roles, needs, and impact level to ensure communication is relevant and resonant.",
+        "Address both functional and emotional needs in your messaging to build trust and reduce resistance.",
+        "Develop a clear, phased communication plan that aligns messages with audience, timing, channels, and senders for maximum impact.",
+        "Craft communication that cuts through noise by using hooks, human tone, and scannable design that earns attention.",
+        "Create emotionally engaging messages that connect with what people value, using empathy, tone, and storytelling.",
+        "Structure communication using layered messaging to ensure clarity without overload, tailoring detail to different audience needs.",
+        "Use visual tools and metaphors to simplify complex ideas and help people understand the change journey.",
+        "Measure communication effectiveness using practical signals of visibility, understanding, and behaviour change — and adapt based on what you learn."
+      ],
+      "contentId": "76",
+      "image": "https://img-c.udemycdn.com/course/240x135/6538415_9441.jpg",
+      "category":"communications",
+      "subcategory_id": "6",
+      "isFree": false
+
+
+    },
+    {
+      "id":"77",
+      "title": "Zoom Mastery: The Ultimate Platform for Professional Meeting",
+      "price": "599.99",
+      "description": "Master Zoom Like a Pro: Elevate Your Online Meetings and WebinarsAre you ready to maximize your efficiency with Zoom and host professional, engaging meetings and webinars? Whether you're an entrepreneur, educator, business professional, or content creator, this course will teach you how to unlock the full potential of Zoom and use its advanced features to streamline your workflow.In this comprehensive Zoom Mastery course, you'll learn:1. How to navigate the Zoom platform and set up your account for success2. Step-by-step tutorials on scheduling meetings, managing participants, and optimizing settings3. How to use Zoom’s webinar tools for hosting large-scale online events4. Exploring Zoom’s AI-powered features for enhanced meeting automation and efficiency5. Managing recordings, polls, quizzes, and live streaming to increase audience engagement6. Using Zoom Whiteboards, Clips, and Surveys to boost collaboration and productivity7. Setting up Zoom Mail and business communication tools for seamless interactionBy the end of this course, you’ll have the skills to run professional Zoom meetings and webinars with confidence, automate repetitive tasks, and create a seamless virtual communication experience.Whether you're working remotely, hosting virtual events, or teaching online, this Zoom training will help you stand out, increase engagement, and make your online sessions more impactful.Enroll now and take your Zoom skills to the next level!",
+      "instructor": "Milan Milosevic #1 Public Speaking Coach in South Africa, Best-Selling Author",
+      "requirements": [
+        "Basic Computer Skills – Ability to navigate the internet, download software, and manage files.",
+        "A Zoom Account – A free or paid Zoom account to follow along with the tutorials.",
+        "A Computer or Mobile Device – A laptop, desktop, or smartphone with a stable internet connection.",
+        "A Webcam and Microphone (Optional) – Recommended for hands-on practice with meetings and webinars.",
+        "Basic Understanding of Online Meetings – No advanced experience required, but familiarity with virtual communication is helpful."
+      ],
+      "whatYouWillLearn": [
+        "How to fully optimize Zoom for online business activities",
+        "Best practices for hosting meetings and webinars with Zoom’s advanced features",
+        "Using AI tools to improve engagement and automate tasks in meetings and webinars",
+        "How to manage Zoom recordings, quizzes, and polls for better interaction",
+        "Tips for going live with Zoom and integrating it into business workflows"
+      ],
+      "contentId": "77",
+      "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
+      "subcategory_id": "6",
+      "isFree": false
+    },
+
+
+    {
+      "id":"29",
+      "title": "Importation Made Easy Using Aliexpress As A Tool",
+      "price": "599.99",
+      "description": "Do You Want to start a profitable importation business but don’t know where to begin?Whether you're looking to import for personal use or build a successful e-commerce business, this course will take you from beginner to pro, unlocking the secrets of sourcing, importing, and selling products profitably from AliExpress.AliExpress has made global importation easier than ever—but knowing what to buy, how to buy, and how to sell is the difference between success and failure. This course will remove all guesswork and provide you with a step-by-step system to import high-demand products at low costs and resell them for maximum profit! No More Middle Man.No prior experience needed – We start from scratch and guide you every step of the way, Real-life demonstrations – Watch step-by-step how to place orders, track shipments & resolve issues, Insider secrets & expert tips – Learn hidden strategies for getting discounts, avoiding scams & selling fast, Turn your importation into profit – Master the skills to turn small investments into consistent earnings.This course is designed to give you everything you need to succeed in the AliExpress importation business! Whether you want to import for personal use or start a profitable business, this course is your shortcut to success.Enroll now and start your journey to becoming a successful importer today!",
+      "instructor": "James Ejoha",
+      "requirements": [
+        "A Laptop or A Smart phone",
+        "Internet Connection",
+        "An Email Account",
+        "A Payment Method – Such as a credit/debit card, PayPal, or other AliExpress-supported payment options for making purchases"
+      ],
+      "whatYouWillLearn": [
+        "Mastering The Importation Process",
+        "Understanding Shipping Customs And Taxes",
+        "Building A Profitable Importation Business",
+        "Handle Orders Refunds And Customer Services"
+      ],
+      "contentId": "29",
+      "image": "https://img-c.udemycdn.com/course/240x135/6469791_b1bc.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+    },
+    {
+      "id":"28",
+      "title": "Business Fundamentals",
+      "price": "99.99",
+      "description": "First of All, Thank You for Your Interest in This Course!In this course, we’ll discuss how to create a business plan using a very simple methodology.If you’re reading these lines, it’s likely because you have a business idea that you’d like to validate before launching it to the market. Perhaps you’re an experienced entrepreneur creating a business plan to secure investment and scale your existing business. Or maybe you’re a student preparing a final project and need a practical guide for reference.Whatever your motivation may be, my goal with this course is to help you:Better understand the importance of creating a business plan before taking the leap.Structure a business plan and understand the steps involved.Learn through practical examples.Create your own business plan.Entrepreneurship is challenging but incredibly rewarding for everything you can learn and achieve along the way.Creating a business plan is extremely valuable—not just because it gives you a document to present to others, but because the process itself equips you with exceptional preparation for meetings with investors, clients, or even hiring employees for your project.This course is designed to help you create a business plan using a straightforward methodology.By the end of the course, you’ll have a clearer understanding of the key concepts involved in creating a business plan, explored practical examples, and applied your new knowledge.Shall we begin?",
+      "instructor": "J. Xie",
+      "requirements": [
+        "No prior experience needed: This course is designed for beginners and anyone looking to create a business plan, whether you’re a first-time entrepreneur, a seasoned business owner, or a student.",
+        "Basic computer skills: Familiarity with tools like Microsoft Word, Google Docs, or similar platforms to draft your business plan.",
+        "Motivation and an idea (optional): While having a business idea is helpful, it’s not required—you can use the course to develop one along the way.",
+        "A willingness to learn: An open mind and enthusiasm for gaining practical insights and skills to create a professional business plan."
+      ],
+      "whatYouWillLearn": [
+        "The Importance of a Business Plan: Understand why creating a business plan is critical for the success of your idea",
+        "Step-by-Step Business Plan Creation: Learn how to structure and write a comprehensive business plan, covering all the key sections with ease.",
+        "Practical Examples and Case Studies: Gain insights from real-world examples to better understand concepts and apply them effectively.",
+        "Market Research and Analysis: Master the techniques to identify your target market, analyze competitors, and position your business for success.",
+        "Financial Planning: Learn how to create financial projections, estimate costs, and determine your break-even point to convince investors"
+      ],
+      "contentId": "28",
+      "image": "https://img-c.udemycdn.com/course/240x135/6361993_57dd.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+
+    },
+    {
+      "id":"30",
+      "title": "Fiverr 2023: Learn The Basics And Start Selling!",
+      "price": "399.99",
+      "description": "Hi Future Fiverr Sellers, my name is Muhammad Hashir, and I have years of Fiverr experience. I am well-versed in Fiverr SEO and Graphic Design. I also run the largest Fiverr community on Discord, with over 3900 members. My sales strategies have been updated to work with the Fiverr 2023 algorithms. You will be given lifetime access to a private Discord server after purchasing this course, where you can ask me questions about the course and talk to your fellow sellers.Do you need help getting started on Fiverr or perhaps you can't get any sales?  Then this is the course for you. In this course, you will learn how to finish your profile, create professional gigs, and Fiverr Search Engine Optimization (SEO) within the site. Below are some of the essential things you will learn:- How to write a clear, professional, and word-rich description- How to get the top 10% in Fiverr Tests by providing answer keys through Discord.- How to find buyers with eye-catching photos- How to write a clear title- How to use Fiverr gig analytics your advantage- Certificate of Completion- Access to a private Discord Server- Lifetime Seller SupportI look forward to helping you get started with your Fiverr career and hope I can get your gigs kick-started.",
+      "instructor": "Muhammad Hashir",
+      "requirements": [
+        "There are no requirements for experience, Just have a Fiverr account. This course is for newbies just starting out with Fiverr."
+      ],
+      "whatYouWillLearn": [
+        "By the end of this course, you will have learned how to:  Finish your profile, create your first gig, and begin selling!",
+        "During this course, you will be learning advanced selling strategies such as Fiverr SEO, clear and word-rich descriptions, and clear titles.",
+        "This course will also teach you how to get in the top 10% of Fiverr Test Takers.",
+        "Certificate of Completion: Finishing 100% of this course will reward you with a certificate to show your dedication to the course.",
+        "You will learn how to use Fiverr gig analytics to your own advantage"
+      ],
+      "contentId": "30",
+      "image": "https://img-c.udemycdn.com/course/240x135/5429020_2394_3.jpg",
+      "subcategory_id": "5",
+      "isFree": false
+
+
+    },
+
+
+  
+
+    {
+      "id":"3",
+      "title": "Digital Leadership and Management in 2025",
+      "price": "399.99",
+      "description": "Course Description: Digital Leadership and Management in 2023The Digital Leadership and Management course in 2023 is designed to equip aspiring leaders with the essential skills and knowledge to navigate the complexities of the digital age. Traditional leadership qualities alone are insufficient in today's rapidly evolving business landscape. Leaders must possess unique traditional and digital skills to lead their organizations and teams toward success effectively.This course will delve into the core competencies required for successful leadership in the digital era. Participants will learn to adapt to ever-changing business environments, harness emerging technologies, and leverage data-driven insights to make informed decisions. They will also develop a deep understanding of the importance of emotional intelligence in building strong relationships and fostering a positive work culture.The course will explore various aspects of digital leadership, including effectively communicating and collaborating in virtual teams, managing remote employees, and leveraging digital platforms for strategic planning and execution. Participants will also gain insights into digital leadership's ethical implications and challenges, such as cybersecurity and privacy concerns.By the end of the course, participants will have acquired the knowledge and skills necessary to lead in a rapidly changing digital world. They will be equipped to build high-performing teams, drive innovation, and achieve organizational objectives in 2023 and beyond.",
+      "instructor": "Michael Goedeker",
+      "requirements": [
+        "Be interested in Management and Leadership",
+        "Want to understand Leadership and Management"
+      ],
+      "whatYouWillLearn": [
+        "Understanding the definitions of Management and Leadership",
+        "Understanding what is Effective Leadership and Management",
+        "Understand different Styles of Leadership",
+        "Key Management and Leadership Principles and Practices"
+      ],
+      "contentId": "3",
+      "image": "https://img-c.udemycdn.com/course/240x135/5583024_a783.jpg",
+      "subcategory_id": "7",
+      "isFree": false
+
+    }
+  ]
+}
