@@ -101,7 +101,6 @@
     "slug": "other-it-software",
     "category_id": 4
   },
-
   {
     "subcategory_id": 27,
     "name": "Personal Transformation",
@@ -185,7 +184,7 @@
     "name": "Humanities",
     "slug": "humanities",
     "category_id": 8
-    },
+  },
   {
     "subcategory_id": 37,
     "name": "Math",
@@ -196,6 +195,6 @@
     "subcategory_id": 38,
     "name": "Science",
     "slug": "science",
-    "category_id": 8  
+    "category_id": 8
   }
 ]
