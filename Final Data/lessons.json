@@ -1,7 +1,6 @@
 [
   {
     "contentId": "3",
-
     "content": [
       {
         "title": "Introduction",
@@ -75,305 +74,147 @@
       }
     ]
   },
-  
   {
-    "contentId": "75",
-    "content":[
+    "contentId": "4",
+    "content": [
+      {
+        "title": "Introduction",
+        "subsections": [
+          {
+            "title": "IntroductionPreview",
+            "time": "48:36",
+            "url": "https://www.youtube.com/watch?v=abcd1234"
+          },
+          {
+            "title": "Lecture 02",
+            "time": "48:31",
+            "url": "https://www.youtube.com/watch?v=efgh5678"
+          },
+          {
+            "title": "Lecture 03",
+            "time": "01:47:49",
+            "url": "https://www.youtube.com/watch?v=ijkl9012"
+          },
+          {
+            "title": "Lecture 04",
+            "time": "23:40",
+            "url": "https://www.youtube.com/watch?v=mnop3456"
+          },
+          {
+            "title": "Lecture 05",
+            "time": "00:36",
+            "url": "https://www.youtube.com/watch?v=qrst7890"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "contentId": "8",
+    "content": [
       {
         "title": "Introduction",
         "subsections": [
           {
             "title": "Introduction",
-            "time": "02:54",
-            "url": "https://www.youtube.com/watch?v=962eYqe--Yc&pp=ygUzcHVibGljLXNwZWFraW5nLXNwZWFrLXRvLWluc3BpcmUtbGVhZC1hbmQtaW5mbHVlbmNl"
+            "time": "00:43",
+            "url": "https://www.youtube.com/watch?v=uvwx1234"
+          },
+          {
+            "title": "Meet the InstructorPreview",
+            "time": "02:53",
+            "url": "https://www.youtube.com/watch?v=yzab5678"
           }
-            ],
-        "isFree": true
-
+        ]
       },
       {
-        "title": "What is public speaking?",
+        "title": "Course Materials",
         "subsections": [
           {
-            "title": "What is public speaking?",
-            "time": "13:17",
-            "url": "https://www.youtube.com/watch?v=3G__0hU_hxI&pp=ygUYV2hhdCBpcyBwdWJsaWMgc3BlYWtpbmc_"
+            "title": "Part 1 - eSports BasicsPreview",
+            "time": "04:32",
+            "url": "https://www.youtube.com/watch?v=cdef9012"
+          },
+          {
+            "title": "Part 2 - BrandingPreview",
+            "time": "07:19",
+            "url": "https://www.youtube.com/watch?v=ghij3456"
+          },
+          {
+            "title": "Branding Article - Forbes",
+            "time": "01:15",
+            "url": "https://www.youtube.com/watch?v=klmn7890"
+          },
+          {
+            "title": "Part 3 - Sponsorship Proposals",
+            "time": "03:37",
+            "url": "https://www.youtube.com/watch?v=opqr1234"
+          },
+          {
+            "title": "Part 4 - Gaming Contracts",
+            "time": "03:51",
+            "url": "https://www.youtube.com/watch?v=stuv5678"
+          },
+          {
+            "title": "Gaming Contract Article - Insider",
+            "time": "05:11",
+            "url": "https://www.youtube.com/watch?v=wxyz9012"
           }
-        ],
-        "isFree": false
-
+        ]
       },
       {
-        "title": "Secrets of public speaking",
+        "title": "Event Organizing + Wrap Up",
         "subsections": [
           {
-            "title":"Secrets of public speakingPreview",
-            "time":"05:58",
-            "url":"https://www.youtube.com/watch?v=-FOCpMAww28&pp=ygUaU2VjcmV0cyBvZiBwdWJsaWMgc3BlYWtpbmc%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Preparing for public speaking",
-        "subsections": [
+            "title": "Part 5 - Event Organizing",
+            "time": "07:22",
+            "url": "https://www.youtube.com/watch?v=abcd3456"
+          },
           {
-            "title":"Preparing for public speaking",
-            "time":"11:23",
-            "url":"https://www.youtube.com/watch?v=i5mYphUoOCs&pp=ygUdUHJlcGFyaW5nIGZvciBwdWJsaWMgc3BlYWtpbmc%3D"
+            "title": "End of Course Wrap Up",
+            "time": "01:47",
+            "url": "https://www.youtube.com/watch?v=efgh7890"
           }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "How do you speak convincingly?",
-        "subsections": [
-          {
-            "title":"How do you speak convincingly?",
-            "time":"06:56",
-            "url":"https://www.youtube.com/watch?v=vjdNewrG20E&pp=ygUdSG93IGRvIHlvdSBzcGVhayBjb252aW5jaW5nbHk%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Сommon mistakes in preparation",
-        "subsections": [
-          {
-            "title":"Сommon mistakes in preparation",
-            "time":"07:28",
-            "url":"https://www.youtube.com/shorts/S0Z0D3bMxuU"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Fighting fear",
-        "subsections": [
-          {
-            "title":"Fighting fear",
-            "time":"10:48",
-            "url":"https://www.youtube.com/watch?v=-FyVetL1MEw&pp=ygUNRmlnaHRpbmcgZmVhcg%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Holding audience attention",
-        "subsections": [
-          {
-            "title":"Holding audience attention",
-            "time":"08:56",
-            "url":"https://www.youtube.com/watch?v=cV6aHYx6E-E&pp=ygUaSG9sZGluZyBhdWRpZW5jZSBhdHRlbnRpb24%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Top most common mistakes and harmful tips",
-        "subsections": [
-          {
-            "title":"Top most common mistakes and harmful tips",
-            "time":"05:45",
-            "url":"https://www.youtube.com/watch?v=t0pC_TBeH-w&pp=ygU9VG9wIG1vc3QgY29tbW9uIG1pc3Rha2VzIGFuZCBoYXJtZnVsIHRpcHMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Getting out of difficult situations",
-        "subsections": [
-          {
-            "title":"Getting out of difficult situations",
-            "time":"17:34",
-            "url":"https://www.youtube.com/watch?v=ShXJM70bwU0&pp=ygU3R2V0dGluZyBvdXQgb2YgZGlmZmljdWx0IHNpdHVhdGlvbnMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
-          }
-  
-          
-        ],
-        "isFree": false
+        ]
       }
     ]
   },
-  {
-    "contentId":"76",
-    "content":[
-      {
-        "title": "Introduction and overview",
-        "subsections": [
-          {
-            "title":"Why change communications matters more than everPreview",
-            "time":"2:52",
-            "url":"https://www.youtube.com/watch?v=7Rt8sgt7gNE&pp=ygVMV2h5IGNoYW5nZSBjb21tdW5pY2F0aW9ucyBtYXR0ZXJzIG1vcmUgdGhhbiBldmVyUHJldmlldyJjb21tdW5pY2F0aU9uIGNvdXJzZQ%3D%3D"
-          }
-          
-        ],
-        "isFree": true
-      },
-      {
-        "title": "Phase 1: Hear it - the first phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title":"Cutting through the noise",
-            "time":"04:46",
-            "url":"https://www.youtube.com/watch?v=UkcxKXBWio0&pp=ygUuQ3V0dGluZyB0aHJvdWdoIHRoZSBub2lzZSBjb21tdW5pY2F0aU9uIGNvdXJzZdIHCQl-CQGHKiGM7w%3D%3D"
-          }
-         
-          
-        ],
-        "isFree": true
-      },
-      {
-        "title": "Feel it - the second phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title":"From head to haert",
-            "time":"4:49",
-            "url":"https://www.youtube.com/watch?v=QGeHS4jO0X0&pp=ygUnRnJvbSBoZWFkIHRvIGhhZXJ0IGNvbW11bmljYXRpb24gY291cnNl"
-          }
-          
-          
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Understand it - the third phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title":"Building understanding through layered messaging",
-            "time":"4:56",
-            "url":"https://www.youtube.com/watch?v=Q8SFYo1nmrQ&pp=ygVFQnVpbGRpbmcgdW5kZXJzdGFuZGluZyB0aHJvdWdoIGxheWVyZWQgbWVzc2FnaW5nIGNvbW11bmljYXRpb24gY291cnNl"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Do it - the fourth phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title":"Turning communications into behaviour",
-            "time":"4:40",
-            "url":"https://www.youtube.com/watch?v=hAxCpAnV3-E&pp=ygU6VHVybmluZyBjb21tdW5pY2F0aW9ucyBpbnRvIGJlaGF2aW91ciBjb21tdW5pY2F0aW9uIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Live it - the final phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title":"Sustaining the conversation",
-            "time":"4:11",
-            "url":"https://www.youtube.com/watch?v=0g1r7v2xX4E&pp=ygUjU3VzdGFpbmluZyB0aGUgY29udmVyc2F0aW9uIGNvbW11bmljYXRpb24gY291cnNl"
-          }
-        ],
-        "isFree": false
-      }
-    ]
-  },
-  {
-    "contentId":"77", 
-    "content":[
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title":"Lead magnet videoPreview",
-            "time":"01:28",
-            "url":""
-          }
-        ]
-      },
-      {
-        "title": "Zoom client",
-        "subsections": [
-          {
-            "title":"From team chat to accessibility",
-            "time":"02:08",
-            "url":""
-          }
-        ]
-      },
-      {
-        "title": "Zoom Webinar",
-        "subsections": [
-          {
-            "title":"Ai Companion with Webinars",
-            "time":"02:00",
-            "url":""
-          }
-        ]
-      },
-      {
-        "title": "Setup",
-        "subsections": [
-
-          {
-            "title":"Setup Zoom",
-            "time":"00:57",
-            "url":""
-          }
-        ]
-      },
-      {
-        "title": "Add ons",
-        "subsections": [
-
-          {
-            "title":"Ai Companion with Meetings",
-            "time":"00:57",
-            "url":""
-          }
-        ]
-      },
-      {
-        "title": "Post Meeting",
-        "subsections": [
-          {
-            "title":"Managing Recordings",
-            "time":"01:52",
-            "url":""
-          }
-        ]
-      }
-    ]
-  }, 
 
   {
-    "contentId":"28",
-    "content":[
+    "contentId": "28",
+    "content": [
       {
         "title": "Your Business Plan Step by Step",
         "subsections": [
           {
-            "title":"Introducción",
-            "time":"2:25",
-            "url":"https://youtu.be/phPbKhgZQaw?si=6v7TZaABKNOf92UQ"
+            "title": "Introducción",
+            "time": "2:25",
+            "url": "https://youtu.be/phPbKhgZQaw?si=6v7TZaABKNOf92UQ"
           },
           {
-            "title":"What is a Business Plan and When is Needed",
-            "time":"02:56",
-            "url":"https://youtu.be/F0tkkWP72hg?si=6725e8RSuxhXBDCp"
+            "title": "What is a Business Plan and When is Needed",
+            "time": "02:56",
+            "url": "https://youtu.be/F0tkkWP72hg?si=6725e8RSuxhXBDCp"
           },
           {
-            "title":"The Importance of the Business Plan",
-            "time":"02:05",
-            "url":"https://youtu.be/bAzPWddA_90?si=7NTKLYEmlk2lNpMc"
+            "title": "The Importance of the Business Plan",
+            "time": "02:05",
+            "url": "https://youtu.be/bAzPWddA_90?si=7NTKLYEmlk2lNpMc"
           },
           {
-            "title":"The Questions that Every Business Plan must Answer",
-            "time":"03:06",
-            "url":"https://youtu.be/FA1mXzhDMxM?si=VBYcJJGBInfhzdT9"
+            "title": "The Questions that Every Business Plan must Answer",
+            "time": "03:06",
+            "url": "https://youtu.be/FA1mXzhDMxM?si=VBYcJJGBInfhzdT9"
           },
           {
-            "title":"Value Proposition",
-            "time":"04:07",
-            "url":"https://youtu.be/YcRyuP-G7KY?si=qHvKmwjL-0Lyq3nS"
+            "title": "Value Proposition",
+            "time": "04:07",
+            "url": "https://youtu.be/YcRyuP-G7KY?si=qHvKmwjL-0Lyq3nS"
           },
           {
-            "title":"Values, Mission, and Vision",
-            "time":"01:59",
-            "url":"https://youtu.be/jwZBNb7_bMA?si=FDkm1h9goyxAC33e"
+            "title": "Values, Mission, and Vision",
+            "time": "01:59",
+            "url": "https://youtu.be/jwZBNb7_bMA?si=FDkm1h9goyxAC33e"
           },
           {
             "title": "Values, Mission, and Vision",
@@ -421,79 +262,77 @@
         "title": "Business Metrics",
         "subsections": [
           {
-            "title":"Introduction",
-            "time":"01:13",
-            "url":"https://youtu.be/2a1mCpb33f0?si=_6sUdEsZG7V8jvX_"
+            "title": "Introduction",
+            "time": "01:13",
+            "url": "https://youtu.be/2a1mCpb33f0?si=_6sUdEsZG7V8jvX_"
           },
           {
-            "title":"Types of Metrics",
-            "time":"01:56",
-            "url":"https://youtu.be/8-AFABr58AM?si=t_2ea5azDZLikaH-"
+            "title": "Types of Metrics",
+            "time": "01:56",
+            "url": "https://youtu.be/8-AFABr58AM?si=t_2ea5azDZLikaH-"
           },
           {
-            "title":"Selecting the right Metrics",
-            "time":"03:06",
-            "url":"https://youtu.be/F2-5_4Vaj04?si=XgkoNE1NATifGlRM"
+            "title": "Selecting the right Metrics",
+            "time": "03:06",
+            "url": "https://youtu.be/F2-5_4Vaj04?si=XgkoNE1NATifGlRM"
           },
           {
-            "title":"evenue GrowthR",
-            "time":"02:49",
-            "url":"https://youtu.be/rZ-yV-TyfR4?si=UN0vi1TXiJ8uHCyU"
+            "title": "evenue GrowthR",
+            "time": "02:49",
+            "url": "https://youtu.be/rZ-yV-TyfR4?si=UN0vi1TXiJ8uHCyU"
           },
           {
-            "title":"Customer Acquisition Cost (CAC)",
-            "time":"01:15",
-            "url":"https://youtu.be/q92wZKTqTYQ?si=Kl76H4hKTwrXUgPg"
+            "title": "Customer Acquisition Cost (CAC)",
+            "time": "01:15",
+            "url": "https://youtu.be/q92wZKTqTYQ?si=Kl76H4hKTwrXUgPg"
           },
           {
-            "title":"Customer Lifetime Value (CLV)",
-            "time":"01:02",
-            "url":"https://youtu.be/ztie8otOW2Y?si=7ELC0P1Le9TvQfFS"
+            "title": "Customer Lifetime Value (CLV)",
+            "time": "01:02",
+            "url": "https://youtu.be/ztie8otOW2Y?si=7ELC0P1Le9TvQfFS"
           },
           {
-            "title":"Net Promoter Score (NPS)",
-            "time":"02:07",
-            "url":"https://youtu.be/Np3BdJGo23o?si=ia8IysbdG3axuiiy"
+            "title": "Net Promoter Score (NPS)",
+            "time": "02:07",
+            "url": "https://youtu.be/Np3BdJGo23o?si=ia8IysbdG3axuiiy"
           },
           {
-            "title":"Conversion Rate",
-            "time":"01:40",
-            "url":"https://youtu.be/Np3BdJGo23o?si=OI11YJJdLpLgtJ-J"
+            "title": "Conversion Rate",
+            "time": "01:40",
+            "url": "https://youtu.be/Np3BdJGo23o?si=OI11YJJdLpLgtJ-J"
           },
           {
-            "title":"Cash Flow",
-            "time":"02:41",
-            "url":"https://youtu.be/_pctLMFLvxs?si=PyZhi9Nqf94jMidF"
+            "title": "Cash Flow",
+            "time": "02:41",
+            "url": "https://youtu.be/_pctLMFLvxs?si=PyZhi9Nqf94jMidF"
           },
           {
-            "title":"Profitability Percentage",
-            "time":"02:04",
-            "url":"https://youtu.be/B7zi48n7uEo?si=58iC6LqoIXSnEvkr"
+            "title": "Profitability Percentage",
+            "time": "02:04",
+            "url": "https://youtu.be/B7zi48n7uEo?si=58iC6LqoIXSnEvkr"
           },
           {
-            "title":"Burn Rate and Runway",
-            "time":"03:20",
-            "url":"https://youtu.be/IphRqyDAi3w?si=KnbAz2dRx2heaRxc"
-          }  
+            "title": "Burn Rate and Runway",
+            "time": "03:20",
+            "url": "https://youtu.be/IphRqyDAi3w?si=KnbAz2dRx2heaRxc"
+          }
         ]
       },
       {
         "title": "Entrepreneurship: A Challenging but Rewarding Journey",
         "subsections": [
           {
-            "title":"Entrepreneurship: A Challenging but Rewarding Journey",
-            "time":"02:10",
-            "url":"https://youtu.be/F0tkkWP72hg?si=_aHEAr_EuMeZiyYr"
+            "title": "Entrepreneurship: A Challenging but Rewarding Journey",
+            "time": "02:10",
+            "url": "https://youtu.be/F0tkkWP72hg?si=_aHEAr_EuMeZiyYr"
           }
-         
         ]
       }
     ]
   },
-
   {
-    "contentId":"29",
-    "conmtent":[
+    "contentId": "29",
+    "conmtent": [
       {
         "title": "Introduction to Importation Business",
         "subsections": [
@@ -523,7 +362,6 @@
             "url": "https://youtu.be/rpsvC1B4TV0?si=BPIKauxE7tqDctPp"
           }
         ]
-        
       },
       {
         "title": "Understanding AliExpress as an Importer’s Tool",
@@ -554,11 +392,10 @@
             "url": "https://youtu.be/b3JzWJCUNf0?si=7Ms1py5cb_jeGWXT"
           }
         ]
-        
       },
       {
         "title": "Getting Started with Importation on AliExpress",
-        "subsections":[
+        "subsections": [
           {
             "title": "How to Set Up and Secure Your AliExpress Account",
             "time": "09:52",
@@ -590,7 +427,6 @@
             "url": "https://youtu.be/nFj3klC-vdM?si=0Ja4NQmmCmMSXF4T"
           }
         ]
-        
       },
       {
         "title": "Product Selection and Supplier Verification",
@@ -621,7 +457,6 @@
             "url": "https://youtu.be/850rmd6SDS8?si=A1T1lBojkQ5RQG9o"
           }
         ]
-        
       },
       {
         "title": "Shipping and Delivery Strategies",
@@ -652,7 +487,6 @@
             "url": "https://youtu.be/nzbxzRTekec?si=TgfXmgQjdZwjhwMA"
           }
         ]
-        
       },
       {
         "title": "Ordering & Payment Methods",
@@ -683,15 +517,12 @@
             "url": "https://youtu.be/rw6vpn-dN8Y?si=FWp-hAtN7pADy4L5"
           }
         ]
-        
       }
     ]
-
   },
-  
   {
-    "contentId":"30",
-    "conmtent":[
+    "contentId": "30",
+    "conmtent": [
       {
         "title": "Introduction",
         "subsections": [
@@ -706,7 +537,6 @@
             "url": "https://youtu.be/wu4LamZlpAA?si=6FJPC11PgSqB8lCj"
           }
         ]
-        
       },
       {
         "title": "How to setup your Fiverr Profile",
@@ -740,7 +570,8 @@
             "title": "How to optimize your tags to get sales",
             "time": "03:11",
             "url": "https://youtu.be/8CV2cszI6Ys?si=kHrmHdLsgaVu1H1M"
-          },  {
+          },
+          {
             "title": "How to optimize your description",
             "time": "01:36",
             "url": "https://youtu.be/0QkhAxjwyrI?si=T-uSnmrTAMTG7Rjr"
@@ -780,9 +611,259 @@
         ]
       }
     ]
+  },
 
+  {
+    "contentId": "75",
+    "content": [
+      {
+        "title": "Introduction",
+        "subsections": [
+          {
+            "title": "Introduction",
+            "time": "02:54",
+            "url": "https://www.youtube.com/watch?v=962eYqe--Yc&pp=ygUzcHVibGljLXNwZWFraW5nLXNwZWFrLXRvLWluc3BpcmUtbGVhZC1hbmQtaW5mbHVlbmNl"
+          }
+        ],
+        "isFree": true
+      },
+      {
+        "title": "What is public speaking?",
+        "subsections": [
+          {
+            "title": "What is public speaking?",
+            "time": "13:17",
+            "url": "https://www.youtube.com/watch?v=3G__0hU_hxI&pp=ygUYV2hhdCBpcyBwdWJsaWMgc3BlYWtpbmc_"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Secrets of public speaking",
+        "subsections": [
+          {
+            "title": "Secrets of public speakingPreview",
+            "time": "05:58",
+            "url": "https://www.youtube.com/watch?v=-FOCpMAww28&pp=ygUaU2VjcmV0cyBvZiBwdWJsaWMgc3BlYWtpbmc%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Preparing for public speaking",
+        "subsections": [
+          {
+            "title": "Preparing for public speaking",
+            "time": "11:23",
+            "url": "https://www.youtube.com/watch?v=i5mYphUoOCs&pp=ygUdUHJlcGFyaW5nIGZvciBwdWJsaWMgc3BlYWtpbmc%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "How do you speak convincingly?",
+        "subsections": [
+          {
+            "title": "How do you speak convincingly?",
+            "time": "06:56",
+            "url": "https://www.youtube.com/watch?v=vjdNewrG20E&pp=ygUdSG93IGRvIHlvdSBzcGVhayBjb252aW5jaW5nbHk%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Сommon mistakes in preparation",
+        "subsections": [
+          {
+            "title": "Сommon mistakes in preparation",
+            "time": "07:28",
+            "url": "https://www.youtube.com/shorts/S0Z0D3bMxuU"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Fighting fear",
+        "subsections": [
+          {
+            "title": "Fighting fear",
+            "time": "10:48",
+            "url": "https://www.youtube.com/watch?v=-FyVetL1MEw&pp=ygUNRmlnaHRpbmcgZmVhcg%3D%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Holding audience attention",
+        "subsections": [
+          {
+            "title": "Holding audience attention",
+            "time": "08:56",
+            "url": "https://www.youtube.com/watch?v=cV6aHYx6E-E&pp=ygUaSG9sZGluZyBhdWRpZW5jZSBhdHRlbnRpb24%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Top most common mistakes and harmful tips",
+        "subsections": [
+          {
+            "title": "Top most common mistakes and harmful tips",
+            "time": "05:45",
+            "url": "https://www.youtube.com/watch?v=t0pC_TBeH-w&pp=ygU9VG9wIG1vc3QgY29tbW9uIG1pc3Rha2VzIGFuZCBoYXJtZnVsIHRpcHMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Getting out of difficult situations",
+        "subsections": [
+          {
+            "title": "Getting out of difficult situations",
+            "time": "17:34",
+            "url": "https://www.youtube.com/watch?v=ShXJM70bwU0&pp=ygU3R2V0dGluZyBvdXQgb2YgZGlmZmljdWx0IHNpdHVhdGlvbnMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
+          }
+        ],
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "contentId": "76",
+    "content": [
+      {
+        "title": "Introduction and overview",
+        "subsections": [
+          {
+            "title": "Why change communications matters more than everPreview",
+            "time": "2:52",
+            "url": "https://www.youtube.com/watch?v=7Rt8sgt7gNE&pp=ygVMV2h5IGNoYW5nZSBjb21tdW5pY2F0aW9ucyBtYXR0ZXJzIG1vcmUgdGhhbiBldmVyUHJldmlldyJjb21tdW5pY2F0aU9uIGNvdXJzZQ%3D%3D"
+          }
+        ],
+        "isFree": true
+      },
+      {
+        "title": "Phase 1: Hear it - the first phase of our staggered approach to change comms",
+        "subsections": [
+          {
+            "title": "Cutting through the noise",
+            "time": "04:46",
+            "url": "https://www.youtube.com/watch?v=UkcxKXBWio0&pp=ygUuQ3V0dGluZyB0aHJvdWdoIHRoZSBub2lzZSBjb21tdW5pY2F0aU9uIGNvdXJzZdIHCQl-CQGHKiGM7w%3D%3D"
+          }
+        ],
+        "isFree": true
+      },
+      {
+        "title": "Feel it - the second phase of our staggered approach to change comms",
+        "subsections": [
+          {
+            "title": "From head to haert",
+            "time": "4:49",
+            "url": "https://www.youtube.com/watch?v=QGeHS4jO0X0&pp=ygUnRnJvbSBoZWFkIHRvIGhhZXJ0IGNvbW11bmljYXRpb24gY291cnNl"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Understand it - the third phase of our staggered approach to change comms",
+        "subsections": [
+          {
+            "title": "Building understanding through layered messaging",
+            "time": "4:56",
+            "url": "https://www.youtube.com/watch?v=Q8SFYo1nmrQ&pp=ygVFQnVpbGRpbmcgdW5kZXJzdGFuZGluZyB0aHJvdWdoIGxheWVyZWQgbWVzc2FnaW5nIGNvbW11bmljYXRpb24gY291cnNl"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Do it - the fourth phase of our staggered approach to change comms",
+        "subsections": [
+          {
+            "title": "Turning communications into behaviour",
+            "time": "4:40",
+            "url": "https://www.youtube.com/watch?v=hAxCpAnV3-E&pp=ygU6VHVybmluZyBjb21tdW5pY2F0aW9ucyBpbnRvIGJlaGF2aW91ciBjb21tdW5pY2F0aW9uIGNvdXJzZQ%3D%3D"
+          }
+        ],
+        "isFree": false
+      },
+      {
+        "title": "Live it - the final phase of our staggered approach to change comms",
+        "subsections": [
+          {
+            "title": "Sustaining the conversation",
+            "time": "4:11",
+            "url": "https://www.youtube.com/watch?v=0g1r7v2xX4E&pp=ygUjU3VzdGFpbmluZyB0aGUgY29udmVyc2F0aW9uIGNvbW11bmljYXRpb24gY291cnNl"
+          }
+        ],
+        "isFree": false
+      }
+    ]
+  },
+  {
+    "contentId": "77",
+    "content": [
+      {
+        "title": "Introduction",
+        "subsections": [
+          {
+            "title": "Lead magnet videoPreview",
+            "time": "01:28",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Zoom client",
+        "subsections": [
+          {
+            "title": "From team chat to accessibility",
+            "time": "02:08",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Zoom Webinar",
+        "subsections": [
+          {
+            "title": "Ai Companion with Webinars",
+            "time": "02:00",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Setup",
+        "subsections": [
+          {
+            "title": "Setup Zoom",
+            "time": "00:57",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Add ons",
+        "subsections": [
+          {
+            "title": "Ai Companion with Meetings",
+            "time": "00:57",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Post Meeting",
+        "subsections": [
+          {
+            "title": "Managing Recordings",
+            "time": "01:52",
+            "url": ""
+          }
+        ]
+      }
+    ]
   }
-
 
 
 
