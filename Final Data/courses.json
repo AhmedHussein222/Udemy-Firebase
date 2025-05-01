@@ -22,7 +22,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6238781_ace5.jpg",
       "subcategory_id": "6",
       "isFree": false,
-      "discount": 10
+      "discount": 10,
+      "isPublished": true
     },
     {
       "id": "76",
@@ -49,7 +50,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6538415_9441.jpg",
       "subcategory_id": "6",
       "isFree": false,
-      "discount": 15
+      "discount": 15,
+      "isPublished": true
     },
     {
       "id": "77",
@@ -75,7 +77,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6458791_2ce8_2.jpg",
       "subcategory_id": "6",
       "isFree": false,
-      "discount": 20
+      "discount": 20,
+      "isPublished": true
     },
     {
       "id": "28",
@@ -100,7 +103,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6361993_57dd.jpg",
       "subcategory_id": "5",
       "isFree": false,
-      "discount": 5
+      "discount": 5,
+      "isPublished": true
     },
     {
       "id": "29",
@@ -124,7 +128,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/6469791_b1bc.jpg",
       "subcategory_id": "5",
       "isFree": false,
-      "discount": 25
+      "discount": 25,
+      "isPublished": true
     },
     {
       "id": "30",
@@ -146,7 +151,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/5429020_2394_3.jpg",
       "subcategory_id": "5",
       "isFree": false,
-      "discount": 30
+      "discount": 30,
+      "isPublished": true
     },
     {
       "id": "3",
@@ -168,7 +174,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/5583024_a783.jpg",
       "subcategory_id": "7",
       "isFree": false,
-      "discount": 12
+      "discount": 12,
+      "isPublished": true
     },
     {
       "id": "4",
@@ -189,7 +196,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/5365528_7f76_2.jpg",
       "subcategory_id": "7",
       "isFree": false,
-      "discount": 18
+      "discount": 18,
+      "isPublished": true
     },
     {
       "id": "8",
@@ -211,7 +219,8 @@
       "image": "https://img-c.udemycdn.com/course/240x135/3307202_920d_2.jpg",
       "subcategory_id": "7",
       "isFree": false,
-      "discount": 8
+      "discount": 8,
+      "isPublished": true
     }
   ]
 }
