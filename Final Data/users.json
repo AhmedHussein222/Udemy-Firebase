@@ -1,8 +1,8 @@
 {
 	"collection": {
 		"Users": {
-			"-ONlEUzsNjyLCaeClAan": {
-				"user_id": "-ONlEUzsNjyLCaeClAan",
+			"1": {
+				"user_id": "1",
 				"email": "ahmed@gmail.com",
 				"password": "$2a$10$ExampleHashedPassword1",
 				"first_name": "Ahmed",
@@ -19,8 +19,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKeq": {
-				"user_id": "-ONlEUzt0NFc7FsTYKeq",
+			"2": {
+				"user_id": "2",
 				"email": "tgannicott1@csmonitor.com",
 				"password": "$2a$10$ExampleHashedPassword2",
 				"first_name": "Shaymaa",
@@ -37,8 +37,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKer": {
-				"user_id": "-ONlEUzt0NFc7FsTYKer",
+			"3": {
+				"user_id": "3",
 				"email": "aficken2@wired.com",
 				"password": "$2a$10$ExampleHashedPassword3",
 				"first_name": "Ali",
@@ -55,8 +55,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKes": {
-				"user_id": "-ONlEUzt0NFc7FsTYKes",
+			"4": {
+				"user_id": "4",
 				"email": "student1@example.com",
 				"password": "$2a$10$ExampleHashedPassword4",
 				"first_name": "Mohamed",
@@ -73,8 +73,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKet": {
-				"user_id": "-ONlEUzt0NFc7FsTYKet",
+			"5": {
+				"user_id": "5",
 				"email": "instructor1@example.com",
 				"password": "$2a$10$ExampleHashedPassword5",
 				"first_name": "Fatima",
@@ -91,8 +91,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKeu": {
-				"user_id": "-ONlEUzt0NFc7FsTYKeu",
+			"6": {
+				"user_id": "6",
 				"email": "student2@example.com",
 				"password": "$2a$10$ExampleHashedPassword6",
 				"first_name": "Omar",
@@ -109,8 +109,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEv": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEv",
+			"7": {
+				"user_id": "7",
 				"email": "instructor2@example.com",
 				"password": "$2a$10$ExampleHashedPassword7",
 				"first_name": "Aisha",
@@ -127,8 +127,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEw": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEw",
+			"8": {
+				"user_id": "8",
 				"email": "student3@example.com",
 				"password": "$2a$10$ExampleHashedPassword8",
 				"first_name": "Hassan",
@@ -145,8 +145,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEy": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEy",
+			"9": {
+				"user_id": "9",
 				"email": "instructor3@example.com",
 				"password": "$2a$10$ExampleHashedPassword9",
 				"first_name": "Laila",
@@ -163,8 +163,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEz": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEz",
+			"10": {
+				"user_id": "10",
 				"email": "student4@example.com",
 				"password": "$2a$10$ExampleHashedPassword10",
 				"first_name": "Youssef",
@@ -181,8 +181,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE1": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE1",
+			"11": {
+				"user_id": "11",
 				"email": "instructor4@example.com",
 				"password": "$2a$10$ExampleHashedPassword11",
 				"first_name": "Nour",
@@ -199,8 +199,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE2": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE2",
+			"12": {
+				"user_id": "12",
 				"email": "student5@example.com",
 				"password": "$2a$10$ExampleHashedPassword12",
 				"first_name": "Khaled",
@@ -217,8 +217,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE3": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE3",
+			"13": {
+				"user_id": "13",
 				"email": "instructor5@example.com",
 				"password": "$2a$10$ExampleHashedPassword13",
 				"first_name": "Huda",
@@ -235,8 +235,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE4": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE4",
+			"14": {
+				"user_id": "14",
 				"email": "student6@example.com",
 				"password": "$2a$10$ExampleHashedPassword14",
 				"first_name": "Tarek",
@@ -253,8 +253,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE5": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE5",
+			"15": {
+				"user_id": "15",
 				"email": "instructor6@example.com",
 				"password": "$2a$10$ExampleHashedPassword15",
 				"first_name": "Amal",
@@ -271,8 +271,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE6": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE6",
+			"16": {
+				"user_id": "16",
 				"email": "student7@example.com",
 				"password": "$2a$10$ExampleHashedPassword16",
 				"first_name": "Mahmoud",
@@ -289,8 +289,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE7": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE7",
+			"17": {
+				"user_id": "17",
 				"email": "instructor7@example.com",
 				"password": "$2a$10$ExampleHashedPassword17",
 				"first_name": "Mona",
@@ -307,8 +307,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE8": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE8",
+			"18": {
+				"user_id": "18",
 				"email": "student8@example.com",
 				"password": "$2a$10$ExampleHashedPassword18",
 				"first_name": "Sami",
@@ -325,8 +325,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE9": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE9",
+			"19": {
+				"user_id": "19",
 				"email": "instructor8@example.com",
 				"password": "$2a$10$ExampleHashedPassword19",
 				"first_name": "Rania",
@@ -343,8 +343,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKE0": {
-				"user_id": "-ONlEUzt0NFc7FsTYKE0",
+			"20": {
+				"user_id": "20",
 				"email": "student9@example.com",
 				"password": "$2a$10$ExampleHashedPassword20",
 				"first_name": "Ziad",
@@ -361,8 +361,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEq": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEq",
+			"21": {
+				"user_id": "21",
 				"email": "instructor9@example.com",
 				"password": "$2a$10$ExampleHashedPassword21",
 				"first_name": "Sara",
@@ -379,8 +379,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEr": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEr",
+			"22": {
+				"user_id": "22",
 				"email": "student10@example.com",
 				"password": "$2a$10$ExampleHashedPassword22",
 				"first_name": "Amr",
@@ -397,8 +397,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEe": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEe",
+			"23": {
+				"user_id": "23",
 				"email": "instructor10@example.com",
 				"password": "$2a$10$ExampleHashedPassword23",
 				"first_name": "Dina",
@@ -415,8 +415,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEt": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEt",
+			"24": {
+				"user_id": "24",
 				"email": "student11@example.com",
 				"password": "$2a$10$ExampleHashedPassword24",
 				"first_name": "Ibrahim",
@@ -433,8 +433,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEu": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEu",
+			"25": {
+				"user_id": "25",
 				"email": "instructor11@example.com",
 				"password": "$2a$10$ExampleHashedPassword25",
 				"first_name": "Hanan",
@@ -451,8 +451,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEi": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEi",
+			"26": {
+				"user_id": "26",
 				"email": "student12@example.com",
 				"password": "$2a$10$ExampleHashedPassword26",
 				"first_name": "Adel",
@@ -469,8 +469,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEo": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEo",
+			"27": {
+				"user_id": "27",
 				"email": "instructor12@example.com",
 				"password": "$2a$10$ExampleHashedPassword27",
 				"first_name": "Reem",
@@ -487,8 +487,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEp": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEp",
+			"28": {
+				"user_id": "28",
 				"email": "student13@example.com",
 				"password": "$2a$10$ExampleHashedPassword28",
 				"first_name": "Nabil",
@@ -505,8 +505,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEa": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEa",
+			"29": {
+				"user_id": "29",
 				"email": "instructor13@example.com",
 				"password": "$2a$10$ExampleHashedPassword29",
 				"first_name": "Maha",
@@ -523,8 +523,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEs": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEs",
+			"30": {
+				"user_id": "30",
 				"email": "student14@example.com",
 				"password": "$2a$10$ExampleHashedPassword30",
 				"first_name": "Karim",
@@ -541,8 +541,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEd": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEd",
+			"31": {
+				"user_id": "31",
 				"email": "instructor14@example.com",
 				"password": "$2a$10$ExampleHashedPassword31",
 				"first_name": "Salma",
@@ -559,8 +559,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEk": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEk",
+			"32": {
+				"user_id": "32",
 				"email": "student15@example.com",
 				"password": "$2a$10$ExampleHashedPassword32",
 				"first_name": "Ehab",
@@ -577,8 +577,8 @@
 					"instagram": ""
 				}
 			},
-			"-ONlEUzt0NFc7FsTYKEl": {
-				"user_id": "-ONlEUzt0NFc7FsTYKEl",
+			"33": {
+				"user_id": "33",
 				"email": "instructor15@example.com",
 				"password": "$2a$10$ExampleHashedPassword33",
 				"first_name": "Yasmin",

@@ -1,870 +1,1895 @@
-[
-  {
-    "contentId": "3",
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "Introduction to Leadership and ManagementPreview",
-            "time": "29:58",
-            "url": "https://youtu.be/phPbKhgZQaw"
-          },
-          {
-            "title": "Building Strong Leadership Foundations",
-            "time": "26:00",
-            "url": "https://youtu.be/F0tkkWP72hg"
-          },
-          {
-            "title": "Key Management Principles and Practices",
-            "time": "33:46",
-            "url": "https://youtu.be/bAzPWddA_90"
-          },
-          {
-            "title": "Leading and Motivating Teams",
-            "time": "28:31",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Effective Decision Making and Problem Solving",
-            "time": "26:37",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Leading Change and Innovation",
-            "time": "23:05",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Developing High-Performing Teams",
-            "time": "26:26",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Strategic Leadership and Organizational Development",
-            "time": "18:17",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Ethical Leadership and Corporate Social Responsibility",
-            "time": "14:11",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Leadership in the Digital Age",
-            "time": "26:02",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Matching Leadership Styles to Team Types",
-            "time": "28:16",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Successful Leadership Traits in 2023",
-            "time": "28:23",
-            "url": "https://youtu.be/703605000"
-          },
-          {
-            "title": "Understanding Leadership",
-            "time": "1 question",
-            "url": "https://youtu.be/703605000"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "4",
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "IntroductionPreview",
-            "time": "48:36",
-            "url": "https://www.youtube.com/watch?v=abcd1234"
-          },
-          {
-            "title": "Lecture 02",
-            "time": "48:31",
-            "url": "https://www.youtube.com/watch?v=efgh5678"
-          },
-          {
-            "title": "Lecture 03",
-            "time": "01:47:49",
-            "url": "https://www.youtube.com/watch?v=ijkl9012"
-          },
-          {
-            "title": "Lecture 04",
-            "time": "23:40",
-            "url": "https://www.youtube.com/watch?v=mnop3456"
-          },
-          {
-            "title": "Lecture 05",
-            "time": "00:36",
-            "url": "https://www.youtube.com/watch?v=qrst7890"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "8",
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "Introduction",
-            "time": "00:43",
-            "url": "https://www.youtube.com/watch?v=uvwx1234"
-          },
-          {
-            "title": "Meet the InstructorPreview",
-            "time": "02:53",
-            "url": "https://www.youtube.com/watch?v=yzab5678"
-          }
-        ]
-      },
-      {
-        "title": "Course Materials",
-        "subsections": [
-          {
-            "title": "Part 1 - eSports BasicsPreview",
-            "time": "04:32",
-            "url": "https://www.youtube.com/watch?v=cdef9012"
-          },
-          {
-            "title": "Part 2 - BrandingPreview",
-            "time": "07:19",
-            "url": "https://www.youtube.com/watch?v=ghij3456"
-          },
-          {
-            "title": "Branding Article - Forbes",
-            "time": "01:15",
-            "url": "https://www.youtube.com/watch?v=klmn7890"
-          },
-          {
-            "title": "Part 3 - Sponsorship Proposals",
-            "time": "03:37",
-            "url": "https://www.youtube.com/watch?v=opqr1234"
-          },
-          {
-            "title": "Part 4 - Gaming Contracts",
-            "time": "03:51",
-            "url": "https://www.youtube.com/watch?v=stuv5678"
-          },
-          {
-            "title": "Gaming Contract Article - Insider",
-            "time": "05:11",
-            "url": "https://www.youtube.com/watch?v=wxyz9012"
-          }
-        ]
-      },
-      {
-        "title": "Event Organizing + Wrap Up",
-        "subsections": [
-          {
-            "title": "Part 5 - Event Organizing",
-            "time": "07:22",
-            "url": "https://www.youtube.com/watch?v=abcd3456"
-          },
-          {
-            "title": "End of Course Wrap Up",
-            "time": "01:47",
-            "url": "https://www.youtube.com/watch?v=efgh7890"
-          }
-        ]
-      }
-    ]
-  },
 
-  {
-    "contentId": "28",
-    "content": [
-      {
-        "title": "Your Business Plan Step by Step",
-        "subsections": [
-          {
-            "title": "Introducción",
-            "time": "2:25",
-            "url": "https://youtu.be/phPbKhgZQaw?si=6v7TZaABKNOf92UQ"
-          },
-          {
-            "title": "What is a Business Plan and When is Needed",
-            "time": "02:56",
-            "url": "https://youtu.be/F0tkkWP72hg?si=6725e8RSuxhXBDCp"
-          },
-          {
-            "title": "The Importance of the Business Plan",
-            "time": "02:05",
-            "url": "https://youtu.be/bAzPWddA_90?si=7NTKLYEmlk2lNpMc"
-          },
-          {
-            "title": "The Questions that Every Business Plan must Answer",
-            "time": "03:06",
-            "url": "https://youtu.be/FA1mXzhDMxM?si=VBYcJJGBInfhzdT9"
-          },
-          {
-            "title": "Value Proposition",
-            "time": "04:07",
-            "url": "https://youtu.be/YcRyuP-G7KY?si=qHvKmwjL-0Lyq3nS"
-          },
-          {
-            "title": "Values, Mission, and Vision",
-            "time": "01:59",
-            "url": "https://youtu.be/jwZBNb7_bMA?si=FDkm1h9goyxAC33e"
-          },
-          {
-            "title": "Values, Mission, and Vision",
-            "time": "01:59",
-            "url": "https://youtu.be/jwZBNb7_bMA?si=PdtCPCcmvq1sUyLc"
-          },
-          {
-            "title": "The Team",
-            "time": "03:00",
-            "url": "https://youtu.be/fr9NqUSKXyA?si=a5ZLCIEi2E91NJUF"
-          },
-          {
-            "title": "The Product",
-            "time": "02:21",
-            "url": "https://youtu.be/1vtvriJxynE?si=-5SYkoihvUpDXQdV"
-          },
-          {
-            "title": "Competition",
-            "time": "06:03",
-            "url": "https://youtu.be/Ze-AJjHfVPU?si=eiRNvyfJW08T6VrD"
-          },
-          {
-            "title": "Potential Market",
-            "time": "02:30",
-            "url": "https://youtu.be/Ze-AJjHfVPU?si=JYmMe1QIrKnJ6DaK"
-          },
-          {
-            "title": "Financial Plan Introduction",
-            "time": "03:39",
-            "url": "https://youtu.be/0xTFWUYvp-4?si=3vl7FO3w_PDMmGW6"
-          },
-          {
-            "title": "Cash Flow Projections",
-            "time": "01:57",
-            "url": "https://youtu.be/0xTFWUYvp-4?si=3vl7FO3w_PDMmGW6"
-          },
-          {
-            "title": "Profit and Loss Projection",
-            "time": "02:01",
-            "url": "https://youtu.be/2a1mCpb33f0?si=JcFSRyS0yaTMRWeb"
-          }
-        ]
-      },
-      {
-        "title": "Business Metrics",
-        "subsections": [
-          {
-            "title": "Introduction",
-            "time": "01:13",
-            "url": "https://youtu.be/2a1mCpb33f0?si=_6sUdEsZG7V8jvX_"
-          },
-          {
-            "title": "Types of Metrics",
-            "time": "01:56",
-            "url": "https://youtu.be/8-AFABr58AM?si=t_2ea5azDZLikaH-"
-          },
-          {
-            "title": "Selecting the right Metrics",
-            "time": "03:06",
-            "url": "https://youtu.be/F2-5_4Vaj04?si=XgkoNE1NATifGlRM"
-          },
-          {
-            "title": "evenue GrowthR",
-            "time": "02:49",
-            "url": "https://youtu.be/rZ-yV-TyfR4?si=UN0vi1TXiJ8uHCyU"
-          },
-          {
-            "title": "Customer Acquisition Cost (CAC)",
-            "time": "01:15",
-            "url": "https://youtu.be/q92wZKTqTYQ?si=Kl76H4hKTwrXUgPg"
-          },
-          {
-            "title": "Customer Lifetime Value (CLV)",
-            "time": "01:02",
-            "url": "https://youtu.be/ztie8otOW2Y?si=7ELC0P1Le9TvQfFS"
-          },
-          {
-            "title": "Net Promoter Score (NPS)",
-            "time": "02:07",
-            "url": "https://youtu.be/Np3BdJGo23o?si=ia8IysbdG3axuiiy"
-          },
-          {
-            "title": "Conversion Rate",
-            "time": "01:40",
-            "url": "https://youtu.be/Np3BdJGo23o?si=OI11YJJdLpLgtJ-J"
-          },
-          {
-            "title": "Cash Flow",
-            "time": "02:41",
-            "url": "https://youtu.be/_pctLMFLvxs?si=PyZhi9Nqf94jMidF"
-          },
-          {
-            "title": "Profitability Percentage",
-            "time": "02:04",
-            "url": "https://youtu.be/B7zi48n7uEo?si=58iC6LqoIXSnEvkr"
-          },
-          {
-            "title": "Burn Rate and Runway",
-            "time": "03:20",
-            "url": "https://youtu.be/IphRqyDAi3w?si=KnbAz2dRx2heaRxc"
-          }
-        ]
-      },
-      {
-        "title": "Entrepreneurship: A Challenging but Rewarding Journey",
-        "subsections": [
-          {
-            "title": "Entrepreneurship: A Challenging but Rewarding Journey",
-            "time": "02:10",
-            "url": "https://youtu.be/F0tkkWP72hg?si=_aHEAr_EuMeZiyYr"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "29",
-    "conmtent": [
-      {
-        "title": "Introduction to Importation Business",
-        "subsections": [
-          {
-            "title": "Understanding Importation: What It Is and How It Works",
-            "time": "10:42",
-            "url": "https://youtu.be/kgN7veo9tC0?si=A8x94mr7DJYA43-k"
-          },
-          {
-            "title": "Why Choose Importation Over Other Businesses?",
-            "time": "09:32",
-            "url": "https://youtu.be/Dvm3mcvcOa0?si=Z_IIqmQ4_c2HX9Mh"
-          },
-          {
-            "title": "Benefits & Challenges of Importation",
-            "time": "08:37",
-            "url": "https://youtu.be/x0tLqtLraFg?si=NfT7zmUUTXA1tJHb"
-          },
-          {
-            "title": "Key Terminologies in Importation & E-commerce",
-            "time": "08:19",
-            "url": "https://youtu.be/ud9oIVWAvH4?si=FUcUH-MGoq81qwaV"
-          },
-          {
-            "title": "History of Global Importation & E-commerce Growth",
-            "time": "03:19",
-            "url": "https://youtu.be/rpsvC1B4TV0?si=BPIKauxE7tqDctPp"
-          }
-        ]
-      },
-      {
-        "title": "Understanding AliExpress as an Importer’s Tool",
-        "subsections": [
-          {
-            "title": "What is AliExpress? The Role of Alibaba Group",
-            "time": "12:44",
-            "url": "https://youtu.be/eXkzl7buHec?si=kIt0RNnmuIhW2JW4"
-          },
-          {
-            "title": "How AliExpress Works: A Complete Overview",
-            "time": "21:12",
-            "url": "https://youtu.be/g7xaVWXumbk?si=BFlkhq-XKaxsiJVb"
-          },
-          {
-            "title": "Pros and Cons of Using AliExpress for Importation",
-            "time": "10:31",
-            "url": "https://youtu.be/Q-dFWdPLaDM?si=Onp5nBEwkcDaN8mi"
-          },
-          {
-            "title": "The Difference Between AliExpress, Alibaba, and Other E-commerce Platforms",
-            "time": "08:04",
-            "url": "https://youtu.be/6rNfuCdrkOc?si=PcdaZ4V7PKpFyFn_"
-          },
-          {
-            "title": "Understanding the Buyer Protection Policy on AliExpress",
-            "time": "07:26",
-            "url": "https://youtu.be/b3JzWJCUNf0?si=7Ms1py5cb_jeGWXT"
-          }
-        ]
-      },
-      {
-        "title": "Getting Started with Importation on AliExpress",
-        "subsections": [
-          {
-            "title": "How to Set Up and Secure Your AliExpress Account",
-            "time": "09:52",
-            "url": "https://youtu.be/Q3OuP0vVk2s?si=esuJSda0HgA-6PqU"
-          },
-          {
-            "title": "How to Navigate the AliExpress Website & Mobile App",
-            "time": "11:47",
-            "url": "https://youtu.be/H-dRQm7cqsY?si=kGuQin9HZ7COYd2g"
-          },
-          {
-            "title": "How To Navigate the AliExpress Mobile App",
-            "time": "03:15",
-            "url": "https://youtu.be/mmOkTYwzyts?si=-B3ZR8hFtO8bkX-o"
-          },
-          {
-            "title": "Understanding Product Categories and Search Filters",
-            "time": "05:53",
-            "url": "https://youtu.be/IGjp0b-_8GY?si=5X70exn1IE1TjrAW"
-          },
-          {
-            "title": "Choosing Between Dropshipping and Bulk Importation",
-            "time": "06:22",
-            "url": "https://youtu.be/OGJg_5NVIiU?si=L5iwswnp8km6tZa1"
-          },
-          {
-            "title": "Common Mistakes Beginners Make and How to Avoid Them",
-            "time": "07:35",
-            "url": "https://youtu.be/nFj3klC-vdM?si=0Ja4NQmmCmMSXF4T"
-          }
-        ]
-      },
-      {
-        "title": "Product Selection and Supplier Verification",
-        "subsections": [
-          {
-            "title": "How to Find the Best-Selling and Profitable Products",
-            "time": "08:27",
-            "url": "https://youtu.be/z6TGZJYr-RY?si=LF0cCV8pL1G-bJpb"
-          },
-          {
-            "title": "How to Analyze Product Reviews & Seller Ratings",
-            "time": "09:49",
-            "url": "https://youtu.be/2PT9oY0KhFw?si=_bP9i-1d6lEYlRdf"
-          },
-          {
-            "title": "How to Identify Reliable and Legitimate Suppliers",
-            "time": "08:06",
-            "url": "https://youtu.be/ecPlSa0c4oU?si=K1_409u-zYXQq14C"
-          },
-          {
-            "title": "Avoiding Scams and Fraudulent Suppliers on AliExpress",
-            "time": "03:59",
-            "url": "https://youtu.be/hHoNbON3IkE?si=4NE3UZI2pKINa-AB"
-          },
-          {
-            "title": "Negotiation Tips for Getting Better Prices and Deals",
-            "time": "09:21",
-            "url": "https://youtu.be/850rmd6SDS8?si=A1T1lBojkQ5RQG9o"
-          }
-        ]
-      },
-      {
-        "title": "Shipping and Delivery Strategies",
-        "subsections": [
-          {
-            "title": "Understanding Shipping Options on AliExpress (ePacket, Standard Shipping, DHL)",
-            "time": "04:52",
-            "url": "https://youtu.be/Zy-9uZawvjA?si=P4GXfO5lZkxib-Xw"
-          },
-          {
-            "title": "How to Estimate Shipping Costs and Delivery Time",
-            "time": "03:04",
-            "url": "https://youtu.be/oNAvS1dXCcw?si=4LT8vRonO4219qR_"
-          },
-          {
-            "title": "Customs Duties, Import Taxes, and How They Affect Your Business",
-            "time": "04:45",
-            "url": "https://youtu.be/2g7tEaCIqtI?si=UxRwwNyLRb9cYQaN"
-          },
-          {
-            "title": "How to Track Your Order and Solve Delivery Issues",
-            "time": "02:54",
-            "url": "https://youtu.be/4261E4Dwu4g?si=VvYp7MEOzpAAYqo4"
-          },
-          {
-            "title": "How to Speed Up Your Delivery Process",
-            "time": "06:24",
-            "url": "https://youtu.be/nzbxzRTekec?si=TgfXmgQjdZwjhwMA"
-          }
-        ]
-      },
-      {
-        "title": "Ordering & Payment Methods",
-        "subsections": [
-          {
-            "title": "Step-by-Step Guide to Placing Your First Order",
-            "time": "03:13",
-            "url": "https://youtu.be/BBC01Rcn2L8?si=9LNxWQuKGBXifB0e"
-          },
-          {
-            "title": "Understanding AliExpress Payment Methods (Card, PayPal, Escrow, etc.)",
-            "time": "03:14",
-            "url": "https://youtu.be/ph6-6wft_0k?si=yiYvDe_HGoBMcPbp"
-          },
-          {
-            "title": "Currency Exchange, Transaction Fees, and Cost Considerations",
-            "time": "03:10",
-            "url": "https://youtu.be/CmxSR3kRt0Q?si=X8XuXWufbvFyAGwf"
-          },
-          {
-            "title": "How to Use Coupons, Discounts, and Promo Codes to Save Money",
-            "time": "02:48",
-            "url": "https://youtu.be/Nx6LP5Edb30?si=2b9WrfWpePvjRFnd"
-          },
-          {
-            "title": "Refunds, Disputes, and How to Handle Issues with Orders",
-            "time": "03:03",
-            "url": "https://youtu.be/rw6vpn-dN8Y?si=FWp-hAtN7pADy4L5"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "contentId": "30",
-    "conmtent": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "What will you learn?",
-            "time": "00:19",
-            "url": "https://youtu.be/8CV2cszI6Ys?si=kHrmHdLsgaVu1H1M"
-          },
-          {
-            "title": "How to create a Fiverr account",
-            "time": "00:50",
-            "url": "https://youtu.be/wu4LamZlpAA?si=6FJPC11PgSqB8lCj"
-          }
-        ]
-      },
-      {
-        "title": "How to setup your Fiverr Profile",
-        "subsections": [
-          {
-            "title": "How to set up your Fiverr profile",
-            "time": "02:10",
-            "url": "https://youtu.be/wu4LamZlpAA?si=6FJPC11PgSqB8lCj"
-          }
-        ]
-      },
-      {
-        "title": "Set up your first Fiverr Gig and take Fiverr Tests",
-        "subsections": [
-          {
-            "title": "Fiverr Tests",
-            "time": "02:10",
-            "url": "https://youtu.be/_j1aUul-BI8?si=C3x-e_9jaDsVqXqf"
-          },
-          {
-            "title": "Fiverr Gig setup",
-            "time": "11:10",
-            "url": "https://youtu.be/3AvJGOPw4Io?si=HYjJpzH751adpRVC"
-          }
-        ]
-      },
-      {
-        "title": "How to optimize description and tags",
-        "subsections": [
-          {
-            "title": "How to optimize your tags to get sales",
-            "time": "03:11",
-            "url": "https://youtu.be/8CV2cszI6Ys?si=kHrmHdLsgaVu1H1M"
-          },
-          {
-            "title": "How to optimize your description",
-            "time": "01:36",
-            "url": "https://youtu.be/0QkhAxjwyrI?si=T-uSnmrTAMTG7Rjr"
-          }
-        ]
-      },
-      {
-        "title": "How to analyze Fiverr analytics and how to use it to your advantage.",
-        "subsections": [
-          {
-            "title": "How to use Fiverr gig analytics",
-            "time": "03:02",
-            "url": "https://youtu.be/mpAY2tuoarg?si=6HtyEIGkQiGAWgIM"
-          }
-        ]
-      },
-      {
-        "title": "How to use Fiverr support, Fiverr Pro, and course recap.",
-        "subsections": [
-          [
-            {
-              "title": "Fiverr Support",
-              "time": "02:42",
-              "url": "https://youtu.be/AA5J8o6bPkk?si=-gIG5i0vRps1kPNd"
-            },
-            {
-              "title": "About Fiverr Pro",
-              "time": "01:45",
-              "url": "https://youtu.be/4icTUdJbUtc?si=XmCpPp30v4IoaBfK"
-            },
-            {
-              "title": "Course Recap and Key Takeaways",
-              "time": "01:58",
-              "url": "https://youtu.be/C-2jw5AQDb0?si=o7pp4pPWf0aVMeqJ"
-            }
-          ]
-        ]
-      }
-    ]
-  },
-
-  {
-    "contentId": "75",
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "Introduction",
-            "time": "02:54",
-            "url": "https://www.youtube.com/watch?v=962eYqe--Yc&pp=ygUzcHVibGljLXNwZWFraW5nLXNwZWFrLXRvLWluc3BpcmUtbGVhZC1hbmQtaW5mbHVlbmNl"
-          }
-        ],
-        "isFree": true
-      },
-      {
-        "title": "What is public speaking?",
-        "subsections": [
-          {
-            "title": "What is public speaking?",
-            "time": "13:17",
-            "url": "https://www.youtube.com/watch?v=3G__0hU_hxI&pp=ygUYV2hhdCBpcyBwdWJsaWMgc3BlYWtpbmc_"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Secrets of public speaking",
-        "subsections": [
-          {
-            "title": "Secrets of public speakingPreview",
-            "time": "05:58",
-            "url": "https://www.youtube.com/watch?v=-FOCpMAww28&pp=ygUaU2VjcmV0cyBvZiBwdWJsaWMgc3BlYWtpbmc%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Preparing for public speaking",
-        "subsections": [
-          {
-            "title": "Preparing for public speaking",
-            "time": "11:23",
-            "url": "https://www.youtube.com/watch?v=i5mYphUoOCs&pp=ygUdUHJlcGFyaW5nIGZvciBwdWJsaWMgc3BlYWtpbmc%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "How do you speak convincingly?",
-        "subsections": [
-          {
-            "title": "How do you speak convincingly?",
-            "time": "06:56",
-            "url": "https://www.youtube.com/watch?v=vjdNewrG20E&pp=ygUdSG93IGRvIHlvdSBzcGVhayBjb252aW5jaW5nbHk%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Сommon mistakes in preparation",
-        "subsections": [
-          {
-            "title": "Сommon mistakes in preparation",
-            "time": "07:28",
-            "url": "https://www.youtube.com/shorts/S0Z0D3bMxuU"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Fighting fear",
-        "subsections": [
-          {
-            "title": "Fighting fear",
-            "time": "10:48",
-            "url": "https://www.youtube.com/watch?v=-FyVetL1MEw&pp=ygUNRmlnaHRpbmcgZmVhcg%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Holding audience attention",
-        "subsections": [
-          {
-            "title": "Holding audience attention",
-            "time": "08:56",
-            "url": "https://www.youtube.com/watch?v=cV6aHYx6E-E&pp=ygUaSG9sZGluZyBhdWRpZW5jZSBhdHRlbnRpb24%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Top most common mistakes and harmful tips",
-        "subsections": [
-          {
-            "title": "Top most common mistakes and harmful tips",
-            "time": "05:45",
-            "url": "https://www.youtube.com/watch?v=t0pC_TBeH-w&pp=ygU9VG9wIG1vc3QgY29tbW9uIG1pc3Rha2VzIGFuZCBoYXJtZnVsIHRpcHMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Getting out of difficult situations",
-        "subsections": [
-          {
-            "title": "Getting out of difficult situations",
-            "time": "17:34",
-            "url": "https://www.youtube.com/watch?v=ShXJM70bwU0&pp=ygU3R2V0dGluZyBvdXQgb2YgZGlmZmljdWx0IHNpdHVhdGlvbnMgY29tbXVuaWNhdGluIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": false
-      }
-    ]
-  },
-  {
-    "contentId": "76",
-    "content": [
-      {
-        "title": "Introduction and overview",
-        "subsections": [
-          {
-            "title": "Why change communications matters more than everPreview",
-            "time": "2:52",
-            "url": "https://www.youtube.com/watch?v=7Rt8sgt7gNE&pp=ygVMV2h5IGNoYW5nZSBjb21tdW5pY2F0aW9ucyBtYXR0ZXJzIG1vcmUgdGhhbiBldmVyUHJldmlldyJjb21tdW5pY2F0aU9uIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": true
-      },
-      {
-        "title": "Phase 1: Hear it - the first phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title": "Cutting through the noise",
-            "time": "04:46",
-            "url": "https://www.youtube.com/watch?v=UkcxKXBWio0&pp=ygUuQ3V0dGluZyB0aHJvdWdoIHRoZSBub2lzZSBjb21tdW5pY2F0aU9uIGNvdXJzZdIHCQl-CQGHKiGM7w%3D%3D"
-          }
-        ],
-        "isFree": true
-      },
-      {
-        "title": "Feel it - the second phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title": "From head to haert",
-            "time": "4:49",
-            "url": "https://www.youtube.com/watch?v=QGeHS4jO0X0&pp=ygUnRnJvbSBoZWFkIHRvIGhhZXJ0IGNvbW11bmljYXRpb24gY291cnNl"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Understand it - the third phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title": "Building understanding through layered messaging",
-            "time": "4:56",
-            "url": "https://www.youtube.com/watch?v=Q8SFYo1nmrQ&pp=ygVFQnVpbGRpbmcgdW5kZXJzdGFuZGluZyB0aHJvdWdoIGxheWVyZWQgbWVzc2FnaW5nIGNvbW11bmljYXRpb24gY291cnNl"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Do it - the fourth phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title": "Turning communications into behaviour",
-            "time": "4:40",
-            "url": "https://www.youtube.com/watch?v=hAxCpAnV3-E&pp=ygU6VHVybmluZyBjb21tdW5pY2F0aW9ucyBpbnRvIGJlaGF2aW91ciBjb21tdW5pY2F0aW9uIGNvdXJzZQ%3D%3D"
-          }
-        ],
-        "isFree": false
-      },
-      {
-        "title": "Live it - the final phase of our staggered approach to change comms",
-        "subsections": [
-          {
-            "title": "Sustaining the conversation",
-            "time": "4:11",
-            "url": "https://www.youtube.com/watch?v=0g1r7v2xX4E&pp=ygUjU3VzdGFpbmluZyB0aGUgY29udmVyc2F0aW9uIGNvbW11bmljYXRpb24gY291cnNl"
-          }
-        ],
-        "isFree": false
-      }
-    ]
-  },
-  {
-    "contentId": "77",
-    "content": [
-      {
-        "title": "Introduction",
-        "subsections": [
-          {
-            "title": "Lead magnet videoPreview",
-            "time": "01:28",
-            "url": "https://www.youtube.com/watch?v=kmeaG_BQZ7M&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=1&pp=iAQB"
-          }
-        ]
-      },
-      {
-        "title": "Zoom client",
-        "subsections": [
-          {
-            "title": "From team chat to accessibility",
-            "time": "02:08",
-            "url": "https://www.youtube.com/watch?v=Fo2iyeBZtW4&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=2&pp=iAQB"
-          }
-        ]
-      },
-      {
-        "title": "Zoom Webinar",
-        "subsections": [
-          {
-            "title": "Ai Companion with Webinars",
-            "time": "02:00",
-            "url": "https://www.youtube.com/watch?v=uMWaOv9-oHo&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=3&pp=iAQB0gcJCYQJAYcqIYzv"
-          }
-        ]
-      },
-      {
-        "title": "Setup",
-        "subsections": [
-          {
-            "title": "Setup Zoom",
-            "time": "00:57",
-            "url": "https://www.youtube.com/watch?v=Ov0kBRS1tmg&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=5&pp=iAQB"
-          }
-        ]
-      },
-      {
-        "title": "Add ons",
-        "subsections": [
-          {
-            "title": "Ai Companion with Meetings",
-            "time": "00:57",
-            "url": "https://www.youtube.com/watch?v=uMWaOv9-oHo&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=3&pp=iAQB0gcJCYQJAYcqIYzv"
-          }
-        ]
-      },
-      {
-        "title": "Post Meeting",
-        "subsections": [
-          {
-            "title": "Managing Recordings",
-            "time": "01:52",
-            "url": "https://www.youtube.com/watch?v=Fo2iyeBZtW4&list=PLrjkTql3jnm_yol-ZK1QqPSn5YSg0NF9r&index=2&pp=iAQB"
-          }
-        ]
-      }
-    ]
-  }
-
-
-
-]
+{
+	"lessons": [
+		{
+			"lesson_id": 1,
+			"course_id": 4,
+			"title": "Introduction to HTML",
+			"description": "Learn the basics of HTML and its role in web development.",
+			"video_url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 2,
+			"course_id": 4,
+			"title": "HTML Tags and Structure",
+			"description": "Understand common HTML tags and document structure.",
+			"video_url": "https://www.youtube.com/watch?v=3qH9vAEPbCA",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 3,
+			"course_id": 4,
+			"title": "Creating Forms in HTML",
+			"description": "Learn how to build forms for user input in HTML.",
+			"video_url": "https://www.youtube.com/watch?v=fNc4o7UD6PA",
+			"duration": 22,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 4,
+			"course_id": 4,
+			"title": "Semantic HTML",
+			"description": "Explore semantic elements for better accessibility.",
+			"video_url": "https://www.youtube.com/watch?v=ZTNbO9jE1QU",
+			"duration": 15,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 5,
+			"course_id": 4,
+			"title": "HTML Media Elements",
+			"description": "Learn to embed images, audio, and video in HTML.",
+			"video_url": "https://www.youtube.com/watch?v=HcOc7P5BMi4",
+			"duration": 17,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 6,
+			"course_id": 4,
+			"title": "HTML Best Practices",
+			"description": "Discover tips for writing clean and maintainable HTML.",
+			"video_url": "https://www.youtube.com/watch?v=DPnqb74Smug",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 7,
+			"course_id": 5,
+			"title": "Introduction to CSS",
+			"description": "Get started with CSS for styling web pages.",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 8,
+			"course_id": 5,
+			"title": "CSS Selectors",
+			"description": "Learn how to target elements with CSS selectors.",
+			"video_url": "https://www.youtube.com/watch?v=l1mER1bV0UU",
+			"duration": 16,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 9,
+			"course_id": 5,
+			"title": "CSS Box Model",
+			"description": "Understand the box model for layout design.",
+			"video_url": "https://www.youtube.com/watch?v=rIO5326FgPE",
+			"duration": 18,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 10,
+			"course_id": 5,
+			"title": "CSS Flexbox",
+			"description": "Master flexible layouts with CSS Flexbox.",
+			"video_url": "https://www.youtube.com/watch?v=phWxA89Dy94",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 11,
+			"course_id": 5,
+			"title": "CSS Grid",
+			"description": "Learn to create grid-based layouts with CSS Grid.",
+			"video_url": "https://www.youtube.com/watch?v=0xVqVF7y76g",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 12,
+			"course_id": 5,
+			"title": "Responsive Design with CSS",
+			"description": "Create responsive layouts using media queries.",
+			"video_url": "https://www.youtube.com/watch?v=srvUrASNj0s",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 13,
+			"course_id": 6,
+			"title": "Introduction to JavaScript",
+			"description": "Learn the basics of JavaScript programming.",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 14,
+			"course_id": 6,
+			"title": "JavaScript Variables",
+			"description": "Understand variables and data types in JavaScript.",
+			"video_url": "https://www.youtube.com/watch?v=a00NREXIUbU",
+			"duration": 15,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 15,
+			"course_id": 6,
+			"title": "JavaScript Functions",
+			"description": "Learn to create and use functions in JavaScript.",
+			"video_url": "https://www.youtube.com/watch?v=xUI5Tsl2JpY",
+			"duration": 18,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 16,
+			"course_id": 6,
+			"title": "JavaScript Arrays",
+			"description": "Explore arrays and their methods in JavaScript.",
+			"video_url": "https://www.youtube.com/watch?v=7WkfzW9c9P4",
+			"duration": 20,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 17,
+			"course_id": 6,
+			"title": "JavaScript DOM Manipulation",
+			"description": "Manipulate the DOM using JavaScript.",
+			"video_url": "https://www.youtube.com/watch?v=5fb2aPlgoys",
+			"duration": 22,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 18,
+			"course_id": 6,
+			"title": "JavaScript Events",
+			"description": "Handle user interactions with JavaScript events.",
+			"video_url": "https://www.youtube.com/watch?v=7UstS0hsdog",
+			"duration": 17,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 19,
+			"course_id": 7,
+			"title": "Introduction to Python",
+			"description": "Get started with Python programming basics.",
+			"video_url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 20,
+			"course_id": 7,
+			"title": "Python Variables and Data Types",
+			"description": "Learn about variables and data types in Python.",
+			"video_url": "https://www.youtube.com/watch?v=khKv-8q7YmY",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 21,
+			"course_id": 7,
+			"title": "Python Conditionals",
+			"description": "Understand if statements and conditionals in Python.",
+			"video_url": "https://www.youtube.com/watch?v=7i3CvsE8kTU",
+			"duration": 18,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 22,
+			"course_id": 7,
+			"title": "Python Loops",
+			"description": "Explore for and while loops in Python.",
+			"video_url": "https://www.youtube.com/watch?v=6iFbuI7ArpI",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 23,
+			"course_id": 7,
+			"title": "Python Functions",
+			"description": "Learn to create and use functions in Python.",
+			"video_url": "https://www.youtube.com/watch?v=NE97ylAnI2Y",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 24,
+			"course_id": 7,
+			"title": "Python Lists",
+			"description": "Work with lists and their methods in Python.",
+			"video_url": "https://www.youtube.com/watch?v=6iFbuI7ArpI",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 25,
+			"course_id": 8,
+			"title": "Introduction to Pandas",
+			"description": "Learn the basics of Pandas for data analysis.",
+			"video_url": "https://www.youtube.com/watch?v=vmEHCJofslg",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 26,
+			"course_id": 8,
+			"title": "Pandas DataFrames",
+			"description": "Understand how to work with DataFrames in Pandas.",
+			"video_url": "https://www.youtube.com/watch?v=zBEKPcAyIAM",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 27,
+			"course_id": 8,
+			"title": "Data Cleaning with Pandas",
+			"description": "Learn techniques to clean data using Pandas.",
+			"video_url": "https://www.youtube.com/watch?v=xu2WuD_9Wjs",
+			"duration": 22,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 28,
+			"course_id": 8,
+			"title": "Pandas Filtering",
+			"description": "Filter and select data in Pandas DataFrames.",
+			"video_url": "https://www.youtube.com/watch?v=OZ1zL7lAh1Y",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 29,
+			"course_id": 8,
+			"title": "Pandas Grouping",
+			"description": "Learn to group and aggregate data in Pandas.",
+			"video_url": "https://www.youtube.com/watch?v=txMdrV1Ut6I",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 30,
+			"course_id": 8,
+			"title": "Pandas Visualization",
+			"description": "Create basic visualizations with Pandas.",
+			"video_url": "https://www.youtube.com/watch?v=9zEZm2O4xmo",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 31,
+			"course_id": 9,
+			"title": "Introduction to Machine Learning",
+			"description": "Learn the fundamentals of machine learning.",
+			"video_url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 32,
+			"course_id": 9,
+			"title": "Supervised Learning Basics",
+			"description": "Understand supervised learning concepts.",
+			"video_url": "https://www.youtube.com/watch?v=HDI9inno86U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 33,
+			"course_id": 9,
+			"title": "Unsupervised Learning Basics",
+			"description": "Explore unsupervised learning techniques.",
+			"video_url": "https://www.youtube.com/watch?v=BDIdvDmZ7A4",
+			"duration": 22,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 34,
+			"course_id": 9,
+			"title": "Data Preprocessing",
+			"description": "Learn data preprocessing for machine learning.",
+			"video_url": "https://www.youtube.com/watch?v=0xVqVF7y76g",
+			"duration": 20,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 35,
+			"course_id": 9,
+			"title": "Linear Regression",
+			"description": "Understand linear regression in machine learning.",
+			"video_url": "https://www.youtube.com/watch?v=ZkjP5RJLQF4",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 36,
+			"course_id": 9,
+			"title": "Model Evaluation",
+			"description": "Learn how to evaluate machine learning models.",
+			"video_url": "https://www.youtube.com/watch?v=whM7Ne2kTcQ",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 37,
+			"course_id": 10,
+			"title": "Web Development Overview",
+			"description": "Introduction to full-stack web development.",
+			"video_url": "https://www.youtube.com/watch?v=0LaUc439uRE",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 38,
+			"course_id": 10,
+			"title": "HTML Basics",
+			"description": "Learn core HTML for web development.",
+			"video_url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 39,
+			"course_id": 10,
+			"title": "CSS Styling",
+			"description": "Style web pages with CSS fundamentals.",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 40,
+			"course_id": 10,
+			"title": "JavaScript Basics",
+			"description": "Add interactivity with JavaScript.",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 25,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 41,
+			"course_id": 10,
+			"title": "Responsive Web Design",
+			"description": "Create responsive layouts for all devices.",
+			"video_url": "https://www.youtube.com/watch?v=srvUrASNj0s",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 42,
+			"course_id": 10,
+			"title": "Introduction to Git",
+			"description": "Learn version control with Git basics.",
+			"video_url": "https://www.youtube.com/watch?v=USjZcfj8zCQ",
+			"duration": 22,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 43,
+			"course_id": 11,
+			"title": "Data Science with Python Intro",
+			"description": "Introduction to data science using Python.",
+			"video_url": "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 44,
+			"course_id": 11,
+			"title": "NumPy for Data Science",
+			"description": "Learn NumPy for numerical computations.",
+			"video_url": "https://www.youtube.com/watch?v=xECXZ3tyONo",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 45,
+			"course_id": 11,
+			"title": "Pandas for Data Analysis",
+			"description": "Analyze data using Pandas library.",
+			"video_url": "https://www.youtube.com/watch?v=vmEHCJofslg",
+			"duration": 25,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 46,
+			"course_id": 11,
+			"title": "Matplotlib Visualization",
+			"description": "Create visualizations with Matplotlib.",
+			"video_url": "https://www.youtube.com/watch?v=3Xc3CA655sk",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 47,
+			"course_id": 11,
+			"title": "Data Cleaning Techniques",
+			"description": "Clean and prepare data for analysis.",
+			"video_url": "https://www.youtube.com/watch?v=xu2WuD_9Wjs",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 48,
+			"course_id": 11,
+			"title": "Exploratory Data Analysis",
+			"description": "Perform exploratory data analysis in Python.",
+			"video_url": "https://www.youtube.com/watch?v=5zqjsAGyc6I",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 49,
+			"course_id": 12,
+			"title": "Entrepreneurship Basics",
+			"description": "Learn the fundamentals of starting a business.",
+			"video_url": "https://www.youtube.com/watch?v=aozlwC3XwfY",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 50,
+			"course_id": 12,
+			"title": "Finding Business Ideas",
+			"description": "Discover how to generate business ideas.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 51,
+			"course_id": 12,
+			"title": "Market Research",
+			"description": "Learn to conduct market research for startups.",
+			"video_url": "https://www.youtube.com/watch?v=2bKXi9QwxJI",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 52,
+			"course_id": 12,
+			"title": "Business Models",
+			"description": "Understand different business models.",
+			"video_url": "https://www.youtube.com/watch?v=6gXchCJhXto",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 53,
+			"course_id": 12,
+			"title": "Funding Basics",
+			"description": "Explore funding options for your startup.",
+			"video_url": "https://www.youtube.com/watch?v=3z0W3L9uH5Q",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 54,
+			"course_id": 12,
+			"title": "Marketing for Startups",
+			"description": "Learn basic marketing strategies for startups.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 55,
+			"course_id": 13,
+			"title": "Python for Data Science Intro",
+			"description": "Learn Python tailored for data science tasks.",
+			"video_url": "https://www.youtube.com/watch?v=ukzFI9rgwfU",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 56,
+			"course_id": 13,
+			"title": "NumPy Basics",
+			"description": "Use NumPy for data science computations.",
+			"video_url": "https://www.youtube.com/watch?v=xECXZ3tyONo",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 57,
+			"course_id": 13,
+			"title": "Pandas Fundamentals",
+			"description": "Manipulate data with Pandas for data science.",
+			"video_url": "https://www.youtube.com/watch?v=vmEHCJofslg",
+			"duration": 25,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 58,
+			"course_id": 13,
+			"title": "Data Visualization",
+			"description": "Visualize data with Matplotlib and Seaborn.",
+			"video_url": "https://www.youtube.com/watch?v=3Xc3CA655sk",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 59,
+			"course_id": 13,
+			"title": "Data Cleaning",
+			"description": "Clean data for data science projects.",
+			"video_url": "https://www.youtube.com/watch?v=xu2WuD_9Wjs",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 60,
+			"course_id": 13,
+			"title": "Introduction to Scikit-Learn",
+			"description": "Get started with Scikit-Learn for ML.",
+			"video_url": "https://www.youtube.com/watch?v=0Lt9w-BxKFQ",
+			"duration": 18,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 61,
+			"course_id": 14,
+			"title": "Mobile Development Intro",
+			"description": "Learn the basics of mobile app development.",
+			"video_url": "https://www.youtube.com/watch?v=5x0uL4e5s4U",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 62,
+			"course_id": 14,
+			"title": "Mobile Platforms Overview",
+			"description": "Understand Android and iOS platforms.",
+			"video_url": "https://www.youtube.com/watch?v=1xWkgnM5Law",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 63,
+			"course_id": 14,
+			"title": "Mobile UI Design",
+			"description": "Learn to design mobile app interfaces.",
+			"video_url": "https://www.youtube.com/watch?v=4_maa0eWTDQ",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 64,
+			"course_id": 14,
+			"title": "Cross-Platform Tools",
+			"description": "Explore cross-platform development frameworks.",
+			"video_url": "https://www.youtube.com/watch?v=5x0uL4e5s4U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 65,
+			"course_id": 14,
+			"title": "Mobile App Testing",
+			"description": "Learn how to test mobile applications.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 66,
+			"course_id": 14,
+			"title": "App Store Publishing",
+			"description": "Understand how to publish mobile apps.",
+			"video_url": "https://www.youtube.com/watch?v=1xWkgnM5Law",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 67,
+			"course_id": 15,
+			"title": "Android Development Intro",
+			"description": "Get started with Android app development.",
+			"video_url": "https://www.youtube.com/watch?v=QBw3zE7jXSU",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 68,
+			"course_id": 15,
+			"title": "Android Studio Setup",
+			"description": "Set up Android Studio for development.",
+			"video_url": "https://www.youtube.com/watch?v=zvZFL0y9v3g",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 69,
+			"course_id": 15,
+			"title": "Android Layouts",
+			"description": "Learn to create layouts in Android.",
+			"video_url": "https://www.youtube.com/watch?v=7VqaZ1qC3I0",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 70,
+			"course_id": 15,
+			"title": "Android Activities",
+			"description": "Understand Android activities and lifecycle.",
+			"video_url": "https://www.youtube.com/watch?v=zvZFL0y9v3g",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 71,
+			"course_id": 15,
+			"title": "Android UI Components",
+			"description": "Explore common Android UI components.",
+			"video_url": "https://www.youtube.com/watch?v=7VqaZ1qC3I0",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 72,
+			"course_id": 15,
+			"title": "Android Intents",
+			"description": "Use intents for navigation and data sharing.",
+			"video_url": "https://www.youtube.com/watch?v=zvZFL0y9v3g",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 73,
+			"course_id": 16,
+			"title": "iOS Development Intro",
+			"description": "Learn the basics of iOS app development.",
+			"video_url": "https://www.youtube.com/watch?v=6mbwJPasrzY",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 74,
+			"course_id": 16,
+			"title": "Xcode Setup",
+			"description": "Set up Xcode for iOS development.",
+			"video_url": "https://www.youtube.com/watch?v=6mbwJPasrzY",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 75,
+			"course_id": 16,
+			"title": "Swift Basics",
+			"description": "Learn the fundamentals of Swift programming.",
+			"video_url": "https://www.youtube.com/watch?v=8Xg7E9shq0Y",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 76,
+			"course_id": 16,
+			"title": "iOS User Interface",
+			"description": "Create user interfaces for iOS apps.",
+			"video_url": "https://www.youtube.com/watch?v=6mbwJPasrzY",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 77,
+			"course_id": 16,
+			"title": "iOS Navigation",
+			"description": "Learn navigation in iOS apps.",
+			"video_url": "https://www.youtube.com/watch?v=6mbwJPasrzY",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 78,
+			"course_id": 16,
+			"title": "iOS Data Persistence",
+			"description": "Understand data persistence in iOS.",
+			"video_url": "https://www.youtube.com/watch?v=6mbwJPasrzY",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 79,
+			"course_id": 17,
+			"title": "Introduction to Java",
+			"description": "Learn the basics of Java programming.",
+			"video_url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 80,
+			"course_id": 17,
+			"title": "Java Variables",
+			"description": "Understand variables and data types in Java.",
+			"video_url": "https://www.youtube.com/watch?v=3u1fu6f8Hto",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 81,
+			"course_id": 17,
+			"title": "Java Conditionals",
+			"description": "Learn conditionals in Java programming.",
+			"video_url": "https://www.youtube.com/watch?v=8cm1x4bC610",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 82,
+			"course_id": 17,
+			"title": "Java Loops",
+			"description": "Explore loops in Java for iteration.",
+			"video_url": "https://www.youtube.com/watch?v=1vC GPCjr0",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 83,
+			"course_id": 17,
+			"title": "Java Methods",
+			"description": "Learn to create methods in Java.",
+			"video_url": "https://www.youtube.com/watch?v=pfpM7AVgIJE",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 84,
+			"course_id": 17,
+			"title": "Java Arrays",
+			"description": "Work with arrays in Java programming.",
+			"video_url": "https://www.youtube.com/watch?v=9p_YT8R4S3g",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 85,
+			"course_id": 18,
+			"title": "Introduction to C++",
+			"description": "Learn the basics of C++ programming.",
+			"video_url": "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 86,
+			"course_id": 18,
+			"title": "C++ Variables",
+			"description": "Understand variables and data types in C++.",
+			"video_url": "https://www.youtube.com/watch?v=3tIqg1lLers",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 87,
+			"course_id": 18,
+			"title": "C++ Conditionals",
+			"description": "Learn conditionals in C++ programming.",
+			"video_url": "https://www.youtube.com/watch?v=V6SbiM3S3TA",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 88,
+			"course_id": 18,
+			"title": "C++ Loops",
+			"description": "Explore loops in C++ for iteration.",
+			"video_url": "https://www.youtube.com/watch?v=2yF123yPe0E",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 89,
+			"course_id": 18,
+			"title": "C++ Functions",
+			"description": "Learn to create functions in C++.",
+			"video_url": "https://www.youtube.com/watch?v=wN0x9eZpBEA",
+			"duration": 18,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 90,
+			"course_id": 18,
+			"title": "C++ Arrays",
+			"description": "Work with arrays in C++ programming.",
+			"video_url": "https://www.youtube.com/watch?v=6V7N1Y1sAQQ",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 91,
+			"course_id": 19,
+			"title": "Entrepreneurship Fundamentals",
+			"description": "Learn core concepts of entrepreneurship.",
+			"video_url": "https://www.youtube.com/watch?v=aozlwC3XwfY",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 92,
+			"course_id": 19,
+			"title": "Entrepreneurial Mindset",
+			"description": "Develop the mindset for entrepreneurship.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 93,
+			"course_id": 19,
+			"title": "Idea Generation",
+			"description": "Learn to generate business ideas.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 94,
+			"course_id": 19,
+			"title": "Customer Discovery",
+			"description": "Understand your target customers.",
+			"video_url": "https://www.youtube.com/watch?v=2bKXi9QwxJI",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 95,
+			"course_id": 19,
+			"title": "Market Analysis",
+			"description": "Analyze market opportunities for your business.",
+			"video_url": "https://www.youtube.com/watch?v=2bKXi9QwxJI",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 96,
+			"course_id": 19,
+			"title": "Business Planning",
+			"description": "Learn the basics of business planning.",
+			"video_url": "https://www.youtube.com/watch?v=6gXchCJhXto",
+			"duration": 19,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 97,
+			"course_id": 20,
+			"title": "Business Plan Introduction",
+			"description": "Understand the importance of a business plan.",
+			"video_url": "https://www.youtube.com/watch?v=6gXchCJhXto",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 98,
+			"course_id": 20,
+			"title": "Executive Summary",
+			"description": "Learn to write an executive summary.",
+			"video_url": "https://www.youtube.com/watch?v=3z0W3L9uH5Q",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 99,
+			"course_id": 20,
+			"title": "Market Analysis in Plans",
+			"description": "Include market analysis in your business plan.",
+			"video_url": "https://www.youtube.com/watch?v=2bKXi9QwxJI",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 100,
+			"course_id": 20,
+			"title": "Financial Projections",
+			"description": "Create financial projections for your plan.",
+			"video_url": "https://www.youtube.com/watch?v=3z0W3L9uH5Q",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 101,
+			"course_id": 20,
+			"title": "Marketing Strategy",
+			"description": "Develop a marketing strategy for your plan.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 102,
+			"course_id": 20,
+			"title": "Operational Plan",
+			"description": "Learn to outline operations in your plan.",
+			"video_url": "https://www.youtube.com/watch?v=6gXchCJhXto",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 103,
+			"course_id": 21,
+			"title": "Marketing for Entrepreneurs Intro",
+			"description": "Learn marketing essentials for entrepreneurs.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 104,
+			"course_id": 21,
+			"title": "Target Audience",
+			"description": "Identify and understand your target audience.",
+			"video_url": "https://www.youtube.com/watch?v=2bKXi9QwxJI",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 105,
+			"course_id": 21,
+			"title": "Branding Basics",
+			"description": "Learn the basics of branding for your business.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 106,
+			"course_id": 21,
+			"title": "Digital Marketing",
+			"description": "Explore digital marketing strategies.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 107,
+			"course_id": 21,
+			"title": "Social Media Marketing",
+			"description": "Use social media for business marketing.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 108,
+			"course_id": 21,
+			"title": "Marketing Metrics",
+			"description": "Learn to measure marketing success.",
+			"video_url": "https://www.youtube.com/watch?v=3q3uL2oY4qM",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 109,
+			"course_id": 22,
+			"title": "Communication Skills Intro",
+			"description": "Learn the basics of effective communication.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 110,
+			"course_id": 22,
+			"title": "Active Listening",
+			"description": "Master the skill of active listening.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 111,
+			"course_id": 22,
+			"title": "Clear Communication",
+			"description": "Learn to communicate clearly and concisely.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 112,
+			"course_id": 22,
+			"title": "Nonverbal Communication",
+			"description": "Understand nonverbal communication cues.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 113,
+			"course_id": 22,
+			"title": "Written Communication",
+			"description": "Improve your written communication skills.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 114,
+			"course_id": 22,
+			"title": "Feedback Skills",
+			"description": "Learn to give and receive feedback effectively.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 115,
+			"course_id": 23,
+			"title": "Public Speaking Basics",
+			"description": "Learn the fundamentals of public speaking.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 116,
+			"course_id": 23,
+			"title": "Speech Preparation",
+			"description": "Prepare effectively for a speech.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 117,
+			"course_id": 23,
+			"title": "Overcoming Stage Fright",
+			"description": "Techniques to manage public speaking anxiety.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 118,
+			"course_id": 23,
+			"title": "Speech Delivery",
+			"description": "Learn effective speech delivery techniques.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 119,
+			"course_id": 23,
+			"title": "Engaging Audiences",
+			"description": "Techniques to engage your audience.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 120,
+			"course_id": 23,
+			"title": "Visual Aids",
+			"description": "Use visual aids to enhance your speech.",
+			"video_url": "https://www.youtube.com/watch?v=AykYRO5d_lI",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 121,
+			"course_id": 24,
+			"title": "Conflict Resolution Intro",
+			"description": "Learn the basics of conflict resolution.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 122,
+			"course_id": 24,
+			"title": "Understanding Conflict",
+			"description": "Understand the causes of conflict.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 123,
+			"course_id": 24,
+			"title": "Conflict Resolution Strategies",
+			"description": "Learn strategies to resolve conflicts.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 124,
+			"course_id": 24,
+			"title": "Mediation Techniques",
+			"description": "Explore mediation for conflict resolution.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 125,
+			"course_id": 24,
+			"title": "Communication in Conflict",
+			"description": "Improve communication during conflicts.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 126,
+			"course_id": 24,
+			"title": "Preventing Conflicts",
+			"description": "Learn to prevent conflicts proactively.",
+			"video_url": "https://www.youtube.com/watch?v=KY5TWVz5ZDU",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 127,
+			"course_id": 25,
+			"title": "Leadership Essentials Intro",
+			"description": "Learn the fundamentals of leadership.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 128,
+			"course_id": 25,
+			"title": "Leadership Styles",
+			"description": "Explore different leadership styles.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 129,
+			"course_id": 25,
+			"title": "Motivating Teams",
+			"description": "Learn to motivate and inspire teams.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 130,
+			"course_id": 25,
+			"title": "Decision Making",
+			"description": "Improve decision-making skills as a leader.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 131,
+			"course_id": 25,
+			"title": "Delegation Skills",
+			"description": "Learn effective delegation techniques.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 132,
+			"course_id": 25,
+			"title": "Building Trust",
+			"description": "Build trust within your team.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 133,
+			"course_id": 26,
+			"title": "Team Management Intro",
+			"description": "Learn the basics of managing teams.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 134,
+			"course_id": 26,
+			"title": "Team Roles",
+			"description": "Understand team roles and responsibilities.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 135,
+			"course_id": 26,
+			"title": "Team Communication",
+			"description": "Improve communication within teams.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 136,
+			"course_id": 26,
+			"title": "Conflict in Teams",
+			"description": "Manage conflicts within teams.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 137,
+			"course_id": 26,
+			"title": "Team Motivation",
+			"description": "Learn to motivate team members.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 138,
+			"course_id": 26,
+			"title": "Performance Management",
+			"description": "Manage team performance effectively.",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 139,
+			"course_id": 27,
+			"title": "Project Management Intro",
+			"description": "Learn the basics of project management.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 140,
+			"course_id": 27,
+			"title": "Project Planning",
+			"description": "Understand how to plan a project.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 141,
+			"course_id": 27,
+			"title": "Project Scheduling",
+			"description": "Learn to create project schedules.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 142,
+			"course_id": 27,
+			"title": "Risk Management",
+			"description": "Manage risks in project management.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 143,
+			"course_id": 27,
+			"title": "Project Execution",
+			"description": "Learn to execute projects effectively.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 144,
+			"course_id": 27,
+			"title": "Project Closure",
+			"description": "Understand how to close a project.",
+			"video_url": "https://www.youtube.com/watch?v=9LSnINglkQA",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 145,
+			"course_id": 28,
+			"title": "Sales Techniques Intro",
+			"description": "Learn the basics of sales techniques.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 146,
+			"course_id": 28,
+			"title": "Understanding Customers",
+			"description": "Learn to understand customer needs.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 147,
+			"course_id": 28,
+			"title": "Sales Pitch Basics",
+			"description": "Create an effective sales pitch.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 148,
+			"course_id": 28,
+			"title": "Handling Objections",
+			"description": "Learn to handle customer objections.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 149,
+			"course_id": 28,
+			"title": "Closing Sales",
+			"description": "Techniques to close sales effectively.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 150,
+			"course_id": 28,
+			"title": "Building Relationships",
+			"description": "Build long-term customer relationships.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 151,
+			"course_id": 29,
+			"title": "Negotiation Skills Intro",
+			"description": "Learn the basics of negotiation skills.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 152,
+			"course_id": 29,
+			"title": "Preparing for Negotiation",
+			"description": "Prepare effectively for negotiations.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 153,
+			"course_id": 29,
+			"title": "Negotiation Strategies",
+			"description": "Learn key negotiation strategies.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 154,
+			"course_id": 29,
+			"title": "Building Rapport",
+			"description": "Build rapport during negotiations.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 155,
+			"course_id": 29,
+			"title": "Handling Deadlocks",
+			"description": "Learn to handle negotiation deadlocks.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 156,
+			"course_id": 29,
+			"title": "Closing Negotiations",
+			"description": "Techniques to close negotiations successfully.",
+			"video_url": "https://www.youtube.com/watch?v=3y7YgqW9v5k",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 157,
+			"course_id": 30,
+			"title": "CRM Introduction",
+			"description": "Learn the basics of customer relationship management.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 158,
+			"course_id": 30,
+			"title": "Customer Data Management",
+			"description": "Manage customer data effectively.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 159,
+			"course_id": 30,
+			"title": "CRM Tools",
+			"description": "Explore popular CRM tools and platforms.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 160,
+			"course_id": 30,
+			"title": "Customer Engagement",
+			"description": "Learn to engage customers through CRM.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 161,
+			"course_id": 30,
+			"title": "CRM Analytics",
+			"description": "Use analytics to improve CRM strategies.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 162,
+			"course_id": 30,
+			"title": "CRM Best Practices",
+			"description": "Learn best practices for effective CRM.",
+			"video_url": "https://www.youtube.com/watch?v=2vD8MZhWYhQ",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 163,
+			"course_id": 31,
+			"title": "Accounting Basics Intro",
+			"description": "Learn the fundamentals of accounting.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 164,
+			"course_id": 31,
+			"title": "Financial Statements",
+			"description": "Understand key financial statements.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 165,
+			"course_id": 31,
+			"title": "Debits and Credits",
+			"description": "Learn the basics of debits and credits.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 166,
+			"course_id": 31,
+			"title": "Balance Sheets",
+			"description": "Learn to create and analyze balance sheets.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 167,
+			"course_id": 31,
+			"title": "Income Statements",
+			"description": "Understand income statements and their components.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 168,
+			"course_id": 31,
+			"title": "Cash Flow Statements",
+			"description": "Learn to interpret cash flow statements.",
+			"video_url": "https://www.youtube.com/watch?v=8T1oqlF5EFg",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 169,
+			"course_id": 32,
+			"title": "Introduction to Marketing",
+			"description": "Learn the basics of marketing principles.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 20,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 170,
+			"course_id": 32,
+			"title": "Market Segmentation",
+			"description": "Understand how to segment your market.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 18,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 171,
+			"course_id": 32,
+			"title": "Marketing Mix",
+			"description": "Learn about the 4Ps of marketing.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 172,
+			"course_id": 32,
+			"title": "Consumer Behavior",
+			"description": "Understand consumer behavior and decision-making.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 22,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 173,
+			"course_id": 32,
+			"title": "Digital Marketing Basics",
+			"description": "Explore the fundamentals of digital marketing.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 19,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 174,
+			"course_id": 32,
+			"title": "Marketing Analytics",
+			"description": "Learn to measure and analyze marketing performance.",
+			"video_url": "https://www.youtube.com/watch?v=5z5vZ6L6uZw",
+			"duration": 20,
+			"is_preview": false,
+			"order": 6
+		},
+		{
+			"lesson_id": 175,
+			"course_id": 1,
+			"title": "HTML Fundamentals",
+			"description": "Learn the basic structure of HTML documents",
+			"video_url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 176,
+			"course_id": 1,
+			"title": "HTML Elements",
+			"description": "Understanding HTML elements and their usage",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 177,
+			"course_id": 1,
+			"title": "HTML Attributes",
+			"description": "Working with HTML attributes",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 178,
+			"course_id": 1,
+			"title": "HTML Lists and Tables",
+			"description": "Creating lists and tables in HTML",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 179,
+			"course_id": 1,
+			"title": "HTML Forms",
+			"description": "Building forms in HTML",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 180,
+			"course_id": 2,
+			"title": "CSS Introduction",
+			"description": "Introduction to CSS styling",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 181,
+			"course_id": 2,
+			"title": "CSS Selectors and Properties",
+			"description": "Understanding CSS selectors and properties",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 22,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 182,
+			"course_id": 2,
+			"title": "CSS Box Model",
+			"description": "Learning the CSS box model",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 183,
+			"course_id": 2,
+			"title": "CSS Layout",
+			"description": "CSS layout techniques",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 184,
+			"course_id": 2,
+			"title": "CSS Responsive Design",
+			"description": "Creating responsive designs with CSS",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 185,
+			"course_id": 3,
+			"title": "JavaScript Basics",
+			"description": "Introduction to JavaScript programming",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 186,
+			"course_id": 3,
+			"title": "JavaScript Variables and Data Types",
+			"description": "Understanding variables and data types in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 22,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 187,
+			"course_id": 3,
+			"title": "JavaScript Functions",
+			"description": "Working with functions in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 188,
+			"course_id": 3,
+			"title": "JavaScript DOM Manipulation",
+			"description": "Manipulating the DOM with JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 189,
+			"course_id": 3,
+			"title": "JavaScript Events",
+			"description": "Handling events in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		}
+	]
+}
