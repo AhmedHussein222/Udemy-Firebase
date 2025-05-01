@@ -1,141 +1,140 @@
 [
-
 	{
-		"subcategory_id": 1,
+		"subcategory_id": "1",
 		"name": "Web Development",
 		"slug": "web-development",
-		"category_id": 1
+		"category_id": "1"
 	},
 	{
-		"subcategory_id": 2,
+		"subcategory_id": "2",
 		"name": "Data Science",
 		"slug": "data-science",
-		"category_id": 1
+		"category_id": "1"
 	},
 	{
-		"subcategory_id": 3,
+		"subcategory_id": "3",
 		"name": "Mobile Development",
 		"slug": "mobile-development",
-		"category_id": 1
+		"category_id": "1"
 	},
 	{
-		"subcategory_id": 4,
+		"subcategory_id": "4",
 		"name": "Programming Languages",
 		"slug": "programming-languages",
-		"category_id": 1
+		"category_id": "1"
 	},
 	{
-		"subcategory_id": 5,
+		"subcategory_id": "5",
 		"name": "Entrepreneurship",
 		"slug": "entrepreneurship",
-		"category_id": 2
+		"category_id": "2"
 	},
 	{
-		"subcategory_id": 6,
+		"subcategory_id": "6",
 		"name": "Communication",
 		"slug": "communication",
-		"category_id": 2
+		"category_id": "2"
 	},
 	{
-		"subcategory_id": 7,
+		"subcategory_id": "7",
 		"name": "Management",
 		"slug": "management",
-		"category_id": 2
+		"category_id": "2"
 	},
 	{
-		"subcategory_id": 9,
+		"subcategory_id": "9",
 		"name": "Accounting & Bookkeeping",
 		"slug": "accounting-bookkeeping",
-		"category_id": 3
+		"category_id": "3"
 	},
 	{
-		"subcategory_id": 11,
+		"subcategory_id": "11",
 		"name": "Cryptocurrency & Blockchain",
 		"slug": "cryptocurrency-blockchain",
-		"category_id": 3
+		"category_id": "3"
 	},
 	{
-		"subcategory_id": 13,
+		"subcategory_id": "13",
 		"name": "IT Certifications",
 		"slug": "it-certifications",
-		"category_id": 4
+		"category_id": "4"
 	},
 	{
-		"subcategory_id": 14,
+		"subcategory_id": "14",
 		"name": "Network & Security",
 		"slug": "network-security",
-		"category_id": 4
+		"category_id": "4"
 	},
 	{
-		"subcategory_id": 16,
+		"subcategory_id": "16",
 		"name": "Operating Systems & Servers",
 		"slug": "os-servers",
-		"category_id": 4
+		"category_id": "4"
 	},
 	{
-		"subcategory_id": 19,
+		"subcategory_id": "19",
 		"name": "Personal Productivity",
 		"slug": "personal-productivity",
-		"category_id": 6
+		"category_id": "6"
 	},
 	{
-		"subcategory_id": 20,
+		"subcategory_id": "20",
 		"name": "Leadership",
 		"slug": "leadership",
-		"category_id": 6
+		"category_id": "6"
 	},
 	{
-		"subcategory_id": 21,
+		"subcategory_id": "21",
 		"name": "Career Development",
 		"slug": "career-development",
-		"category_id": 6
+		"category_id": "6"
 	},
 	{
-		"subcategory_id": 22,
+		"subcategory_id": "22",
 		"name": "Web Design",
 		"slug": "web-design",
-		"category_id": 7
+		"category_id": "7"
 	},
 	{
-		"subcategory_id": 23,
+		"subcategory_id": "23",
 		"name": "Graphic Design & Illustration",
 		"slug": "graphic-design-illustration",
-		"category_id": 7
+		"category_id": "7"
 	},
 	{
-		"subcategory_id": 24,
+		"subcategory_id": "24",
 		"name": "Design Tools",
 		"slug": "design-tools",
-		"category_id": 7
+		"category_id": "7"
 	},
 	{
-		"subcategory_id": 25,
+		"subcategory_id": "25",
 		"name": "User Experience Design",
 		"slug": "user-experience-design",
-		"category_id": 7
+		"category_id": "7"
 	},
 	{
-		"subcategory_id": 26,
+		"subcategory_id": "26",
 		"name": "Microsoft",
 		"slug": "microsoft",
-		"category_id": 5
+		"category_id": "5"
 	},
 	{
-		"subcategory_id": 27,
+		"subcategory_id": "27",
 		"name": "Apple",
 		"slug": "apple",
-		"category_id": 5
+		"category_id": "5"
 	},
 	{
-		"subcategory_id": 30,
+		"subcategory_id": "30",
 		"name": "Engineering",
 		"slug": "engineering",
-		"category_id": 8
+		"category_id": "8"
 	},
 	{
-		"subcategory_id": 32,
+		"subcategory_id": "32",
 		"name": "Math",
 		"slug": "math",
-		"category_id": 8
+		"category_id": "8"
 	}
 ]
