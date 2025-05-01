@@ -42,4 +42,36 @@ async function uploadInBatches() {
   }
 }
 
-uploadInBatches();
+// uploadInBatches();
+
+// 3. رفع المستخدمين (Upload Users)
+async function uploadUsers() {
+  const filePath = "./Final Data/users.json"; // Path to users.json
+
+  if (!fs.existsSync(filePath)) {
+    console.error(`Error: File not found at ${filePath}`);
+    return;
+  }
+
+  const rawData = fs.readFileSync(filePath);
+  const usersData = JSON.parse(rawData);
+
+  const usersCollection = db.collection("Users");
+  const users = usersData.collection.Users;
+
+  try {
+    for (const userId in users) {
+      if (users.hasOwnProperty(userId)) {
+        const user = users[userId];
+        await usersCollection.doc(userId).set(user);
+        console.log(`Uploaded user: ${userId}`);
+      }
+    }
+    console.log("All Users Uploaded ✅");
+  } catch (error) {
+    console.error("Error uploading users ❌:", error);
+  }
+}
+
+// Call the function to upload users
+uploadUsers();
