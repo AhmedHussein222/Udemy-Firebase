@@ -1,152 +1,160 @@
 [
   {
-    "reviewId": "2",
-    "courseId": "3",
-    "userId": "-ONlEUzt0NFc7FsTYKes",
+    "reviewId": "1",
+    "course_id": "3",
+    "user_id": "2",
     "rating": 4.0,
     "comment": "Great course, very clear explanations. Helped me a lot with my React fundamentals.",
     "timestamp": "2025-04-16T18:15:00Z"
   },
   {
-    "reviewId": "11",
-    "courseId": "3",
-    "userId": "-ONlEUzt0NFc7FsTYKEw",
+    "reviewId": "2",
+    "course_id": "3",
+    "user_id": "3",
     "rating": 4.0,
     "comment": "Very helpful and up-to-date content.",
     "timestamp": "2025-04-12T11:00:00Z"
   },
   {
     "reviewId": "3",
-    "courseId": "4",
-    "userId": "-ONlEUzt0NFc7FsTYKEz",
+    "course_id": "4",
+    "user_id": "4",
     "rating": 5.0,
     "comment": "I love how Jonas breaks things down. Understanding the 'why' behind concepts made a big difference for me.",
     "timestamp": "2025-04-15T09:00:00Z"
   },
   {
     "reviewId": "4",
-    "courseId": "8",
-    "userId": "-ONlEUzt0NFc7FsTYKE2",
+    "course_id": "8",
+    "user_id": "6",
     "rating": 5.0,
     "comment": "Still working through the course but loving the progressive way it's structured. Very well done!",
     "timestamp": "2025-04-15T09:00:00Z"
   },
   {
     "reviewId": "5",
-    "courseId": "28",
-    "userId": "-ONlEUzt0NFc7FsTYKE4",
+    "course_id": "28",
+    "user_id": "8",
     "rating": 5.0,
     "comment": "The way services are explained is just top-notch. Cleared my exam thanks to this course!",
     "timestamp": "2025-04-15T09:00:00Z"
   },
   {
     "reviewId": "6",
-    "courseId": "29",
-    "userId": "-ONlEUzt0NFc7FsTYKE6",
+    "course_id": "29",
+    "user_id": "9",
     "rating": 5.0,
     "comment": "Very detailed and well-structured lessons. Helped me prepare for certification smoothly.",
     "timestamp": "2025-04-15T09:00:00Z"
   },
   {
     "reviewId": "7",
-    "courseId": "30",
-    "userId": "-ONlEUzt0NFc7FsTYKE8",
+    "course_id": "30",
+    "user_id": "10",
     "rating": 4.2,
     "comment": "This course gave me a strong foundation in React.",
     "timestamp": "2025-04-14T12:00:00Z"
   },
   {
     "reviewId": "8",
-    "courseId": "75",
-    "userId": "-ONlEUzt0NFc7FsTYKE0",
+    "course_id": "75",
+    "user_id": "11",
     "rating": 5.0,
     "comment": "Excellent for advanced learners too!",
     "timestamp": "2025-04-13T14:20:00Z"
   },
   {
     "reviewId": "9",
-    "courseId": "76",
-    "userId": "-ONlEUzt0NFc7FsTYKEr",
+    "course_id": "76",
+    "user_id": "12",
     "rating": 3.8,
     "comment": "Some topics were a bit rushed but overall useful.",
     "timestamp": "2025-04-13T16:10:00Z"
   },
   {
     "reviewId": "10",
-    "courseId": "77",
-    "userId": "-ONlEUzt0NFc7FsTYKEt",
+    "course_id": "77",
+    "user_id": "13",
     "rating": 4.9,
     "comment": "Loved the project-based approach. Super practical!",
     "timestamp": "2025-04-13T18:30:00Z"
   },
   {
-    "reviewId": "12",
-    "courseId": "3",
-    "userId": "-ONlEUzt0NFc7FsTYKEi",
+    "reviewId": "11",
+    "course_id": "3",
+    "user_id": "14",
     "rating": 5.0,
     "comment": "Really appreciated the hands-on exercises.",
     "timestamp": "2025-04-12T15:30:00Z"
   },
   {
-    "reviewId": "13",
-    "courseId": "4",
-    "userId": "-ONlEUzt0NFc7FsTYKEp",
+    "reviewId": "12",
+    "course_id": "4",
+    "user_id": "15",
     "rating": 4.6,
     "comment": "Instructor is amazing at explaining concepts.",
     "timestamp": "2025-04-11T13:00:00Z"
   },
   {
-    "reviewId": "14",
-    "courseId": "8",
-    "userId": "-ONlEUzt0NFc7FsTYKEs",
+    "reviewId": "13",
+    "course_id": "8",
+    "user_id": "16",
     "rating": 4.8,
     "comment": "Clean code examples and great pacing.",
     "timestamp": "2025-04-11T15:45:00Z"
   },
   {
-    "reviewId": "15",
-    "courseId": "28",
-    "userId": "-ONlEUzt0NFc7FsTYKEk",
+    "reviewId": "14",
+    "course_id": "28",
+    "user_id": "17",
     "rating": 4.7,
     "comment": "I feel much more confident with React now!",
     "timestamp": "2025-04-10T10:10:00Z"
   },
   {
-    "reviewId": "16",
-    "courseId": "29",
-    "userId": "-ONlEUzt0NFc7FsTYKes",
+    "reviewId": "15",
+    "course_id": "29",
+    "user_id": "18",
     "rating": 3.9,
     "comment": "Good course but could use more visual examples.",
     "timestamp": "2025-04-10T12:20:00Z"
   },
   {
-    "reviewId": "17",
-    "courseId": "30",
-    "userId": "-ONlEUzt0NFc7FsTYKEw",
+    "reviewId": "16",
+    "course_id": "30",
+    "user_id": "19",
     "rating": 5.0,
     "comment": "Helped me land my first React job. Thank you!",
     "timestamp": "2025-04-09T17:30:00Z"
   },
   {
-    "reviewId": "18",
-    "courseId": "75",
-    "userId": "-ONlEUzt0NFc7FsTYKEz",
+    "reviewId": "17",
+    "course_id": "75",
+    "user_id": "20",
     "rating": 4.5,
     "comment": "Great teaching style, I enjoyed every section.",
     "timestamp": "2025-04-09T19:40:00Z"
   },
   {
-    "reviewId": "19",
-    "courseId": "76",
-    "userId": "-ONlEUzt0NFc7FsTYKE2",
+    "reviewId": "18",
+    "course_id": "76",
+    "user_id": "21",
     "rating": 5.0,
     "comment": "Highly detailed course with real-world applications.",
     "timestamp": "2025-04-09T21:00:00Z"
   },
   {
+    "reviewId": "19",
+    "course_id": "77",
+    "user_id": "20",
+    "rating": 4.2,
+    "comment": "Nice balance of theory and practice.",
+    "timestamp": "2025-04-08T10:00:00Z"
+  },
+  {
     "reviewId": "20",
-    "courseId": "77",
-    "userId": "-ONlEUzt0NFc7FsTYKE4",
+    "course_id": "77",
+    "user_id": "20",
     "rating": 4.2,
     "comment": "Nice balance of theory and practice.",
     "timestamp": "2025-04-08T10:00:00Z"
