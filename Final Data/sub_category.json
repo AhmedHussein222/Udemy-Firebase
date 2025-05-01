@@ -41,12 +41,7 @@
     "slug": "management",
     "category_id": 2
   },
-  {
-    "subcategory_id": 8,
-    "name": "Sales",
-    "slug": "sales",
-    "category_id": 2
-  },
+
   {
     "subcategory_id": 9,
     "name": "Accounting & Bookkeeping",

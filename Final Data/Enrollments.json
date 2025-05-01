@@ -5,7 +5,8 @@
     "courseId": "3",
     "progress": 75,
     "completed": false,
-    "enrolledAt": "2025-03-01T10:00:00Z"
+    "enrolledAt": "2025-03-01T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "2",
@@ -13,7 +14,8 @@
     "courseId": "4",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-02-15T14:30:00Z"
+    "enrolledAt": "2025-02-15T14:30:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "3",
@@ -21,7 +23,8 @@
     "courseId": "8",
     "progress": 50,
     "completed": false,
-    "enrolledAt": "2025-01-20T09:00:00Z"
+    "enrolledAt": "2025-01-20T09:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "4",
@@ -29,7 +32,8 @@
     "courseId": "28",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-03-10T11:00:00Z"
+    "enrolledAt": "2025-03-10T11:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "5",
@@ -37,7 +41,8 @@
     "courseId": "29",
     "progress": 20,
     "completed": false,
-    "enrolledAt": "2025-04-01T08:00:00Z"
+    "enrolledAt": "2025-04-01T08:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "6",
@@ -45,7 +50,8 @@
     "courseId": "30",
     "progress": 40,
     "completed": false,
-    "enrolledAt": "2025-03-02T10:00:00Z"
+    "enrolledAt": "2025-03-02T10:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "7",
@@ -53,7 +59,8 @@
     "courseId": "75",
     "progress": 60,
     "completed": false,
-    "enrolledAt": "2025-03-03T10:00:00Z"
+    "enrolledAt": "2025-03-03T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "8",
@@ -61,7 +68,8 @@
     "courseId": "76",
     "progress": 80,
     "completed": false,
-    "enrolledAt": "2025-03-04T10:00:00Z"
+    "enrolledAt": "2025-03-04T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "9",
@@ -69,7 +77,8 @@
     "courseId": "77",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-03-05T10:00:00Z"
+    "enrolledAt": "2025-03-05T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "10",
@@ -77,7 +86,8 @@
     "courseId": "3",
     "progress": 75,
     "completed": false,
-    "enrolledAt": "2025-03-01T10:00:00Z"
+    "enrolledAt": "2025-03-01T10:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "11",
@@ -85,7 +95,8 @@
     "courseId": "4",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-02-15T14:30:00Z"
+    "enrolledAt": "2025-02-15T14:30:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "12",
@@ -93,7 +104,8 @@
     "courseId": "8",
     "progress": 50,
     "completed": false,
-    "enrolledAt": "2025-01-20T09:00:00Z"
+    "enrolledAt": "2025-01-20T09:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "13",
@@ -101,7 +113,8 @@
     "courseId": "28",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-03-10T11:00:00Z"
+    "enrolledAt": "2025-03-10T11:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "14",
@@ -109,7 +122,8 @@
     "courseId": "29",
     "progress": 20,
     "completed": false,
-    "enrolledAt": "2025-04-01T08:00:00Z"
+    "enrolledAt": "2025-04-01T08:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "15",
@@ -117,7 +131,8 @@
     "courseId": "30",
     "progress": 40,
     "completed": false,
-    "enrolledAt": "2025-03-02T10:00:00Z"
+    "enrolledAt": "2025-03-02T10:00:00Z",
+    "payment_status": false
   },
   {
     "enrollmentId": "7",
@@ -125,7 +140,8 @@
     "courseId": "75",
     "progress": 60,
     "completed": false,
-    "enrolledAt": "2025-03-03T10:00:00Z"
+    "enrolledAt": "2025-03-03T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "8",
@@ -133,7 +149,8 @@
     "courseId": "76",
     "progress": 80,
     "completed": false,
-    "enrolledAt": "2025-03-04T10:00:00Z"
+    "enrolledAt": "2025-03-04T10:00:00Z",
+    "payment_status": true
   },
   {
     "enrollmentId": "9",
@@ -141,6 +158,7 @@
     "courseId": "77",
     "progress": 100,
     "completed": true,
-    "enrolledAt": "2025-03-05T10:00:00Z"
+    "enrolledAt": "2025-03-05T10:00:00Z",
+    "payment_status": true
   }
 ]

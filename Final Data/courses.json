@@ -23,7 +23,8 @@
       "subcategory_id": "6",
       "isFree": false,
       "discount": 10,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 18000
     },
     {
       "id": "76",
@@ -51,7 +52,8 @@
       "subcategory_id": "6",
       "isFree": false,
       "discount": 15,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 16200
     },
     {
       "id": "77",
@@ -78,7 +80,8 @@
       "subcategory_id": "6",
       "isFree": false,
       "discount": 20,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 21600
     },
     {
       "id": "28",
@@ -104,7 +107,8 @@
       "subcategory_id": "5",
       "isFree": false,
       "discount": 5,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 10800
     },
     {
       "id": "29",
@@ -129,7 +133,8 @@
       "subcategory_id": "5",
       "isFree": false,
       "discount": 25,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 14400
     },
     {
       "id": "30",
@@ -152,7 +157,8 @@
       "subcategory_id": "5",
       "isFree": false,
       "discount": 30,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 12600
     },
     {
       "id": "3",
@@ -175,7 +181,8 @@
       "subcategory_id": "7",
       "isFree": false,
       "discount": 12,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 18000
     },
     {
       "id": "4",
@@ -197,7 +204,8 @@
       "subcategory_id": "7",
       "isFree": false,
       "discount": 18,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 9000
     },
     {
       "id": "8",
@@ -220,7 +228,8 @@
       "subcategory_id": "7",
       "isFree": false,
       "discount": 8,
-      "isPublished": true
+      "isPublished": true,
+      "duration": 10800
     }
   ]
 }
