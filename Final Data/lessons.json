@@ -1739,6 +1739,156 @@
 			"duration": 20,
 			"is_preview": false,
 			"order": 6
+		},
+		{
+			"lesson_id": 175,
+			"course_id": 1,
+			"title": "HTML Fundamentals",
+			"description": "Learn the basic structure of HTML documents",
+			"video_url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 176,
+			"course_id": 1,
+			"title": "HTML Elements",
+			"description": "Understanding HTML elements and their usage",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 177,
+			"course_id": 1,
+			"title": "HTML Attributes",
+			"description": "Working with HTML attributes",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 22,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 178,
+			"course_id": 1,
+			"title": "HTML Lists and Tables",
+			"description": "Creating lists and tables in HTML",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 179,
+			"course_id": 1,
+			"title": "HTML Forms",
+			"description": "Building forms in HTML",
+			"video_url": "https://www.youtube.com/watch?v=3kQJ6gV9i7U",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 180,
+			"course_id": 2,
+			"title": "CSS Introduction",
+			"description": "Introduction to CSS styling",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 181,
+			"course_id": 2,
+			"title": "CSS Selectors and Properties",
+			"description": "Understanding CSS selectors and properties",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 22,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 182,
+			"course_id": 2,
+			"title": "CSS Box Model",
+			"description": "Learning the CSS box model",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 183,
+			"course_id": 2,
+			"title": "CSS Layout",
+			"description": "CSS layout techniques",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 184,
+			"course_id": 2,
+			"title": "CSS Responsive Design",
+			"description": "Creating responsive designs with CSS",
+			"video_url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
+		},
+		{
+			"lesson_id": 185,
+			"course_id": 3,
+			"title": "JavaScript Basics",
+			"description": "Introduction to JavaScript programming",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 25,
+			"is_preview": true,
+			"order": 1
+		},
+		{
+			"lesson_id": 186,
+			"course_id": 3,
+			"title": "JavaScript Variables and Data Types",
+			"description": "Understanding variables and data types in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 22,
+			"is_preview": false,
+			"order": 2
+		},
+		{
+			"lesson_id": 187,
+			"course_id": 3,
+			"title": "JavaScript Functions",
+			"description": "Working with functions in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 20,
+			"is_preview": false,
+			"order": 3
+		},
+		{
+			"lesson_id": 188,
+			"course_id": 3,
+			"title": "JavaScript DOM Manipulation",
+			"description": "Manipulating the DOM with JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 18,
+			"is_preview": false,
+			"order": 4
+		},
+		{
+			"lesson_id": 189,
+			"course_id": 3,
+			"title": "JavaScript Events",
+			"description": "Handling events in JavaScript",
+			"video_url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+			"duration": 20,
+			"is_preview": false,
+			"order": 5
 		}
 	]
 }
