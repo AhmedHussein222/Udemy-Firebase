@@ -11,6 +11,7 @@
       "thumbnail": "https://cdn-media-0.freecodecamp.org/size/w2000/2024/05/cover-img.jpg",
       "duration": 105.0,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand HTML document structure",
         "Master HTML elements and attributes",
@@ -42,6 +43,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
       "duration": 105.0,
       "discount": 15,
+      "is_published": true,
       "what_will_learn": [
         "Understand CSS syntax and selectors",
         "Master the box model and positioning",
@@ -72,6 +74,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 105.0,
       "discount": 20,
+      "is_published": true,
       "what_will_learn": [
         "Understand JavaScript syntax and basics",
         "Work with variables, data types, and operators",
@@ -102,6 +105,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 111,
       "discount": 10,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced HTML5 features",
         "Create complex forms with validation",
@@ -132,6 +136,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 115,
       "discount": 5,
+      "is_published": true,
       "what_will_learn": [
         "Understand the principles of responsive design",
         "Use media queries to create adaptable layouts",
@@ -162,6 +167,7 @@
       "thumbnail": "https://contentstatic.techgig.com/photo/80100245/8-steps-to-master-python-programming-for-data-science.jpg?88712",
       "duration": 117,
       "discount": 25,
+      "is_published": true,
       "what_will_learn": [
         "Understand Python basics and syntax",
         "Work with data structures and libraries",
@@ -192,6 +198,7 @@
       "thumbnail": "https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg",
       "duration": 124,
       "discount": 20,
+      "is_published": true,
       "what_will_learn": [
         "Understand the Pandas library",
         "Work with DataFrames and Series",
@@ -222,6 +229,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 124,
       "discount": 30,
+      "is_published": true,
       "what_will_learn": [
         "Understand machine learning concepts",
         "Learn supervised and unsupervised learning",
@@ -252,6 +260,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 124,
       "discount": 25,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced Python libraries for data science",
         "Perform complex data analysis",
@@ -282,6 +291,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 126,
       "discount": 35,
+      "is_published": true,
       "what_will_learn": [
         "Understand deep learning concepts",
         "Work with TensorFlow and Keras",
@@ -312,6 +322,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
       "duration": 125,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand mobile app development concepts",
         "Work with Flutter and Dart",
@@ -342,6 +353,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand Android app development basics",
         "Work with Android Studio",
@@ -372,6 +384,7 @@
       "thumbnail": "https://media.geeksforgeeks.org/wp-content/uploads/20230617194030/Getting-Started-with-iOS-Development.webp",
       "duration": 123,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand iOS app development basics",
         "Work with Xcode and Swift",
@@ -402,6 +415,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 10,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced Android development techniques",
         "Work with Android Jetpack components",
@@ -432,6 +446,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 117,
       "discount": 15,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced iOS development techniques",
         "Work with advanced Swift features",
@@ -462,6 +477,7 @@
       "thumbnail": "https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg",
       "duration": 117,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand Python basics and syntax",
         "Work with data structures and libraries",
@@ -492,6 +508,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 117,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand Java basics and syntax",
         "Work with data structures and libraries",
@@ -522,6 +539,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1581091870621-3c4a6a9f6d3d",
       "duration": 117,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand C++ basics and syntax",
         "Work with data structures and libraries",
@@ -552,6 +570,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 20,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced Python libraries and frameworks",
         "Perform complex data analysis",
@@ -582,6 +601,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 25,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced Java libraries and frameworks",
         "Perform complex data analysis",
@@ -612,6 +632,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of entrepreneurship",
         "Learn how to identify business opportunities",
@@ -643,6 +664,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the components of a business plan",
         "Learn how to conduct market research",
@@ -674,6 +696,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1581091870621-3c4a6a9f6d3d",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of marketing",
         "Learn how to identify target audiences",
@@ -705,6 +728,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 25,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced marketing techniques",
         "Learn how to create a marketing plan",
@@ -736,6 +760,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 30,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of scaling a startup",
         "Learn how to identify growth opportunities",
@@ -767,6 +792,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of communication",
         "Learn how to communicate effectively",
@@ -798,6 +824,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of public speaking",
         "Learn how to communicate effectively",
@@ -829,6 +856,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1581091870621-3c4a6a9f6d3d",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of conflict resolution",
         "Learn how to communicate effectively",
@@ -860,6 +888,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 20,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced communication techniques",
         "Learn how to create a communication plan",
@@ -891,6 +920,7 @@
       "thumbnail": "https://via.placeholder.com/150",
       "duration": 119,
       "discount": 25,
+      "is_published": true,
       "what_will_learn": [
         "Master advanced public speaking techniques",
         "Learn how to create a public speaking plan",
@@ -922,6 +952,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Understand the basics of leadership",
         "Learn how to communicate effectively",
@@ -953,6 +984,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 119,
       "discount": 0,
+      "is_published": true,
       "what_will_learn": [
         "Develop effective team leadership strategies",
         "Master team communication and collaboration techniques",
