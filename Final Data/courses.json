@@ -30,7 +30,13 @@
         "Text editor (like VS Code or Sublime Text)",
         "Modern web browser",
         "Enthusiasm to learn web development"
-      ]
+      ],
+      "language": "English",
+      "level": "beginner",
+      "rating": {
+        "rate": 0,
+        "rating_count": 0
+      }
     },
     {
       "course_id": "2",
@@ -61,7 +67,13 @@
         "Text editor (like VS Code or Sublime Text)",
         "Modern web browser",
         "Enthusiasm to learn web design"
-      ]
+      ],
+      "language": "English",
+      "level": "intermediate",
+      "rating": {
+        "rate": 0,
+        "rating_count": 0
+      }
     },
     {
       "course_id": "3",
@@ -92,7 +104,13 @@
         "Text editor (like VS Code or Sublime Text)",
         "Modern web browser",
         "Enthusiasm to learn programming"
-      ]
+      ],
+      "language": "English",
+      "level": "beginner",
+      "rating": {
+        "rate": 4.33,
+        "rating_count": 3
+      }
     },
     {
       "course_id": "4",
@@ -123,7 +141,13 @@
         "Text editor (like VS Code or Sublime Text)",
         "Modern web browser",
         "Enthusiasm to learn advanced web development"
-      ]
+      ],
+      "language": "English",
+      "level": "expert",
+      "rating": {
+        "rate": 4.8,
+        "rating_count": 2
+      }
     },
     {
       "course_id": "5",
@@ -154,7 +178,9 @@
         "Text editor (like VS Code or Sublime Text)",
         "Modern web browser",
         "Enthusiasm to learn responsive design"
-      ]
+      ],
+      "language": "English",
+      "level": "intermediate"
     },
     {
       "course_id": "6",
@@ -185,7 +211,9 @@
         "Text editor or IDE (like PyCharm or Jupyter)",
         "Modern web browser",
         "Enthusiasm to learn data science"
-      ]
+      ],
+      "language": "English",
+      "level": "all level"
     },
     {
       "course_id": "7",
@@ -216,7 +244,9 @@
         "Text editor or IDE (like PyCharm or Jupyter)",
         "Modern web browser",
         "Enthusiasm to learn data analysis"
-      ]
+      ],
+      "language": "English",
+      "level": "intermediate"
     },
     {
       "course_id": "8",
@@ -247,7 +277,13 @@
         "Text editor or IDE (like PyCharm or Jupyter)",
         "Modern web browser",
         "Enthusiasm to learn machine learning"
-      ]
+      ],
+      "language": "English",
+      "level": "beginner",
+      "rating": {
+        "rate": 4.9,
+        "rating_count": 2
+      }
     },
     {
       "course_id": "9",
@@ -278,572 +314,9 @@
         "Text editor or IDE (like PyCharm or Jupyter)",
         "Modern web browser",
         "Enthusiasm to learn advanced data science"
-      ]
-    },
-    {
-      "course_id": "10",
-      "title": "Deep Learning with TensorFlow",
-      "description": "Master deep learning techniques using TensorFlow.",
-      "price": 249.99,
-      "instructor_id": "41",
-      "category_id": "1",
-      "subcategory_id": "2",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 126,
-      "discount": 35,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand deep learning concepts",
-        "Work with TensorFlow and Keras",
-        "Build and train neural networks",
-        "Understand convolutional and recurrent networks",
-        "Optimize deep learning models",
-        "Handle overfitting and underfitting",
-        "Work with real-world datasets",
-        "Debug and troubleshoot deep learning models",
-        "Deploy deep learning models",
-        "Learn best practices for deep learning"
       ],
-      "requirements": [
-        "Basic understanding of Python",
-        "Text editor or IDE (like PyCharm or Jupyter)",
-        "Modern web browser",
-        "Enthusiasm to learn deep learning"
-      ]
-    },
-    {
-      "course_id": "11",
-      "title": "Learn Mobile Development Basics",
-      "description": "An introduction to mobile app development using Flutter.",
-      "price": 0.0,
-      "instructor_id": "21",
-      "category_id": "1",
-      "subcategory_id": "3",
-      "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
-      "duration": 125,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand mobile app development concepts",
-        "Work with Flutter and Dart",
-        "Build simple mobile applications",
-        "Learn UI/UX design principles",
-        "Debug and troubleshoot mobile apps",
-        "Deploy apps to app stores",
-        "Understand cross-platform development",
-        "Work with APIs and databases",
-        "Optimize app performance",
-        "Learn best practices for mobile development"
-      ],
-      "requirements": [
-        "Basic understanding of programming",
-        "Text editor or IDE (like Android Studio or VS Code)",
-        "Modern web browser",
-        "Enthusiasm to learn mobile development"
-      ]
-    },
-    {
-      "course_id": "12",
-      "title": "Android Development for Beginners",
-      "description": "Learn the basics of Android app development.",
-      "price": 0.0,
-      "instructor_id": "23",
-      "category_id": "1",
-      "subcategory_id": "3",
-      "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand Android app development basics",
-        "Work with Android Studio",
-        "Build simple Android applications",
-        "Learn UI/UX design principles",
-        "Debug and troubleshoot Android apps",
-        "Deploy apps to Google Play Store",
-        "Work with APIs and databases",
-        "Optimize app performance",
-        "Learn best practices for Android development",
-        "Understand Android app lifecycle"
-      ],
-      "requirements": [
-        "Basic understanding of programming",
-        "Text editor or IDE (like Android Studio)",
-        "Modern web browser",
-        "Enthusiasm to learn Android development"
-      ]
-    },
-    {
-      "course_id": "13",
-      "title": "iOS Development Basics",
-      "description": "Learn how to create iOS apps using Swift.",
-      "price": 0.0,
-      "instructor_id": "25",
-      "category_id": "1",
-      "subcategory_id": "3",
-      "thumbnail": "https://media.geeksforgeeks.org/wp-content/uploads/20230617194030/Getting-Started-with-iOS-Development.webp",
-      "duration": 123,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand iOS app development basics",
-        "Work with Xcode and Swift",
-        "Build simple iOS applications",
-        "Learn UI/UX design principles",
-        "Debug and troubleshoot iOS apps",
-        "Deploy apps to Apple App Store",
-        "Work with APIs and databases",
-        "Optimize app performance",
-        "Learn best practices for iOS development",
-        "Understand iOS app lifecycle"
-      ],
-      "requirements": [
-        "Basic understanding of programming",
-        "Text editor or IDE (like Xcode)",
-        "Modern web browser",
-        "Enthusiasm to learn iOS development"
-      ]
-    },
-    {
-      "course_id": "14",
-      "title": "Advanced Android Development",
-      "description": "Learn advanced techniques for Android app development.",
-      "price": 99.99,
-      "instructor_id": "43",
-      "category_id": "1",
-      "subcategory_id": "3",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 119,
-      "discount": 10,
-      "is_published": true,
-      "what_will_learn": [
-        "Master advanced Android development techniques",
-        "Work with Android Jetpack components",
-        "Build complex Android applications",
-        "Learn advanced UI/UX design principles",
-        "Debug and troubleshoot advanced Android apps",
-        "Deploy apps to Google Play Store",
-        "Work with advanced APIs and databases",
-        "Optimize app performance",
-        "Learn best practices for Android development",
-        "Understand advanced Android app lifecycle"
-      ],
-      "requirements": [
-        "Intermediate understanding of Android development",
-        "Text editor or IDE (like Android Studio)",
-        "Modern web browser",
-        "Enthusiasm to learn advanced Android development"
-      ]
-    },
-    {
-      "course_id": "15",
-      "title": "Advanced iOS Development",
-      "description": "Master advanced techniques for iOS app development.",
-      "price": 119.99,
-      "instructor_id": "45",
-      "category_id": "1",
-      "subcategory_id": "3",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 117,
-      "discount": 15,
-      "is_published": true,
-      "what_will_learn": [
-        "Master advanced iOS development techniques",
-        "Work with advanced Swift features",
-        "Build complex iOS applications",
-        "Learn advanced UI/UX design principles",
-        "Debug and troubleshoot advanced iOS apps",
-        "Deploy apps to Apple App Store",
-        "Work with advanced APIs and databases",
-        "Optimize app performance",
-        "Learn best practices for iOS development",
-        "Understand advanced iOS app lifecycle"
-      ],
-      "requirements": [
-        "Intermediate understanding of iOS development",
-        "Text editor or IDE (like Xcode)",
-        "Modern web browser",
-        "Enthusiasm to learn advanced iOS development"
-      ]
-    },
-    {
-      "course_id": "16",
-      "title": "Learn Python Programming",
-      "description": "A beginner-friendly course on Python programming.",
-      "price": 0.0,
-      "instructor_id": "27",
-      "category_id": "1",
-      "subcategory_id": "4",
-      "thumbnail": "https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg",
-      "duration": 117,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand Python basics and syntax",
-        "Work with data structures and libraries",
-        "Perform basic data analysis",
-        "Learn Python for web development",
-        "Debug Python code effectively",
-        "Build simple Python applications",
-        "Understand Python's role in data science",
-        "Work with Python IDEs and tools",
-        "Learn best practices for Python programming",
-        "Prepare for advanced Python courses"
-      ],
-      "requirements": [
-        "Basic computer skills",
-        "Text editor or IDE (like PyCharm or Jupyter)",
-        "Modern web browser",
-        "Enthusiasm to learn Python programming"
-      ]
-    },
-    {
-      "course_id": "17",
-      "title": "Java Programming Basics",
-      "description": "Learn the basics of Java programming.",
-      "price": 0.0,
-      "instructor_id": "29",
-      "category_id": "1",
-      "subcategory_id": "4",
-      "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
-      "duration": 117,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand Java basics and syntax",
-        "Work with data structures and libraries",
-        "Perform basic data analysis",
-        "Learn Java for web development",
-        "Debug Java code effectively",
-        "Build simple Java applications",
-        "Understand Java's role in software development",
-        "Work with Java IDEs and tools",
-        "Learn best practices for Java programming",
-        "Prepare for advanced Java courses"
-      ],
-      "requirements": [
-        "Basic computer skills",
-        "Text editor or IDE (like IntelliJ IDEA or Eclipse)",
-        "Modern web browser",
-        "Enthusiasm to learn Java programming"
-      ]
-    },
-    {
-      "course_id": "18",
-      "title": "C++ Programming for Beginners",
-      "description": "An introduction to C++ programming.",
-      "price": 0.0,
-      "instructor_id": "31",
-      "category_id": "1",
-      "subcategory_id": "4",
-      "thumbnail": "https://images.unsplash.com/photo-1581091870621-3c4a6a9f6d3d",
-      "duration": 117,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand C++ basics and syntax",
-        "Work with data structures and libraries",
-        "Perform basic data analysis",
-        "Learn C++ for software development",
-        "Debug C++ code effectively",
-        "Build simple C++ applications",
-        "Understand C++'s role in system programming",
-        "Work with C++ IDEs and tools",
-        "Learn best practices for C++ programming",
-        "Prepare for advanced C++ courses"
-      ],
-      "requirements": [
-        "Basic computer skills",
-        "Text editor or IDE (like Code::Blocks or Visual Studio)",
-        "Modern web browser",
-        "Enthusiasm to learn C++ programming"
-      ]
-    },
-    {
-      "course_id": "19",
-      "title": "Advanced Python Programming",
-      "description": "Learn advanced Python programming techniques.",
-      "price": 149.99,
-      "instructor_id": "47",
-      "category_id": "1",
-      "subcategory_id": "4",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 119,
-      "discount": 20,
-      "is_published": true,
-      "what_will_learn": [
-        "Master advanced Python libraries and frameworks",
-        "Perform complex data analysis",
-        "Build scalable Python applications",
-        "Learn Python for machine learning",
-        "Debug advanced Python code effectively",
-        "Work with Python IDEs and tools",
-        "Understand Python's role in software development",
-        "Learn best practices for Python programming",
-        "Prepare for expert-level Python courses",
-        "Work with real-world Python projects"
-      ],
-      "requirements": [
-        "Intermediate understanding of Python",
-        "Text editor or IDE (like PyCharm or Jupyter)",
-        "Modern web browser",
-        "Enthusiasm to learn advanced Python programming"
-      ]
-    },
-    {
-      "course_id": "20",
-      "title": "Advanced Java Programming",
-      "description": "Master advanced Java programming techniques.",
-      "price": 169.99,
-      "instructor_id": "49",
-      "category_id": "1",
-      "subcategory_id": "4",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 119,
-      "discount": 25,
-      "is_published": true,
-      "what_will_learn": [
-        "Master advanced Java libraries and frameworks",
-        "Perform complex data analysis",
-        "Build scalable Java applications",
-        "Learn Java for enterprise development",
-        "Debug advanced Java code effectively",
-        "Work with Java IDEs and tools",
-        "Understand Java's role in software development",
-        "Learn best practices for Java programming",
-        "Prepare for expert-level Java courses",
-        "Work with real-world Java projects"
-      ],
-      "requirements": [
-        "Intermediate understanding of Java",
-        "Text editor or IDE (like IntelliJ IDEA or Eclipse)",
-        "Modern web browser",
-        "Enthusiasm to learn advanced Java programming"
-      ]
-    },
-    {
-      "course_id": "21",
-      "title": "Entrepreneurship Basics",
-      "description": "Learn the fundamentals of starting a business.",
-      "price": 0.0,
-      "instructor_id": "33",
-      "category_id": "2",
-      "subcategory_id": "5",
-      "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the basics of entrepreneurship",
-        "Learn how to identify business opportunities",
-        "Develop a business plan",
-        "Understand funding and investment options",
-        "Learn marketing and sales strategies",
-        "Build a strong business network",
-        "Understand legal and regulatory requirements",
-        "Learn how to manage business finances",
-        "Develop leadership and management skills",
-        "Prepare for business challenges and risks"
-      ],
-      "requirements": [
-        "Basic understanding of business concepts",
-        "Enthusiasm to learn entrepreneurship",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "22",
-      "title": "How to Write a Business Plan",
-      "description": "Learn how to create a professional business plan.",
-      "price": 0.0,
-      "instructor_id": "2",
-      "category_id": "2",
-      "subcategory_id": "5",
-      "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the components of a business plan",
-        "Learn how to conduct market research",
-        "Develop a marketing and sales strategy",
-        "Understand financial projections and budgeting",
-        "Learn how to present a business plan",
-        "Build a strong executive summary",
-        "Understand the importance of a business plan",
-        "Learn how to set business goals and objectives",
-        "Develop a plan for business growth",
-        "Prepare for business challenges and risks"
-      ],
-      "requirements": [
-        "Basic understanding of business concepts",
-        "Enthusiasm to learn business planning",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "23",
-      "title": "Marketing for Entrepreneurs",
-      "description": "Learn marketing strategies for startups.",
-      "price": 0.0,
-      "instructor_id": "5",
-      "category_id": "2",
-      "subcategory_id": "5",
-      "thumbnail": "https://images.unsplash.com/photo-1581091870621-3c4a6a9f6d3d",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the basics of marketing",
-        "Learn how to identify target audiences",
-        "Develop a marketing strategy",
-        "Understand digital marketing techniques",
-        "Learn how to create a marketing budget",
-        "Build a strong brand identity",
-        "Understand the importance of customer feedback",
-        "Learn how to measure marketing success",
-        "Develop a plan for marketing growth",
-        "Prepare for marketing challenges and risks"
-      ],
-      "requirements": [
-        "Basic understanding of business concepts",
-        "Enthusiasm to learn marketing",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "24",
-      "title": "Advanced Marketing Strategies",
-      "description": "Learn advanced marketing strategies for business growth.",
-      "price": 199.99,
-      "instructor_id": "51",
-      "category_id": "2",
-      "subcategory_id": "5",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 119,
-      "discount": 25,
-      "is_published": true,
-      "what_will_learn": [
-        "Master advanced marketing techniques",
-        "Learn how to create a marketing plan",
-        "Understand digital marketing strategies",
-        "Develop a plan for marketing growth",
-        "Learn how to measure marketing success",
-        "Build a strong brand identity",
-        "Understand the importance of customer feedback",
-        "Learn how to create a marketing budget",
-        "Prepare for marketing challenges and risks",
-        "Understand the basics of marketing"
-      ],
-      "requirements": [
-        "Basic understanding of business concepts",
-        "Enthusiasm to learn marketing",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "25",
-      "title": "Scaling Your Startup",
-      "description": "Learn how to scale your startup for success.",
-      "price": 249.99,
-      "instructor_id": "53",
-      "category_id": "2",
-      "subcategory_id": "5",
-      "thumbnail": "https://via.placeholder.com/150",
-      "duration": 119,
-      "discount": 30,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the basics of scaling a startup",
-        "Learn how to identify growth opportunities",
-        "Develop a plan for business growth",
-        "Understand the importance of customer feedback",
-        "Learn how to measure business success",
-        "Build a strong brand identity",
-        "Understand the importance of a business plan",
-        "Learn how to set business goals and objectives",
-        "Prepare for business challenges and risks",
-        "Understand the components of a business plan"
-      ],
-      "requirements": [
-        "Basic understanding of business concepts",
-        "Enthusiasm to learn business planning",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "26",
-      "title": "Effective Communication Skills",
-      "description": "Learn how to communicate effectively in personal and professional settings.",
-      "price": 0.0,
-      "instructor_id": "7",
-      "category_id": "6",
-      "subcategory_id": "6",
-      "thumbnail": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the basics of communication",
-        "Learn how to communicate effectively",
-        "Develop a plan for communication growth",
-        "Understand the importance of customer feedback",
-        "Learn how to measure communication success",
-        "Build a strong brand identity",
-        "Understand the importance of a communication plan",
-        "Learn how to set communication goals and objectives",
-        "Prepare for communication challenges and risks",
-        "Understand the components of a communication plan"
-      ],
-      "requirements": [
-        "Basic understanding of communication concepts",
-        "Enthusiasm to learn communication",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
-    },
-    {
-      "course_id": "27",
-      "title": "Public Speaking for Beginners",
-      "description": "Master the art of public speaking and presentation.",
-      "price": 0.0,
-      "instructor_id": "9",
-      "category_id": "6",
-      "subcategory_id": "6",
-      "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
-      "duration": 119,
-      "discount": 0,
-      "is_published": true,
-      "what_will_learn": [
-        "Understand the basics of public speaking",
-        "Learn how to communicate effectively",
-        "Develop a plan for public speaking growth",
-        "Understand the importance of customer feedback",
-        "Learn how to measure public speaking success",
-        "Build a strong brand identity",
-        "Understand the importance of a public speaking plan",
-        "Learn how to set public speaking goals and objectives",
-        "Prepare for public speaking challenges and risks",
-        "Understand the components of a public speaking plan"
-      ],
-      "requirements": [
-        "Basic understanding of public speaking concepts",
-        "Enthusiasm to learn public speaking",
-        "Access to a computer with internet connection",
-        "Notebook for taking notes",
-        "Open-mindedness and creativity"
-      ]
+      "language": "English",
+      "level": "expert"
     },
     {
       "course_id": "28",
@@ -875,7 +348,13 @@
         "Access to a computer with internet connection",
         "Notebook for taking notes",
         "Open-mindedness and creativity"
-      ]
+      ],
+      "language": "English",
+      "level": "all level",
+      "rating": {
+        "rate": 4.85,
+        "rating_count": 2
+      }
     },
     {
       "course_id": "29",
@@ -907,7 +386,13 @@
         "Access to a computer with internet connection",
         "Notebook for taking notes",
         "Open-mindedness and creativity"
-      ]
+      ],
+      "language": "English",
+      "level": "expert",
+      "rating": {
+        "rate": 4.45,
+        "rating_count": 2
+      }
     },
     {
       "course_id": "30",
@@ -939,7 +424,13 @@
         "Access to a computer with internet connection",
         "Notebook for taking notes",
         "Open-mindedness and creativity"
-      ]
+      ],
+      "language": "English",
+      "level": "expert",
+      "rating": {
+        "rate": 4.6,
+        "rating_count": 2
+      }
     },
     {
       "course_id": "31",
@@ -971,7 +462,13 @@
         "Access to a computer with internet connection",
         "Notebook for taking notes",
         "Open-mindedness and creativity"
-      ]
+      ],
+      "language": "English",
+      "level": "all level",
+      "rating": {
+        "rate": 0,
+        "rating_count": 0
+      }
     },
     {
       "course_id": "32",
@@ -1003,7 +500,13 @@
         "Good communication skills",
         "Willingness to learn and practice leadership concepts",
         "Access to a computer with internet connection"
-      ]
+      ],
+      "language": "English",
+      "level": "beginner",
+      "rating": {
+        "rate": 0,
+        "rating_count": 0
+      }
     }
   ]
 }
