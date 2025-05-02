@@ -157,7 +157,7 @@
       "instructor_id": "37",
       "category_id": "1",
       "subcategory_id": "1",
-      "thumbnail": "https://via.placeholder.com/150",
+      "thumbnail": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
       "duration": 115,
       "discount": 5,
       "is_published": true,
@@ -350,7 +350,7 @@
         "Open-mindedness and creativity"
       ],
       "language": "English",
-      "level": "all level",
+      "level": "intermediate",
       "rating": {
         "rate": 4.85,
         "rating_count": 2
@@ -464,7 +464,7 @@
         "Open-mindedness and creativity"
       ],
       "language": "English",
-      "level": "all level",
+      "level": "intermediate",
       "rating": {
         "rate": 0,
         "rating_count": 0

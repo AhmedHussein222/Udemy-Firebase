@@ -41,7 +41,7 @@ async function uploadCourses() {
 }
 
 // Uncomment to run the upload
-uploadCourses();
+// uploadCourses();
 
 // 3. رفع المستخدمين (Upload Users)
 async function uploadUsers() {
@@ -303,4 +303,4 @@ async function uploadLessons() {
 }
 
 // Call the function to upload lessons
-// uploadLessons();
+uploadLessons();

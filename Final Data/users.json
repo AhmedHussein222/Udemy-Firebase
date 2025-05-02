@@ -403,7 +403,7 @@
 				"password": "$2a$10$ExampleHashedPassword23",
 				"first_name": "Dina",
 				"last_name": "Rashid",
-				"profile_picture": "hhttps://i.pinimg.com/736x/45/6b/47/456b478aebaeb915c260f3a42a323929.jpg",
+				"profile_picture": "https://i.pinimg.com/736x/45/6b/47/456b478aebaeb915c260f3a42a323929.jpg",
 				"gender": "Female",
 				"bio": "Political Science Professor",
 				"role": "instructor",
