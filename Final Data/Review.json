@@ -150,13 +150,5 @@
     "rating": 4.2,
     "comment": "Nice balance of theory and practice.",
     "timestamp": "2025-04-08T10:00:00Z"
-  },
-  {
-    "reviewId": "20",
-    "course_id": "77",
-    "user_id": "20",
-    "rating": 4.2,
-    "comment": "Nice balance of theory and practice.",
-    "timestamp": "2025-04-08T10:00:00Z"
   }
 ]

@@ -53,33 +53,7 @@
     "enrolledAt": "2025-03-02T10:00:00Z",
     "payment_status": false
   },
-  {
-    "enrollmentId": "7",
-    "user_id": "7",
-    "course_id": "75",
-    "progress": 60,
-    "completed": false,
-    "enrolledAt": "2025-03-03T10:00:00Z",
-    "payment_status": true
-  },
-  {
-    "enrollmentId": "8",
-    "user_id": "8",
-    "course_id": "76",
-    "progress": 80,
-    "completed": false,
-    "enrolledAt": "2025-03-04T10:00:00Z",
-    "payment_status": true
-  },
-  {
-    "enrollmentId": "9",
-    "user_id": "9",
-    "course_id": "77",
-    "progress": 100,
-    "completed": true,
-    "enrolledAt": "2025-03-05T10:00:00Z",
-    "payment_status": true
-  },
+
   {
     "enrollmentId": "10",
     "user_id": "10",
@@ -133,32 +107,5 @@
     "completed": false,
     "enrolledAt": "2025-03-02T10:00:00Z",
     "payment_status": false
-  },
-  {
-    "enrollmentId": "16",
-    "user_id": "16",
-    "course_id": "75",
-    "progress": 60,
-    "completed": false,
-    "enrolledAt": "2025-03-03T10:00:00Z",
-    "payment_status": true
-  },
-  {
-    "enrollmentId": "17",
-    "user_id": "17",
-    "course_id": "76",
-    "progress": 80,
-    "completed": false,
-    "enrolledAt": "2025-03-04T10:00:00Z",
-    "payment_status": true
-  },
-  {
-    "enrollmentId": "18",
-    "user_id": "18",
-    "course_id": "77",
-    "progress": 100,
-    "completed": true,
-    "enrolledAt": "2025-03-05T10:00:00Z",
-    "payment_status": true
   }
 ]
