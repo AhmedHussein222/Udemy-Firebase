@@ -59,11 +59,11 @@ async function uploadUsers() {
   const users = usersData.collection.Users;
 
   try {
-    for (const userId in users) {
-      if (users.hasOwnProperty(userId)) {
-        const user = users[userId];
-        await usersCollection.doc(userId).set(user);
-        console.log(`Uploaded user: ${userId}`);
+    for (const user_id in users) {
+      if (users.hasOwnProperty(user_id)) {
+        const user = users[user_id];
+        await usersCollection.doc(user_id).set(user);
+        console.log(`Uploaded user: ${user_id}`);
       }
     }
     console.log("All Users Uploaded ✅");
@@ -73,7 +73,7 @@ async function uploadUsers() {
 }
 
 // Call the function to upload users
-// uploadUsers();
+// uploadUsers();  
 
 // 4. رفع التصنيفات (Upload Categories)
 async function uploadCategories() {
@@ -303,4 +303,4 @@ async function uploadLessons() {
 }
 
 // Call the function to upload lessons
-uploadLessons();
+// uploadLessons();
